@@ -1,0 +1,14 @@
+source,young_interactions,aged_interactions,change
+Tanycyte,57,73,16
+Glutamatergic_Neuron,82,97,15
+COP,48,62,14
+MOL,29,40,11
+OPC,71,82,11
+SMC,77,87,10
+Astrocyte,47,55,8
+GABAergic_Neuron,77,84,7
+VLMC,120,127,7
+Ependymal,61,65,4
+Endothelial,66,68,2
+MFOL,43,41,-2
+Pericyte,75,73,-2

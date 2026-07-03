@@ -1,0 +1,82 @@
+# =============================================================================
+# Repository-wide ignore rules for single-cell / spatial transcriptomics work
+# Keep code, documentation, compact tables and publication figures in Git.
+# Keep raw data, matrices, serialized analysis objects and local toolchains out.
+# =============================================================================
+
+# IDE / OS / temporary files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+__pycache__/
+*.py[cod]
+*.tmp
+*.temp
+*.bak
+*.swp
+*.log
+
+# Credentials and local environments
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+renv/library/
+renv/staging/
+
+# Raw sequencing and large expression formats
+*.h5ad
+*.h5seurat
+*.loom
+*.h5
+*.hdf5
+*.rds
+*.rda
+*.RData
+*.mtx
+*.mtx.gz
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bam
+*.bai
+*.cram
+*.tar
+*.tar.gz
+*.tgz
+*.zip
+*.7z
+*.rar
+
+# Downloaded project data and generated intermediate objects
+GSE206861/data/
+Jin2025_AgingMouseBrain/data/
+GSE206861/GSE206861_RAW.tar
+GSE206861/GenomeInfoDbData_*.tar.gz
+Jin2025_AgingMouseBrain/Zeng-Aging-Mouse-10Xv3-raw.h5ad
+
+# Vendored copies of upstream projects; install from their official repositories
+GSE206861/monocle3-master/
+Jin2025_AgingMouseBrain/sqjin-CellChat-*/
+
+# Large installers / downloaded binaries
+*.exe
+*.msi
+*.dll
+*.o
+
+# Keep compact result tables and figures, but not serialized model objects
+GSE206861/results/**/*.rds
+Jin2025_AgingMouseBrain/results/**/*.rds
+
+# Generated package/enrichment logs
+Jin2025_AgingMouseBrain/results/enrichment/**/*.log
+

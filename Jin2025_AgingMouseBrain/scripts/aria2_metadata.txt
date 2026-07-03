@@ -1,0 +1,42 @@
+# aria2c 下载列表 - Metadata 文件
+# 每个URL后面跟 dir 和 out 指定保存位置
+
+https://allen-brain-cell-atlas.s3.us-west-2.amazonaws.com/metadata/Zeng-Aging-Mouse-10Xv3/20250131/cell_metadata.csv
+  dir=d:/vscode/Jin2025_AgingMouseBrain/data/single_cell/metadata
+  out=cell_metadata.csv
+
+https://allen-brain-cell-atlas.s3.us-west-2.amazonaws.com/metadata/Zeng-Aging-Mouse-10Xv3/20250131/cell_annotation_colors.csv
+  dir=d:/vscode/Jin2025_AgingMouseBrain/data/single_cell/metadata
+  out=cell_annotation_colors.csv
+
+https://allen-brain-cell-atlas.s3.us-west-2.amazonaws.com/metadata/Zeng-Aging-Mouse-10Xv3/20250131/cell_cluster_annotations.csv
+  dir=d:/vscode/Jin2025_AgingMouseBrain/data/single_cell/metadata
+  out=cell_cluster_annotations.csv
+
+https://allen-brain-cell-atlas.s3.us-west-2.amazonaws.com/metadata/Zeng-Aging-Mouse-WMB-taxonomy/20241130/cell_cluster_mapping_annotations.csv
+  dir=d:/vscode/Jin2025_AgingMouseBrain/data/single_cell/taxonomy
+  out=cell_cluster_mapping_annotations.csv
+
+https://allen-brain-cell-atlas.s3.us-west-2.amazonaws.com/metadata/Zeng-Aging-Mouse-WMB-taxonomy/20241130/cell_cross_mapping_annotations.csv
+  dir=d:/vscode/Jin2025_AgingMouseBrain/data/single_cell/taxonomy
+  out=cell_cross_mapping_annotations.csv
+
+https://allen-brain-cell-atlas.s3.us-west-2.amazonaws.com/metadata/Zeng-Aging-Mouse-WMB-taxonomy/20241130/cluster_mapping.csv
+  dir=d:/vscode/Jin2025_AgingMouseBrain/data/single_cell/taxonomy
+  out=cluster_mapping.csv
+
+https://allen-brain-cell-atlas.s3.us-west-2.amazonaws.com/metadata/Zeng-Aging-Mouse-WMB-taxonomy/20241130/cluster_mapping_pivot.csv
+  dir=d:/vscode/Jin2025_AgingMouseBrain/data/single_cell/taxonomy
+  out=cluster_mapping_pivot.csv
+
+https://allen-brain-cell-atlas.s3.us-west-2.amazonaws.com/metadata/MERFISH-C57BL6J-638850/20241115/cell_metadata.csv
+  dir=d:/vscode/Jin2025_AgingMouseBrain/data/spatial/MERFISH_638850/metadata
+  out=cell_metadata.csv
+
+https://allen-brain-cell-atlas.s3.us-west-2.amazonaws.com/metadata/MERFISH-C57BL6J-638850-CCF/20231215/ccf_coordinates.csv
+  dir=d:/vscode/Jin2025_AgingMouseBrain/data/spatial/MERFISH_638850/metadata
+  out=ccf_coordinates.csv
+
+https://allen-brain-cell-atlas.s3.us-west-2.amazonaws.com/metadata/MERFISH-C57BL6J-638850/20241115/gene.csv
+  dir=d:/vscode/Jin2025_AgingMouseBrain/data/spatial/MERFISH_638850/metadata
+  out=gene.csv

@@ -1,0 +1,133 @@
+# =============================================================================
+# Jin et al. 2025 Nature - 衰老小鼠全脑数据直接下载链接
+# =============================================================================
+# 所有文件来自 Allen Brain Cell Atlas AWS S3 (us-west-2)
+# 建议使用: aria2c, IDM, 迅雷, 或带代理的浏览器下载
+# 项目目录: d:/vscode/Jin2025_AgingMouseBrain/data/
+# =============================================================================
+
+# ==============================================================================
+# 第一部分: Metadata (必需, 共约 1.6 GB)
+# ==============================================================================
+
+# --- 单细胞转录组 metadata (Zeng-Aging-Mouse-10Xv3 v20250131) ---
+
+# 细胞元数据 (400 MB) - 包含细胞聚类、脑区、年龄组等注释信息
+https://allen-brain-cell-atlas.s3.us-west-2.amazonaws.com/metadata/Zeng-Aging-Mouse-10Xv3/20250131/cell_metadata.csv
+out=single_cell/metadata/cell_metadata.csv
+
+# 细胞注释颜色表 (73 MB)
+https://allen-brain-cell-atlas.s3.us-west-2.amazonaws.com/metadata/Zeng-Aging-Mouse-10Xv3/20250131/cell_annotation_colors.csv
+out=single_cell/metadata/cell_annotation_colors.csv
+
+# 细胞聚类注释 (153 MB)
+https://allen-brain-cell-atlas.s3.us-west-2.amazonaws.com/metadata/Zeng-Aging-Mouse-10Xv3/20250131/cell_cluster_annotations.csv
+out=single_cell/metadata/cell_cluster_annotations.csv
+
+# 聚类信息 (170 KB)
+https://allen-brain-cell-atlas.s3.us-west-2.amazonaws.com/metadata/Zeng-Aging-Mouse-10Xv3/20250131/cluster.csv
+out=single_cell/metadata/cluster.csv
+
+# 供体信息 (9 KB)
+https://allen-brain-cell-atlas.s3.us-west-2.amazonaws.com/metadata/Zeng-Aging-Mouse-10Xv3/20250131/donor.csv
+out=single_cell/metadata/donor.csv
+
+# 文库信息 (36 KB)
+https://allen-brain-cell-atlas.s3.us-west-2.amazonaws.com/metadata/Zeng-Aging-Mouse-10Xv3/20250131/library.csv
+out=single_cell/metadata/library.csv
+
+# 值集合 (3 KB)
+https://allen-brain-cell-atlas.s3.us-west-2.amazonaws.com/metadata/Zeng-Aging-Mouse-10Xv3/20250131/value_sets.csv
+out=single_cell/metadata/value_sets.csv
+
+# --- 单细胞 Taxonomy metadata (WMB-taxonomy v20241130) ---
+
+# 年龄差异基因 (1.1 MB) ⭐ 关键文件: 2,449个年龄相关差异基因
+https://allen-brain-cell-atlas.s3.us-west-2.amazonaws.com/metadata/Zeng-Aging-Mouse-WMB-taxonomy/20241130/aging_degenes.csv
+out=single_cell/taxonomy/aging_degenes.csv
+
+# 细胞聚类映射注释
+https://allen-brain-cell-atlas.s3.us-west-2.amazonaws.com/metadata/Zeng-Aging-Mouse-WMB-taxonomy/20241130/cell_cluster_mapping_annotations.csv
+out=single_cell/taxonomy/cell_cluster_mapping_annotations.csv
+
+# 细胞交叉映射注释
+https://allen-brain-cell-atlas.s3.us-west-2.amazonaws.com/metadata/Zeng-Aging-Mouse-WMB-taxonomy/20241130/cell_cross_mapping_annotations.csv
+out=single_cell/taxonomy/cell_cross_mapping_annotations.csv
+
+# 聚类映射表
+https://allen-brain-cell-atlas.s3.us-west-2.amazonaws.com/metadata/Zeng-Aging-Mouse-WMB-taxonomy/20241130/cluster_mapping.csv
+out=single_cell/taxonomy/cluster_mapping.csv
+
+# 聚类映射透视表
+https://allen-brain-cell-atlas.s3.us-west-2.amazonaws.com/metadata/Zeng-Aging-Mouse-WMB-taxonomy/20241130/cluster_mapping_pivot.csv
+out=single_cell/taxonomy/cluster_mapping_pivot.csv
+
+# --- MERFISH 空间转录组 metadata ---
+
+# MERFISH 细胞元数据 (677 MB)
+https://allen-brain-cell-atlas.s3.us-west-2.amazonaws.com/metadata/MERFISH-C57BL6J-638850/20241115/cell_metadata.csv
+out=spatial/MERFISH_638850/metadata/cell_metadata.csv
+
+# CCFv3 空间坐标 (282 MB) ⭐ 用于空间可视化和下丘脑定位
+https://allen-brain-cell-atlas.s3.us-west-2.amazonaws.com/metadata/MERFISH-C57BL6J-638850-CCF/20231215/ccf_coordinates.csv
+out=spatial/MERFISH_638850/metadata/ccf_coordinates.csv
+
+# MERFISH 基因列表 (48 KB)
+https://allen-brain-cell-atlas.s3.us-west-2.amazonaws.com/metadata/MERFISH-C57BL6J-638850/20241115/gene.csv
+out=spatial/MERFISH_638850/metadata/gene.csv
+
+# ==============================================================================
+# 第二部分: 表达矩阵 (大文件, 共约 80 GB)
+# ==============================================================================
+
+# --- 单细胞转录组表达矩阵 (推荐下载 log2 版本) ---
+
+# Log2标准化表达矩阵 (~15 GB) ⭐ 推荐下载
+https://allen-brain-cell-atlas.s3.us-west-2.amazonaws.com/expression_matrices/Zeng-Aging-Mouse-10Xv3/20241130/Zeng-Aging-Mouse-10Xv3-log2.h5ad
+out=single_cell/expression/Zeng-Aging-Mouse-10Xv3-log2.h5ad
+
+# Raw counts 表达矩阵 (~16 GB)
+https://allen-brain-cell-atlas.s3.us-west-2.amazonaws.com/expression_matrices/Zeng-Aging-Mouse-10Xv3/20241130/Zeng-Aging-Mouse-10Xv3-raw.h5ad
+out=single_cell/expression/Zeng-Aging-Mouse-10Xv3-raw.h5ad
+
+# --- MERFISH 空间转录组表达矩阵 ---
+
+# Imputed 基因表达矩阵 (~47 GB) ⚠️ 8,460个基因 × 4,000,000细胞
+https://allen-brain-cell-atlas.s3.us-west-2.amazonaws.com/expression_matrices/MERFISH-C57BL6J-638850-imputed/20240831/C57BL6J-638850-imputed-log2.h5ad
+out=spatial/MERFISH_638850/expression/C57BL6J-638850-imputed-log2.h5ad
+
+# --- MERFISH 各切片表达矩阵 (可选, 共约 20 GB) ---
+# 切片01-15 (07缺失), 每个约 0.5-1.5 GB
+# https://allen-brain-cell-atlas.s3.us-west-2.amazonaws.com/expression_matrices/MERFISH-C57BL6J-638850-sections/20230630/C57BL6J-638850.{NN}-log2.h5ad
+# (将 {NN} 替换为 01,02,03,04,05,06,08,09,10,11,12,13,14,15)
+
+# ==============================================================================
+# 推荐下载策略 (按优先级)
+# ==============================================================================
+
+# 方案A: aria2c 多线程下载 (推荐, 速度最快)
+# 安装: choco install aria2 (需要管理员权限) 或从 https://github.com/aria2/aria2/releases 下载
+#
+# Metadata (小文件, 约1.6GB):
+aria2c -x 16 -s 16 -d "d:/vscode/Jin2025_AgingMouseBrain/data" \
+  -i download_urls_aria2_metadata.txt
+#
+# 大表达矩阵 (log2, 约15GB):
+aria2c -x 16 -s 16 -d "d:/vscode/Jin2025_AgingMouseBrain/data/single_cell/expression" \
+  "https://allen-brain-cell-atlas.s3.us-west-2.amazonaws.com/expression_matrices/Zeng-Aging-Mouse-10Xv3/20241130/Zeng-Aging-Mouse-10Xv3-log2.h5ad"
+
+# 方案B: 使用 Python abc_atlas_access 包 (官方推荐)
+# pip install "abc_atlas_access[notebooks] @ git+https://github.com/alleninstitute/abc_atlas_access.git"
+# python scripts/download_with_abc_atlas.py
+
+# 方案C: 使用浏览器/IDM下载
+# 直接将上面的链接粘贴到浏览器或IDM中下载
+
+# 方案D: 使用R下载
+# Rscript scripts/01_download_metadata.R
+
+# ==============================================================================
+# 如果你有代理/VPN, 可以设置:
+# export https_proxy=http://127.0.0.1:7890  (根据实际代理端口修改)
+# export http_proxy=http://127.0.0.1:7890
+# ==============================================================================

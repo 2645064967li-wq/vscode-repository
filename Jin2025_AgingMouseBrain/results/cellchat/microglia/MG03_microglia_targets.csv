@@ -1,0 +1,14 @@
+target,young_interactions,aged_interactions,change
+VLMC,22,33,11
+GABAergic_Neuron,14,23,9
+Glutamatergic_Neuron,19,28,9
+Endothelial,17,24,7
+Ependymal,20,25,5
+SMC,18,23,5
+Astrocyte,19,23,4
+MOL,12,16,4
+COP,20,18,-2
+OPC,21,23,2
+Tanycyte,20,22,2
+MFOL,14,15,1
+Pericyte,18,19,1
