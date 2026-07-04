@@ -69,3 +69,11 @@ When switching assistants, use:
 > results, and continue from the recommended next steps without rerunning
 > completed heavy preprocessing unless necessary.
 
+
+## Complete hypothalamus CellChat update (2026-07-04)
+
+A replacement CellChat analysis was completed from the corrected 82,431-cell HY object. Four sex-stratified, cell-type-balanced objects were generated under `results/cellchat_complete/`. Each contains 9,218 cells and 11 common cell types, using CellChat 1.6.1, CellChatDB.mouse, triMean, 100 bootstraps and population.size=FALSE.
+
+The primary Tanycyte→Microglia result is reduced GDF11–TGFBR1/ACVR2A signaling in both sexes. TGFB2–TGFBR1/TGFBR2 decreases in females but is stable in males. Young Microglia have insufficient donor replication for formal donor-level inference, so CellChat findings remain exploratory.
+
+Read `results/cellchat_complete/ANALYSIS_REPORT.md` before continuing. Do not use the older `results/cellchat/cellchat_young.rds` and `cellchat_aged.rds` for final interpretation.

@@ -1,0 +1,38 @@
+{
+  "n_hypothalamus": 82431,
+  "n_genes": 32285,
+  "n_neurons": 36136,
+  "cell_type_counts": {
+    "Astrocyte": 23214,
+    "GABAergic_Neuron": 18270,
+    "Glutamatergic_Neuron": 17866,
+    "Unclassified": 14665,
+    "Microglia": 3057,
+    "Endothelial": 2850,
+    "Tanycyte": 1984,
+    "Ependymal": 481,
+    "T_cell": 22,
+    "Dopaminergic_Neuron": 13,
+    "Dendritic_Cell": 9
+  },
+  "mixing": [
+    {
+      "cell_type": "GABAergic_Neuron",
+      "n_cells": 18270,
+      "mean": 0.004761904761904762,
+      "median": 0.0,
+      "q90": 0.0,
+      "fraction_gt_0.5": 0.0030651340996168583,
+      "umap_silhouette": 0.36308568716049194
+    },
+    {
+      "cell_type": "Glutamatergic_Neuron",
+      "n_cells": 17866,
+      "mean": 0.004671816112541513,
+      "median": 0.0,
+      "q90": 0.0,
+      "fraction_gt_0.5": 0.0027426396507332362,
+      "umap_silhouette": 0.36308568716049194
+    }
+  ]
+}
