@@ -1,0 +1,8 @@
+check,value
+raw_counts_integer,True
+cells,82431
+genes,32285
+cells_above_99pct_counts,825
+cells_above_99pct_genes,823
+cells_mt_gt_5pct,14963
+cells_mt_gt_10pct,1501

@@ -6,11 +6,19 @@
     "Astrocyte": 23214,
     "GABAergic_Neuron": 18270,
     "Glutamatergic_Neuron": 17866,
-    "Unclassified": 14665,
+    "MOL": 6598,
+    "OPC": 5436,
     "Microglia": 3057,
     "Endothelial": 2850,
     "Tanycyte": 1984,
+    "Pericyte": 1140,
+    "SMC": 715,
     "Ependymal": 481,
+    "VLMC": 276,
+    "COP": 215,
+    "MFOL": 142,
+    "BAM": 120,
+    "NFOL": 23,
     "T_cell": 22,
     "Dopaminergic_Neuron": 13,
     "Dendritic_Cell": 9
@@ -34,5 +42,6 @@
       "fraction_gt_0.5": 0.0027426396507332362,
       "umap_silhouette": 0.36308568716049194
     }
-  ]
+  ],
+  "metadata_patch": "corrected coarse labels without rewriting X"
 }

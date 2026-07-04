@@ -1,0 +1,5 @@
+age_group,sex_group,n_cells,median_counts,median_genes,median_pct_mt
+Adult(2m),Female,13519,20059.0,5722.0,2.597863505696135
+Adult(2m),Male,9709,20270.0,5833.0,2.88912964969303
+Aged(18m),Female,19881,9577.0,3582.0,3.4452296819787986
+Aged(18m),Male,39322,14237.5,4845.5,2.8593773300029826

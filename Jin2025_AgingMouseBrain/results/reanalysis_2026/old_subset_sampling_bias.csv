@@ -1,0 +1,6 @@
+population_sampling,enrichment_population,False,True
+Snap25+ neurons,"RFP-positive, Calcein-positive, Hoechst-positive",3630,0
+Snap25+ neurons,"RFP-positive, DAPI-negative",0,19579
+unbiased,"Calcein-positive, Hoechst-positive",0,33117
+unbiased,Hoechst-positive,4726,0
+unbiased,No FACS,21379,0
