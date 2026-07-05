@@ -1,0 +1,62 @@
+{
+  "stratified_random": {
+    "balanced_accuracy": 0.7747036600991977,
+    "macro_f1": 0.7713071166071895,
+    "confusion": [
+      [
+        62,
+        3,
+        3
+      ],
+      [
+        5,
+        15,
+        9
+      ],
+      [
+        4,
+        11,
+        128
+      ]
+    ],
+    "labels": [
+      "ARC_ARH",
+      "DMH",
+      "PVN_PVH"
+    ]
+  },
+  "leave_one_section_out": {
+    "balanced_accuracy": 0.7881282004000058,
+    "macro_f1": 0.7778461720789541,
+    "confusion": [
+      [
+        61,
+        3,
+        4
+      ],
+      [
+        4,
+        17,
+        8
+      ],
+      [
+        3,
+        14,
+        126
+      ]
+    ],
+    "labels": [
+      "ARC_ARH",
+      "DMH",
+      "PVN_PVH"
+    ]
+  },
+  "n_common_genes": 500,
+  "n_high_confidence": 2760,
+  "prediction_counts": {
+    "PVN_PVH": 2341,
+    "Ambiguous": 297,
+    "ARC_ARH": 241,
+    "DMH": 178
+  }
+}

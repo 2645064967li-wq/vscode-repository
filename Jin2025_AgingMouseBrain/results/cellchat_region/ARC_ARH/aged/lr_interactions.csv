@@ -1,0 +1,296 @@
+source,target,ligand,receptor,prob,pval,interaction_name,interaction_name_2,pathway_name,annotation,evidence
+Microglia,Microglia,Tgfb1,TGFbR1_R2,0.196065169479415,0,TGFB1_TGFBR1_TGFBR2,Tgfb1 - (Tgfbr1+Tgfbr2),TGFb,Secreted Signaling,KEGG: mmu04350
+Microglia,Microglia,Tgfb1,ACVR1B_TGFbR2,0.0645272781660704,0,TGFB1_ACVR1B_TGFBR2,Tgfb1  - (Acvr1b+Tgfbr2),TGFb,Secreted Signaling,PMID: 27449815
+Microglia,Microglia,Tgfb1,ACVR1_TGFbR,0.101795704994379,0,TGFB1_ACVR1_TGFBR1,Tgfb1  - (Acvr1+Tgfbr1),TGFb,Secreted Signaling,PMID: 29376829
+Glutamatergic_Neuron,GABAergic_Neuron,Wnt4,FZD3_LRP6,0.00368521917070003,0,WNT4_FZD3_LRP6,Wnt4  - (Fzd3+Lrp6),WNT,Secreted Signaling,KEGG: mmu04310; PMID: 23209147
+Glutamatergic_Neuron,Glutamatergic_Neuron,Wnt4,FZD3_LRP6,0.00312713161147307,0.02,WNT4_FZD3_LRP6,Wnt4  - (Fzd3+Lrp6),WNT,Secreted Signaling,KEGG: mmu04310; PMID: 23209147
+Glutamatergic_Neuron,GABAergic_Neuron,Wnt4,FZD5_LRP6,0.000972066373976317,0,WNT4_FZD5_LRP6,Wnt4  - (Fzd5+Lrp6),WNT,Secreted Signaling,KEGG: mmu04310; PMID: 23209147
+Glutamatergic_Neuron,Glutamatergic_Neuron,Wnt4,FZD5_LRP6,0.000937847120939749,0,WNT4_FZD5_LRP6,Wnt4  - (Fzd5+Lrp6),WNT,Secreted Signaling,KEGG: mmu04310; PMID: 23209147
+Glutamatergic_Neuron,GABAergic_Neuron,Wnt5a,Fzd3,0.0158575204921475,0,WNT5A_FZD3,Wnt5a  - Fzd3,ncWNT,Secreted Signaling,KEGG: mmu04310
+Glutamatergic_Neuron,Glutamatergic_Neuron,Wnt5a,Fzd3,0.0140131336027829,0,WNT5A_FZD3,Wnt5a  - Fzd3,ncWNT,Secreted Signaling,KEGG: mmu04310
+Glutamatergic_Neuron,GABAergic_Neuron,Wnt5b,Fzd3,0.003352232033289,0,WNT5B_FZD3,Wnt5b  - Fzd3,ncWNT,Secreted Signaling,KEGG: mmu04310
+Glutamatergic_Neuron,Glutamatergic_Neuron,Wnt5b,Fzd3,0.00295796255667372,0,WNT5B_FZD3,Wnt5b  - Fzd3,ncWNT,Secreted Signaling,KEGG: mmu04310
+GABAergic_Neuron,Glutamatergic_Neuron,Hbegf,Erbb4,0.00727802733658008,0.01,HBEGF_ERBB4,Hbegf  - Erbb4,EGF,Secreted Signaling,KEGG: mmu04012
+Glutamatergic_Neuron,Glutamatergic_Neuron,Hbegf,Erbb4,0.00954960744263079,0,HBEGF_ERBB4,Hbegf  - Erbb4,EGF,Secreted Signaling,KEGG: mmu04012
+GABAergic_Neuron,Glutamatergic_Neuron,Nrg1,Erbb4,0.180889700357427,0,NRG1_ERBB4,Nrg1  - Erbb4,NRG,Secreted Signaling,KEGG: mmu04012
+GABAergic_Neuron,Glutamatergic_Neuron,Nrg2,Erbb4,0.0912613431465298,0,NRG2_ERBB4,Nrg2  - Erbb4,NRG,Secreted Signaling,KEGG: mmu04012
+Glutamatergic_Neuron,Glutamatergic_Neuron,Nrg2,Erbb4,0.104644443464633,0,NRG2_ERBB4,Nrg2  - Erbb4,NRG,Secreted Signaling,KEGG: mmu04012
+GABAergic_Neuron,Glutamatergic_Neuron,Nrg3,Erbb4,0.357682753660637,0,NRG3_ERBB4,Nrg3  - Erbb4,NRG,Secreted Signaling,KEGG: mmu04012
+Glutamatergic_Neuron,Glutamatergic_Neuron,Nrg3,Erbb4,0.3549952363383,0,NRG3_ERBB4,Nrg3  - Erbb4,NRG,Secreted Signaling,KEGG: mmu04012
+Glutamatergic_Neuron,Glutamatergic_Neuron,Nrg4,Erbb4,0.00826819984847479,0,NRG4_ERBB4,Nrg4  - Erbb4,NRG,Secreted Signaling,KEGG: mmu04012
+GABAergic_Neuron,GABAergic_Neuron,Fgf1,Fgfr1,0.00869818386004917,0,FGF1_FGFR1,Fgf1  - Fgfr1,FGF,Secreted Signaling,PMC: 4393358
+GABAergic_Neuron,Glutamatergic_Neuron,Fgf1,Fgfr1,0.00977026705198776,0,FGF1_FGFR1,Fgf1  - Fgfr1,FGF,Secreted Signaling,PMC: 4393358
+GABAergic_Neuron,GABAergic_Neuron,Fgf1,Fgfr2,0.0135865730397488,0,FGF1_FGFR2,Fgf1  - Fgfr2,FGF,Secreted Signaling,PMC: 4393358
+GABAergic_Neuron,Glutamatergic_Neuron,Fgf1,Fgfr2,0.0124111057560743,0,FGF1_FGFR2,Fgf1  - Fgfr2,FGF,Secreted Signaling,PMC: 4393358
+Glutamatergic_Neuron,GABAergic_Neuron,Fgf9,Fgfr1,0.00955937893840387,0,FGF9_FGFR1,Fgf9  - Fgfr1,FGF,Secreted Signaling,PMC: 4393358
+Glutamatergic_Neuron,Glutamatergic_Neuron,Fgf9,Fgfr1,0.0107364579691337,0,FGF9_FGFR1,Fgf9  - Fgfr1,FGF,Secreted Signaling,PMC: 4393358
+Glutamatergic_Neuron,GABAergic_Neuron,Fgf9,Fgfr2,0.0149244740110911,0,FGF9_FGFR2,Fgf9  - Fgfr2,FGF,Secreted Signaling,PMC: 4393358
+Glutamatergic_Neuron,Glutamatergic_Neuron,Fgf9,Fgfr2,0.0136348557571498,0,FGF9_FGFR2,Fgf9  - Fgfr2,FGF,Secreted Signaling,PMC: 4393358
+Glutamatergic_Neuron,Microglia,Fgf9,Fgfr2,0.00863983388725432,0,FGF9_FGFR2,Fgf9  - Fgfr2,FGF,Secreted Signaling,PMC: 4393358
+Microglia,Microglia,Ccl4,Ccr5,0.180048853101167,0,CCL4_CCR5,Ccl4  - Ccr5,CCL,Secreted Signaling,KEGG: mmu04060
+Microglia,Microglia,Ccl3,Ccr5,0.165882125883352,0,CCL3_CCR5,Ccl3  - Ccr5,CCL,Secreted Signaling,KEGG: mmu04060
+GABAergic_Neuron,Microglia,Cx3cl1,Cx3cr1,0.203409897197419,0,CX3CL1_CX3CR1,Cx3cl1  - Cx3cr1,CX3C,Secreted Signaling,KEGG: mmu04060
+Glutamatergic_Neuron,Microglia,Cx3cl1,Cx3cr1,0.201554939601254,0,CX3CL1_CX3CR1,Cx3cl1  - Cx3cr1,CX3C,Secreted Signaling,KEGG: mmu04060
+Microglia,GABAergic_Neuron,Osm,LIFR_IL6ST,0.00050141659592336,0,OSM_LIFR_IL6ST,Osm  - (Lifr+Il6st),OSM,Secreted Signaling,KEGG: mmu04060
+Microglia,Glutamatergic_Neuron,Osm,LIFR_IL6ST,0.000463060519694623,0,OSM_LIFR_IL6ST,Osm  - (Lifr+Il6st),OSM,Secreted Signaling,KEGG: mmu04060
+Microglia,Microglia,Osm,LIFR_IL6ST,0.00148955518634566,0,OSM_LIFR_IL6ST,Osm  - (Lifr+Il6st),OSM,Secreted Signaling,KEGG: mmu04060
+GABAergic_Neuron,Microglia,Il34,Csf1r,0.0176880507654523,0,IL34_CSF1R,Il34  - Csf1r,CSF,Secreted Signaling,KEGG: mmu04060
+Glutamatergic_Neuron,Microglia,Il34,Csf1r,0.0142538049546679,0,IL34_CSF1R,Il34  - Csf1r,CSF,Secreted Signaling,KEGG: mmu04060
+Microglia,Microglia,Tnf,Tnfrsf1b,0.0525024824611435,0,TNF_TNFRSF1B,Tnf  - Tnfrsf1b,TNF,Secreted Signaling,KEGG: mmu04060
+GABAergic_Neuron,Glutamatergic_Neuron,Nampt,Insr,0.0232893195182548,0,NAMPT_INSR,Nampt  - Insr,VISFATIN,Secreted Signaling,PMID: 28490838
+GABAergic_Neuron,Microglia,Nampt,ITGA5_ITGB1,0.00719779890718351,0,NAMPT_ITGA5_ITGB1,Nampt  - (Itga5+Itgb1),VISFATIN,Secreted Signaling,PMID: 28490838
+Glutamatergic_Neuron,Microglia,Nampt,ITGA5_ITGB1,0.00660416421919508,0,NAMPT_ITGA5_ITGB1,Nampt  - (Itga5+Itgb1),VISFATIN,Secreted Signaling,PMID: 28490838
+Microglia,Microglia,Nampt,ITGA5_ITGB1,0.000678426577827673,0,NAMPT_ITGA5_ITGB1,Nampt  - (Itga5+Itgb1),VISFATIN,Secreted Signaling,PMID: 28490838
+GABAergic_Neuron,Glutamatergic_Neuron,Pomc,Mc3r,0.000231973986270757,0.01,POMC_MC3R,Pomc  - Mc3r,MELANOCORTIN,Secreted Signaling,KEGG: mmu04080; PMID: 11024027
+Glutamatergic_Neuron,Glutamatergic_Neuron,Pomc,Mc3r,0.00265052574813535,0,POMC_MC3R,Pomc  - Mc3r,MELANOCORTIN,Secreted Signaling,KEGG: mmu04080; PMID: 11024027
+GABAergic_Neuron,GABAergic_Neuron,Npy,Npy1r,0.00128873739782907,0,NPY_NPY1R,Npy  - Npy1r,NPY,Secreted Signaling,KEGG: mmu04080
+GABAergic_Neuron,Glutamatergic_Neuron,Npy,Npy1r,0.0103937976016872,0,NPY_NPY1R,Npy  - Npy1r,NPY,Secreted Signaling,KEGG: mmu04080
+GABAergic_Neuron,GABAergic_Neuron,Npy,Npy2r,0.00375472938719724,0,NPY_NPY2R,Npy  - Npy2r,NPY,Secreted Signaling,KEGG: mmu04080
+GABAergic_Neuron,Glutamatergic_Neuron,Npy,Npy2r,0.00144353404278802,0,NPY_NPY2R,Npy  - Npy2r,NPY,Secreted Signaling,KEGG: mmu04080
+GABAergic_Neuron,GABAergic_Neuron,Npy,Npy5r,0.000668442741443205,0,NPY_NPY5R,Npy  - Npy5r,NPY,Secreted Signaling,KEGG: mmu04080
+GABAergic_Neuron,Glutamatergic_Neuron,Npy,Npy5r,0.003241359731702,0,NPY_NPY5R,Npy  - Npy5r,NPY,Secreted Signaling,KEGG: mmu04080
+GABAergic_Neuron,GABAergic_Neuron,Npy,Gpr83,0.000840187913665414,0,NPY_GPR83,Npy  - Gpr83,NPY,Secreted Signaling,KEGG: mmu04080
+GABAergic_Neuron,GABAergic_Neuron,Npy,Pgr15l,0.000809327850564428,0,NPY_PGR15L,Npy  - Pgr15l,NPY,Secreted Signaling,KEGG: mmu04080
+Glutamatergic_Neuron,GABAergic_Neuron,Pdyn,Oprl1,0.0270841572391731,0,PDYN_OPRL1,Pdyn  - Oprl1,OPIOID,Secreted Signaling,KEGG: mmu04080
+Glutamatergic_Neuron,Glutamatergic_Neuron,Pdyn,Oprl1,0.0257695958321446,0,PDYN_OPRL1,Pdyn  - Oprl1,OPIOID,Secreted Signaling,KEGG: mmu04080
+Glutamatergic_Neuron,GABAergic_Neuron,Pomc,Oprl1,0.0218522666652232,0,POMC_OPRL1,Pomc  - Oprl1,OPIOID,Secreted Signaling,KEGG: mmu04080
+Glutamatergic_Neuron,Glutamatergic_Neuron,Pomc,Oprl1,0.0207862159093546,0,POMC_OPRL1,Pomc  - Oprl1,OPIOID,Secreted Signaling,KEGG: mmu04080
+GABAergic_Neuron,GABAergic_Neuron,Sst,Sstr1,0.00243314838691247,0,SST_SSTR1,Sst  - Sstr1,SOMATOSTATIN,Secreted Signaling,KEGG: mmu04080
+GABAergic_Neuron,Glutamatergic_Neuron,Sst,Sstr1,0.00212320596420042,0,SST_SSTR1,Sst  - Sstr1,SOMATOSTATIN,Secreted Signaling,KEGG: mmu04080
+GABAergic_Neuron,GABAergic_Neuron,Sst,Sstr2,0.00200842608474453,0,SST_SSTR2,Sst  - Sstr2,SOMATOSTATIN,Secreted Signaling,KEGG: mmu04080
+GABAergic_Neuron,Glutamatergic_Neuron,Enho,Gpr19,0.00361981824361909,0,ENHO_GPR19,Enho  - Gpr19,ENHO,Secreted Signaling,PMID: 28476646
+Glutamatergic_Neuron,Glutamatergic_Neuron,Enho,Gpr19,0.00322236021051708,0.03,ENHO_GPR19,Enho  - Gpr19,ENHO,Secreted Signaling,PMID: 28476646
+GABAergic_Neuron,Microglia,Gas6,Mertk,0.0448994910767723,0,GAS6_MERTK,Gas6  - Mertk,GAS,Secreted Signaling,PMID: 27801848
+Glutamatergic_Neuron,Microglia,Gas6,Mertk,0.0509491916817077,0,GAS6_MERTK,Gas6  - Mertk,GAS,Secreted Signaling,PMID: 27801848
+Microglia,Microglia,Gas6,Mertk,0.0398939202281318,0,GAS6_MERTK,Gas6  - Mertk,GAS,Secreted Signaling,PMID: 27801848
+GABAergic_Neuron,Glutamatergic_Neuron,Gas6,Tyro3,0.000667786399009965,0,GAS6_TYRO3,Gas6  - Tyro3,GAS,Secreted Signaling,PMID: 27801848
+Glutamatergic_Neuron,Glutamatergic_Neuron,Gas6,Tyro3,0.000762521142780058,0,GAS6_TYRO3,Gas6  - Tyro3,GAS,Secreted Signaling,PMID: 27801848
+Microglia,Glutamatergic_Neuron,Gas6,Tyro3,0.00059029132311245,0,GAS6_TYRO3,Gas6  - Tyro3,GAS,Secreted Signaling,PMID: 27801848
+Glutamatergic_Neuron,GABAergic_Neuron,Grn,Sort1,0.00208566980749398,0.02,GRN_SORT1,Grn  - Sort1,GRN,Secreted Signaling,PMID: 29555433
+Microglia,GABAergic_Neuron,Grn,Sort1,0.0549150051226266,0,GRN_SORT1,Grn  - Sort1,GRN,Secreted Signaling,PMID: 29555433
+Microglia,Glutamatergic_Neuron,Grn,Sort1,0.0520893806092081,0,GRN_SORT1,Grn  - Sort1,GRN,Secreted Signaling,PMID: 29555433
+GABAergic_Neuron,Microglia,Grn,Sort1,0.00327897355988821,0,GRN_SORT1,Grn  - Sort1,GRN,Secreted Signaling,PMID: 29555433
+Glutamatergic_Neuron,Microglia,Grn,Sort1,0.00386531922075906,0,GRN_SORT1,Grn  - Sort1,GRN,Secreted Signaling,PMID: 29555433
+Microglia,Microglia,Grn,Sort1,0.0973739999635644,0,GRN_SORT1,Grn  - Sort1,GRN,Secreted Signaling,PMID: 29555433
+Microglia,Microglia,Lgals9,Ptprc,0.0324486095232841,0,LGALS9_CD45,Lgals9  - Cd45,GALECTIN,Secreted Signaling,PMID: 30120235
+Microglia,Microglia,Lgals9,Ighm,0.0183805070441934,0,LGALS9_IGHM,Lgals9  - Ighm,GALECTIN,Secreted Signaling,PMID: 30120235
+GABAergic_Neuron,Glutamatergic_Neuron,Pros1,Tyro3,0.000176252653767555,0,PROS1_TYRO3,Pros1  - Tyro3,PROS,Secreted Signaling,PMID: 30501104
+Glutamatergic_Neuron,Glutamatergic_Neuron,Pros1,Tyro3,0.000159449529667044,0,PROS1_TYRO3,Pros1  - Tyro3,PROS,Secreted Signaling,PMID: 30501104
+Microglia,Glutamatergic_Neuron,Pros1,Tyro3,0.00381397814598339,0,PROS1_TYRO3,Pros1  - Tyro3,PROS,Secreted Signaling,PMID: 30501104
+Microglia,Microglia,Lgals9,Havcr2,0.00523763375364858,0,LGALS9_HAVCR2,Lgals9  - Havcr2,GALECTIN,Secreted Signaling,PMID: 27192565
+Glutamatergic_Neuron,GABAergic_Neuron,Lama1,ITGA3_ITGB1,0.00074719622906767,0,LAMA1_ITGA3_ITGB1,Lama1  - (Itga3+Itgb1),LAMININ,ECM-Receptor,KEGG: mmu04512
+Glutamatergic_Neuron,Glutamatergic_Neuron,Lama1,ITGA3_ITGB1,0.000711126763686879,0.01,LAMA1_ITGA3_ITGB1,Lama1  - (Itga3+Itgb1),LAMININ,ECM-Receptor,KEGG: mmu04512
+Glutamatergic_Neuron,GABAergic_Neuron,Lamb3,ITGA3_ITGB1,0.00200203668682528,0,LAMB3_ITGA3_ITGB1,Lamb3  - (Itga3+Itgb1),LAMININ,ECM-Receptor,KEGG: mmu04512
+Glutamatergic_Neuron,Glutamatergic_Neuron,Lamb3,ITGA3_ITGB1,0.00190550771668836,0,LAMB3_ITGA3_ITGB1,Lamb3  - (Itga3+Itgb1),LAMININ,ECM-Receptor,KEGG: mmu04512
+Glutamatergic_Neuron,GABAergic_Neuron,Lamc1,ITGA3_ITGB1,0.0035804494849524,0,LAMC1_ITGA3_ITGB1,Lamc1  - (Itga3+Itgb1),LAMININ,ECM-Receptor,KEGG: mmu04512
+Glutamatergic_Neuron,GABAergic_Neuron,Thbs3,ITGA3_ITGB1,0.0024876934010703,0,THBS3_ITGA3_ITGB1,Thbs3  - (Itga3+Itgb1),THBS,ECM-Receptor,KEGG: mmu04512
+Glutamatergic_Neuron,Glutamatergic_Neuron,Thbs3,ITGA3_ITGB1,0.00236780386137527,0.01,THBS3_ITGA3_ITGB1,Thbs3  - (Itga3+Itgb1),THBS,ECM-Receptor,KEGG: mmu04512
+Glutamatergic_Neuron,GABAergic_Neuron,Col2a1,ITGA3_ITGB1,0.000869983106677111,0,COL2A1_ITGA3_ITGB1,Col2a1  - (Itga3+Itgb1),COLLAGEN,ECM-Receptor,KEGG: mmu04512
+Glutamatergic_Neuron,Glutamatergic_Neuron,Col2a1,ITGA3_ITGB1,0.000827991251618665,0,COL2A1_ITGA3_ITGB1,Col2a1  - (Itga3+Itgb1),COLLAGEN,ECM-Receptor,KEGG: mmu04512
+Glutamatergic_Neuron,GABAergic_Neuron,Col4a2,ITGA3_ITGB1,0.00442834748064832,0,COL4A2_ITGA3_ITGB1,Col4a2  - (Itga3+Itgb1),COLLAGEN,ECM-Receptor,KEGG: mmu04512
+Glutamatergic_Neuron,Glutamatergic_Neuron,Col4a2,ITGA3_ITGB1,0.00421532712229564,0.04,COL4A2_ITGA3_ITGB1,Col4a2  - (Itga3+Itgb1),COLLAGEN,ECM-Receptor,KEGG: mmu04512
+Glutamatergic_Neuron,Glutamatergic_Neuron,Lama1,ITGA6_ITGB1,0.000680393249205061,0,LAMA1_ITGA6_ITGB1,Lama1  - (Itga6+Itgb1),LAMININ,ECM-Receptor,KEGG: mmu04512
+Glutamatergic_Neuron,Microglia,Lama1,ITGA6_ITGB1,0.00372111072738962,0,LAMA1_ITGA6_ITGB1,Lama1  - (Itga6+Itgb1),LAMININ,ECM-Receptor,KEGG: mmu04512
+Glutamatergic_Neuron,Glutamatergic_Neuron,Lamb3,ITGA6_ITGB1,0.001823249563307,0,LAMB3_ITGA6_ITGB1,Lamb3  - (Itga6+Itgb1),LAMININ,ECM-Receptor,KEGG: mmu04512
+Glutamatergic_Neuron,Microglia,Lamb3,ITGA6_ITGB1,0.00992075450224739,0,LAMB3_ITGA6_ITGB1,Lamb3  - (Itga6+Itgb1),LAMININ,ECM-Receptor,KEGG: mmu04512
+GABAergic_Neuron,Glutamatergic_Neuron,Lamc1,ITGA6_ITGB1,0.00263427643435352,0,LAMC1_ITGA6_ITGB1,Lamc1  - (Itga6+Itgb1),LAMININ,ECM-Receptor,KEGG: mmu04512
+Glutamatergic_Neuron,Glutamatergic_Neuron,Lamc1,ITGA6_ITGB1,0.00326116656595038,0,LAMC1_ITGA6_ITGB1,Lamc1  - (Itga6+Itgb1),LAMININ,ECM-Receptor,KEGG: mmu04512
+GABAergic_Neuron,Microglia,Lamc1,ITGA6_ITGB1,0.0142822153843358,0,LAMC1_ITGA6_ITGB1,Lamc1  - (Itga6+Itgb1),LAMININ,ECM-Receptor,KEGG: mmu04512
+Glutamatergic_Neuron,Microglia,Lamc1,ITGA6_ITGB1,0.0176320123705204,0,LAMC1_ITGA6_ITGB1,Lamc1  - (Itga6+Itgb1),LAMININ,ECM-Receptor,KEGG: mmu04512
+GABAergic_Neuron,Microglia,Tnxb,ITGA9_ITGB1,0.00370720728833573,0,TNXB_ITGA9_ITGB1,Tnxb  - (Itga9+Itgb1),TENASCIN,ECM-Receptor,KEGG: mmu04512
+Glutamatergic_Neuron,Microglia,Tnxb,ITGA9_ITGB1,0.0146838168020912,0,TNXB_ITGA9_ITGB1,Tnxb  - (Itga9+Itgb1),TENASCIN,ECM-Receptor,KEGG: mmu04512
+Glutamatergic_Neuron,Microglia,Col2a1,ITGA9_ITGB1,0.00398023606400278,0,COL2A1_ITGA9_ITGB1,Col2a1  - (Itga9+Itgb1),COLLAGEN,ECM-Receptor,KEGG: mmu04512
+GABAergic_Neuron,Microglia,Col4a2,ITGA9_ITGB1,0.0165414234236402,0,COL4A2_ITGA9_ITGB1,Col4a2  - (Itga9+Itgb1),COLLAGEN,ECM-Receptor,KEGG: mmu04512
+Glutamatergic_Neuron,Microglia,Col4a2,ITGA9_ITGB1,0.0200052949955299,0,COL4A2_ITGA9_ITGB1,Col4a2  - (Itga9+Itgb1),COLLAGEN,ECM-Receptor,KEGG: mmu04512
+Glutamatergic_Neuron,Microglia,Lama1,ITGA9_ITGB1,0.00341997974043666,0,LAMA1_ITGA9_ITGB1,Lama1  - (Itga9+Itgb1),LAMININ,ECM-Receptor,KEGG: mmu04512
+Glutamatergic_Neuron,Microglia,Lamb3,ITGA9_ITGB1,0.00912251109010917,0,LAMB3_ITGA9_ITGB1,Lamb3  - (Itga9+Itgb1),LAMININ,ECM-Receptor,KEGG: mmu04512
+GABAergic_Neuron,Microglia,Lamc1,ITGA9_ITGB1,0.0131376968865256,0,LAMC1_ITGA9_ITGB1,Lamc1  - (Itga9+Itgb1),LAMININ,ECM-Receptor,KEGG: mmu04512
+Glutamatergic_Neuron,Microglia,Lamc1,ITGA9_ITGB1,0.0162234729172035,0,LAMC1_ITGA9_ITGB1,Lamc1  - (Itga9+Itgb1),LAMININ,ECM-Receptor,KEGG: mmu04512
+Glutamatergic_Neuron,GABAergic_Neuron,Col2a1,ITGA11_ITGB1,0.00066544435637915,0,COL2A1_ITGA11_ITGB1,Col2a1  - (Itga11+Itgb1),COLLAGEN,ECM-Receptor,KEGG: mmu04512
+Glutamatergic_Neuron,Glutamatergic_Neuron,Col2a1,ITGA11_ITGB1,0.000845698223515531,0,COL2A1_ITGA11_ITGB1,Col2a1  - (Itga11+Itgb1),COLLAGEN,ECM-Receptor,KEGG: mmu04512
+GABAergic_Neuron,Glutamatergic_Neuron,Col4a2,ITGA11_ITGB1,0.00354988553493561,0.01,COL4A2_ITGA11_ITGB1,Col4a2  - (Itga11+Itgb1),COLLAGEN,ECM-Receptor,KEGG: mmu04512
+Glutamatergic_Neuron,Glutamatergic_Neuron,Col4a2,ITGA11_ITGB1,0.00430516169903123,0,COL4A2_ITGA11_ITGB1,Col4a2  - (Itga11+Itgb1),COLLAGEN,ECM-Receptor,KEGG: mmu04512
+Glutamatergic_Neuron,Microglia,Col2a1,Sdc4,0.00115488749915063,0,COL2A1_SDC4,Col2a1  - Sdc4,COLLAGEN,ECM-Receptor,KEGG: mmu04512
+GABAergic_Neuron,Microglia,Col4a2,Sdc4,0.00484294004252185,0,COL4A2_SDC4,Col4a2  - Sdc4,COLLAGEN,ECM-Receptor,KEGG: mmu04512
+Glutamatergic_Neuron,Microglia,Col4a2,Sdc4,0.00587170627378413,0,COL4A2_SDC4,Col4a2  - Sdc4,COLLAGEN,ECM-Receptor,KEGG: mmu04512
+GABAergic_Neuron,Microglia,Tnxb,Sdc4,0.00107545742527893,0,TNXB_SDC4,Tnxb  - Sdc4,TENASCIN,ECM-Receptor,KEGG: mmu04512
+Glutamatergic_Neuron,Microglia,Tnxb,Sdc4,0.00429334126297387,0,TNXB_SDC4,Tnxb  - Sdc4,TENASCIN,ECM-Receptor,KEGG: mmu04512
+GABAergic_Neuron,Microglia,Thbs3,Sdc4,0.00144460007705241,0,THBS3_SDC4,Thbs3  - Sdc4,THBS,ECM-Receptor,KEGG: mmu04512
+Glutamatergic_Neuron,Microglia,Thbs3,Sdc4,0.00330061978466931,0,THBS3_SDC4,Thbs3  - Sdc4,THBS,ECM-Receptor,KEGG: mmu04512
+Glutamatergic_Neuron,GABAergic_Neuron,Lama1,Sv2a,0.0064674846490341,0,LAMA1_SV2A,Lama1  - Sv2a,LAMININ,ECM-Receptor,KEGG: mmu04512
+Glutamatergic_Neuron,Glutamatergic_Neuron,Lama1,Sv2a,0.00579769205411091,0,LAMA1_SV2A,Lama1  - Sv2a,LAMININ,ECM-Receptor,KEGG: mmu04512
+Glutamatergic_Neuron,GABAergic_Neuron,Lamb3,Sv2a,0.0171639593014425,0,LAMB3_SV2A,Lamb3  - Sv2a,LAMININ,ECM-Receptor,KEGG: mmu04512
+Glutamatergic_Neuron,Glutamatergic_Neuron,Lamb3,Sv2a,0.0154035814490013,0,LAMB3_SV2A,Lamb3  - Sv2a,LAMININ,ECM-Receptor,KEGG: mmu04512
+Glutamatergic_Neuron,GABAergic_Neuron,Lamc1,Sv2a,0.0303327688661419,0,LAMC1_SV2A,Lamc1  - Sv2a,LAMININ,ECM-Receptor,KEGG: mmu04512
+Glutamatergic_Neuron,Glutamatergic_Neuron,Lamc1,Sv2a,0.027259225503497,0.04,LAMC1_SV2A,Lamc1  - Sv2a,LAMININ,ECM-Receptor,KEGG: mmu04512
+Glutamatergic_Neuron,GABAergic_Neuron,Lama1,Sv2c,0.00260207120208748,0,LAMA1_SV2C,Lama1  - Sv2c,LAMININ,ECM-Receptor,KEGG: mmu04512
+Glutamatergic_Neuron,Glutamatergic_Neuron,Lama1,Sv2c,0.0039511428321727,0,LAMA1_SV2C,Lama1  - Sv2c,LAMININ,ECM-Receptor,KEGG: mmu04512
+Glutamatergic_Neuron,GABAergic_Neuron,Lamb3,Sv2c,0.00695031952696867,0,LAMB3_SV2C,Lamb3  - Sv2c,LAMININ,ECM-Receptor,KEGG: mmu04512
+Glutamatergic_Neuron,Glutamatergic_Neuron,Lamb3,Sv2c,0.0105299862943327,0,LAMB3_SV2C,Lamb3  - Sv2c,LAMININ,ECM-Receptor,KEGG: mmu04512
+GABAergic_Neuron,Glutamatergic_Neuron,Lamc1,Sv2c,0.0151551839383034,0,LAMC1_SV2C,Lamc1  - Sv2c,LAMININ,ECM-Receptor,KEGG: mmu04512
+Glutamatergic_Neuron,Glutamatergic_Neuron,Lamc1,Sv2c,0.0187058442984887,0,LAMC1_SV2C,Lamc1  - Sv2c,LAMININ,ECM-Receptor,KEGG: mmu04512
+Glutamatergic_Neuron,GABAergic_Neuron,Thbs3,Cd47,0.0153314503323719,0,THBS3_CD47,Thbs3  - Cd47,THBS,ECM-Receptor,KEGG: mmu04512
+Glutamatergic_Neuron,Glutamatergic_Neuron,Thbs3,Cd47,0.0141132980720917,0.01,THBS3_CD47,Thbs3  - Cd47,THBS,ECM-Receptor,KEGG: mmu04512
+Glutamatergic_Neuron,GABAergic_Neuron,Lama1,Dag1,0.00177912561067244,0,LAMA1_DAG1,Lama1  - Dag1,LAMININ,ECM-Receptor,KEGG: mmu04512
+Glutamatergic_Neuron,Glutamatergic_Neuron,Lama1,Dag1,0.00191918857424195,0,LAMA1_DAG1,Lama1  - Dag1,LAMININ,ECM-Receptor,KEGG: mmu04512
+Glutamatergic_Neuron,Microglia,Lama1,Dag1,0.000872932603296379,0.02,LAMA1_DAG1,Lama1  - Dag1,LAMININ,ECM-Receptor,KEGG: mmu04512
+Glutamatergic_Neuron,GABAergic_Neuron,Lamb3,Dag1,0.00475873389128581,0,LAMB3_DAG1,Lamb3  - Dag1,LAMININ,ECM-Receptor,KEGG: mmu04512
+Glutamatergic_Neuron,Glutamatergic_Neuron,Lamb3,Dag1,0.00513216268723979,0,LAMB3_DAG1,Lamb3  - Dag1,LAMININ,ECM-Receptor,KEGG: mmu04512
+Glutamatergic_Neuron,GABAergic_Neuron,Lamc1,Dag1,0.00849204296179895,0,LAMC1_DAG1,Lamc1  - Dag1,LAMININ,ECM-Receptor,KEGG: mmu04512
+Glutamatergic_Neuron,Glutamatergic_Neuron,Lamc1,Dag1,0.00915573800636845,0,LAMC1_DAG1,Lamc1  - Dag1,LAMININ,ECM-Receptor,KEGG: mmu04512
+GABAergic_Neuron,GABAergic_Neuron,Cadm1,Cadm1,0.234088681437452,0,CADM1_CADM1,Cadm1  - Cadm1,CADM,Cell-Cell Contact,PMID: 24503895
+Glutamatergic_Neuron,GABAergic_Neuron,Cadm3,Cadm3,0.0533928295784019,0,CADM3_CADM3,Cadm3  - Cadm3,CADM,Cell-Cell Contact,KEGG: mmu04514
+GABAergic_Neuron,Glutamatergic_Neuron,Cadm3,Cadm3,0.0533928295784019,0,CADM3_CADM3,Cadm3  - Cadm3,CADM,Cell-Cell Contact,KEGG: mmu04514
+Glutamatergic_Neuron,Glutamatergic_Neuron,Cadm3,Cadm3,0.0561950320908927,0.04,CADM3_CADM3,Cadm3  - Cadm3,CADM,Cell-Cell Contact,KEGG: mmu04514
+GABAergic_Neuron,GABAergic_Neuron,Cdh4,Cdh4,0.0573960582068343,0,CDH4_CDH4,Cdh4  - Cdh4,CDH,Cell-Cell Contact,KEGG: mmu04514
+Glutamatergic_Neuron,GABAergic_Neuron,Cdh2,Cdh2,0.0732372059544889,0,CDH2_CDH2,Cdh2  - Cdh2,CDH,Cell-Cell Contact,KEGG: mmu04514
+GABAergic_Neuron,Glutamatergic_Neuron,Cdh2,Cdh2,0.0732372059544889,0,CDH2_CDH2,Cdh2  - Cdh2,CDH,Cell-Cell Contact,KEGG: mmu04514
+Glutamatergic_Neuron,Glutamatergic_Neuron,Cdh2,Cdh2,0.0776890663730154,0.01,CDH2_CDH2,Cdh2  - Cdh2,CDH,Cell-Cell Contact,KEGG: mmu04514
+Glutamatergic_Neuron,GABAergic_Neuron,Nfasc,CNTN1_CNTNAP1,0.060866923577163,0.01,NFASC_CNTN1_CNTNAP1,Nfasc  - (Cntn1+Cntnap1),CNTN,Cell-Cell Contact,KEGG: mmu04514
+GABAergic_Neuron,Glutamatergic_Neuron,Nfasc,CNTN1_CNTNAP1,0.0619285337220837,0,NFASC_CNTN1_CNTNAP1,Nfasc  - (Cntn1+Cntnap1),CNTN,Cell-Cell Contact,KEGG: mmu04514
+Glutamatergic_Neuron,Glutamatergic_Neuron,Nfasc,CNTN1_CNTNAP1,0.0663955322214418,0,NFASC_CNTN1_CNTNAP1,Nfasc  - (Cntn1+Cntnap1),CNTN,Cell-Cell Contact,KEGG: mmu04514
+GABAergic_Neuron,GABAergic_Neuron,Cntn2,CNTN2_CNTNAP2,0.0322391712637482,0,CNTN2_CNTN2_CNTNAP2,Cntn2  - (Cntn2+Cntnap2),CNTN,Cell-Cell Contact,KEGG: mmu04514
+GABAergic_Neuron,Glutamatergic_Neuron,Cntn2,CNTN2_CNTNAP2,0.0229763560219234,0,CNTN2_CNTN2_CNTNAP2,Cntn2  - (Cntn2+Cntnap2),CNTN,Cell-Cell Contact,KEGG: mmu04514
+GABAergic_Neuron,GABAergic_Neuron,Cntn2,L1cam,0.0245372031793871,0,CNTN2_L1CAM,Cntn2  - L1cam,CNTN,Cell-Cell Contact,KEGG: mmu04514
+GABAergic_Neuron,Glutamatergic_Neuron,Cntn2,L1cam,0.0277950015256743,0,CNTN2_L1CAM,Cntn2  - L1cam,CNTN,Cell-Cell Contact,KEGG: mmu04514
+GABAergic_Neuron,GABAergic_Neuron,Cntn2,Cntn2,0.0113634930293523,0,CNTN2_CNTN2,Cntn2  - Cntn2,CNTN,Cell-Cell Contact,KEGG: mmu04514
+GABAergic_Neuron,Glutamatergic_Neuron,Cntn1,Nrcam,0.155720576859914,0,CNTN1_NRCAM,Cntn1  - Nrcam,CNTN,Cell-Cell Contact,KEGG: mmu04514
+Glutamatergic_Neuron,Glutamatergic_Neuron,Cntn1,Nrcam,0.161239747463938,0,CNTN1_NRCAM,Cntn1  - Nrcam,CNTN,Cell-Cell Contact,KEGG: mmu04514
+GABAergic_Neuron,Microglia,Efna3,Epha2,0.000810066345482062,0,EFNA3_EPHA2,Efna3  - Epha2,EPHA,Cell-Cell Contact,PMID: 15114347
+Glutamatergic_Neuron,Microglia,Efna3,Epha2,0.000919851023687889,0,EFNA3_EPHA2,Efna3  - Epha2,EPHA,Cell-Cell Contact,PMID: 15114347
+GABAergic_Neuron,GABAergic_Neuron,Efna3,Epha3,0.000570955264503619,0,EFNA3_EPHA3,Efna3  - Epha3,EPHA,Cell-Cell Contact,PMID: 15114347
+Glutamatergic_Neuron,GABAergic_Neuron,Efna3,Epha3,0.000648355311961119,0,EFNA3_EPHA3,Efna3  - Epha3,EPHA,Cell-Cell Contact,PMID: 15114347
+GABAergic_Neuron,Glutamatergic_Neuron,Efna3,Epha4,0.00128720800569166,0.01,EFNA3_EPHA4,Efna3  - Epha4,EPHA,Cell-Cell Contact,PMID: 15114347
+Glutamatergic_Neuron,Glutamatergic_Neuron,Efna3,Epha4,0.00146156297622227,0,EFNA3_EPHA4,Efna3  - Epha4,EPHA,Cell-Cell Contact,PMID: 15114347
+GABAergic_Neuron,GABAergic_Neuron,Efna3,Epha5,0.00581110758019623,0,EFNA3_EPHA5,Efna3  - Epha5,EPHA,Cell-Cell Contact,PMID: 15114347
+Glutamatergic_Neuron,GABAergic_Neuron,Efna3,Epha5,0.00659418810955029,0,EFNA3_EPHA5,Efna3  - Epha5,EPHA,Cell-Cell Contact,PMID: 15114347
+GABAergic_Neuron,Microglia,Efna5,Epha2,0.0256833217578405,0,EFNA5_EPHA2,Efna5  - Epha2,EPHA,Cell-Cell Contact,PMID: 15114347
+Glutamatergic_Neuron,Microglia,Efna5,Epha2,0.027813064228425,0,EFNA5_EPHA2,Efna5  - Epha2,EPHA,Cell-Cell Contact,PMID: 15114347
+GABAergic_Neuron,GABAergic_Neuron,Efna5,Epha3,0.0182362535732277,0,EFNA5_EPHA3,Efna5  - Epha3,EPHA,Cell-Cell Contact,PMID: 15114347
+Glutamatergic_Neuron,GABAergic_Neuron,Efna5,Epha3,0.0197609863071559,0,EFNA5_EPHA3,Efna5  - Epha3,EPHA,Cell-Cell Contact,PMID: 15114347
+GABAergic_Neuron,Glutamatergic_Neuron,Efna5,Epha4,0.040221445778328,0,EFNA5_EPHA4,Efna5  - Epha4,EPHA,Cell-Cell Contact,PMID: 15114347
+Glutamatergic_Neuron,Glutamatergic_Neuron,Efna5,Epha4,0.043502908308026,0,EFNA5_EPHA4,Efna5  - Epha4,EPHA,Cell-Cell Contact,PMID: 15114347
+GABAergic_Neuron,GABAergic_Neuron,Efna5,Epha5,0.159699373516958,0,EFNA5_EPHA5,Efna5  - Epha5,EPHA,Cell-Cell Contact,PMID: 15114347
+Glutamatergic_Neuron,GABAergic_Neuron,Efna5,Epha5,0.170991822705218,0,EFNA5_EPHA5,Efna5  - Epha5,EPHA,Cell-Cell Contact,PMID: 15114347
+GABAergic_Neuron,GABAergic_Neuron,Efna5,Ephb2,0.0650162434801915,0.01,EFNA5_EPHB2,Efna5  - Ephb2,EPHA,Cell-Cell Contact,PMID:15107857; PMID: 15114347
+Glutamatergic_Neuron,GABAergic_Neuron,Efna5,Ephb2,0.0701726872988771,0,EFNA5_EPHB2,Efna5  - Ephb2,EPHA,Cell-Cell Contact,PMID:15107857; PMID: 15114347
+GABAergic_Neuron,Glutamatergic_Neuron,Efnb1,Epha4,0.00533594321111224,0,EFNB1_EPHA4,Efnb1  - Epha4,EPHB,Cell-Cell Contact,PMID: 15114347
+Glutamatergic_Neuron,Glutamatergic_Neuron,Efnb1,Epha4,0.00616075746902004,0,EFNB1_EPHA4,Efnb1  - Epha4,EPHB,Cell-Cell Contact,PMID: 15114347
+Glutamatergic_Neuron,GABAergic_Neuron,Efnb1,Ephb1,0.00145735729810716,0,EFNB1_EPHB1,Efnb1  - Ephb1,EPHB,Cell-Cell Contact,PMID: 15114347
+Glutamatergic_Neuron,GABAergic_Neuron,Efnb1,Ephb2,0.010181336252887,0,EFNB1_EPHB2,Efnb1  - Ephb2,EPHB,Cell-Cell Contact,PMID: 15114347
+GABAergic_Neuron,GABAergic_Neuron,Efnb2,Epha4,0.00242963630616071,0,EFNB2_EPHA4,Efnb2  - Epha4,EPHB,Cell-Cell Contact,PMID: 15114347
+GABAergic_Neuron,Glutamatergic_Neuron,Efnb2,Epha4,0.00487872584417872,0,EFNB2_EPHA4,Efnb2  - Epha4,EPHB,Cell-Cell Contact,PMID: 15114347
+GABAergic_Neuron,GABAergic_Neuron,Efnb2,Ephb1,0.00115295099114247,0,EFNB2_EPHB1,Efnb2  - Ephb1,EPHB,Cell-Cell Contact,PMID: 15114347
+GABAergic_Neuron,Glutamatergic_Neuron,Efnb2,Ephb1,0.000794716952265527,0.01,EFNB2_EPHB1,Efnb2  - Ephb1,EPHB,Cell-Cell Contact,PMID: 15114347
+GABAergic_Neuron,GABAergic_Neuron,Efnb2,Ephb2,0.00806942982966694,0,EFNB2_EPHB2,Efnb2  - Ephb2,EPHB,Cell-Cell Contact,PMID: 15114347
+GABAergic_Neuron,Glutamatergic_Neuron,Efnb2,Ephb2,0.00740064840862712,0,EFNB2_EPHB2,Efnb2  - Ephb2,EPHB,Cell-Cell Contact,PMID: 15114347
+GABAergic_Neuron,Glutamatergic_Neuron,Efnb3,Epha4,0.0216985266322832,0,EFNB3_EPHA4,Efnb3  - Epha4,EPHB,Cell-Cell Contact,PMID: 15114347
+Glutamatergic_Neuron,Glutamatergic_Neuron,Efnb3,Epha4,0.0188806986022448,0.03,EFNB3_EPHA4,Efnb3  - Epha4,EPHB,Cell-Cell Contact,PMID: 15114347
+GABAergic_Neuron,GABAergic_Neuron,Efnb3,Ephb1,0.00519489764426658,0,EFNB3_EPHB1,Efnb3  - Ephb1,EPHB,Cell-Cell Contact,PMID: 15114347
+GABAergic_Neuron,GABAergic_Neuron,Efnb3,Ephb2,0.0354970505731637,0,EFNB3_EPHB2,Efnb3  - Ephb2,EPHB,Cell-Cell Contact,PMID: 15114347
+Microglia,Microglia,Icam1,ITGAM_ITGB2,0.0312227508200106,0,ICAM1_ITGAM_ITGB2,Icam1  - (Itgam+Itgb2),ICAM,Cell-Cell Contact,KEGG: mmu04514
+Microglia,GABAergic_Neuron,Jam2,ITGA3_ITGB1,0.000647417515397789,0,JAM2_ITGA3_ITGB1,Jam2  - (Itga3+Itgb1),JAM,Cell-Cell Contact,PMID: 12070135
+Microglia,Glutamatergic_Neuron,Jam2,ITGA3_ITGB1,0.000616161706076849,0,JAM2_ITGA3_ITGB1,Jam2  - (Itga3+Itgb1),JAM,Cell-Cell Contact,PMID: 12070135
+Microglia,Microglia,Jam2,ITGAV_ITGB1,0.00251991760454773,0,JAM2_ITGAV_ITGB1,Jam2  - (Itgav+Itgb1),JAM,Cell-Cell Contact,KEGG: mmu04514
+GABAergic_Neuron,Microglia,Jam3,ITGAM_ITGB2,0.0462234637046891,0,JAM3_ITGAM_ITGB2,Jam3  - (Itgam+Itgb2),JAM,Cell-Cell Contact,"KEGG: mmu04514; PMID: 16118203, PMC2194005"
+Glutamatergic_Neuron,Microglia,Jam3,ITGAM_ITGB2,0.0354479359255689,0,JAM3_ITGAM_ITGB2,Jam3  - (Itgam+Itgb2),JAM,Cell-Cell Contact,"KEGG: mmu04514; PMID: 16118203, PMC2194005"
+Microglia,GABAergic_Neuron,Jam2,Jam3,0.00137136130359233,0,JAM2_JAM3,Jam2  - Jam3,JAM,Cell-Cell Contact,PMC1237098;  PMID: 11590146
+Microglia,Glutamatergic_Neuron,Jam2,Jam3,0.00104026810220066,0,JAM2_JAM3,Jam2  - Jam3,JAM,Cell-Cell Contact,PMC1237098;  PMID: 11590146
+Microglia,Microglia,F11r,F11r,0.154193748265264,0,F11R_F11R,F11r  - F11r,JAM,Cell-Cell Contact,KEGG: mmu04514
+Microglia,Microglia,F11r,Jam2,0.00518991865541854,0,F11R_JAM2,F11r  - Jam2,JAM,Cell-Cell Contact,KEGG: mmu04514
+Microglia,GABAergic_Neuron,F11r,Jam3,0.0457896675630352,0,F11R_JAM3,F11r  - Jam3,JAM,Cell-Cell Contact,KEGG: mmu04514
+Microglia,Glutamatergic_Neuron,F11r,Jam3,0.0351115427727112,0,F11R_JAM3,F11r  - Jam3,JAM,Cell-Cell Contact,KEGG: mmu04514
+Microglia,Microglia,Jam2,F11r,0.00518991865541854,0,JAM2_F11R,Jam2  - F11r,JAM,Cell-Cell Contact,KEGG: mmu04514
+Microglia,Microglia,Jam2,Jam2,0.000149272579772684,0,JAM2_JAM2,Jam2  - Jam2,JAM,Cell-Cell Contact,KEGG: mmu04514
+GABAergic_Neuron,Microglia,Jam3,F11r,0.0457896675630352,0,JAM3_F11R,Jam3  - F11r,JAM,Cell-Cell Contact,KEGG: mmu04514
+Glutamatergic_Neuron,Microglia,Jam3,F11r,0.0351115427727112,0,JAM3_F11R,Jam3  - F11r,JAM,Cell-Cell Contact,KEGG: mmu04514
+GABAergic_Neuron,Microglia,Jam3,Jam2,0.00137136130359233,0,JAM3_JAM2,Jam3  - Jam2,JAM,Cell-Cell Contact,KEGG: mmu04514
+Glutamatergic_Neuron,Microglia,Jam3,Jam2,0.00104026810220066,0,JAM3_JAM2,Jam3  - Jam2,JAM,Cell-Cell Contact,KEGG: mmu04514
+GABAergic_Neuron,GABAergic_Neuron,Jam3,Jam3,0.0124738206095447,0,JAM3_JAM3,Jam3  - Jam3,JAM,Cell-Cell Contact,KEGG: mmu04514
+Glutamatergic_Neuron,GABAergic_Neuron,L1cam,L1cam,0.0588832149590989,0,L1CAM_L1CAM,L1cam  - L1cam,L1CAM,Cell-Cell Contact,PMID: 18701456
+GABAergic_Neuron,Glutamatergic_Neuron,L1cam,L1cam,0.0588832149590989,0,L1CAM_L1CAM,L1cam  - L1cam,L1CAM,Cell-Cell Contact,PMID: 18701456
+Glutamatergic_Neuron,Glutamatergic_Neuron,L1cam,L1cam,0.0663907599776926,0,L1CAM_L1CAM,L1cam  - L1cam,L1CAM,Cell-Cell Contact,PMID: 18701456
+GABAergic_Neuron,GABAergic_Neuron,Mpzl1,Mpzl1,0.000411466249526092,0.04,MPZL1_MPZL1,Mpzl1  - Mpzl1,MPZ,Cell-Cell Contact,KEGG: mmu04514
+Glutamatergic_Neuron,GABAergic_Neuron,Ncam1,Fgfr1,0.10260452720967,0,NCAM1_FGFR1,Ncam1  - Fgfr1,NCAM,Cell-Cell Contact,PMID: 12791257
+GABAergic_Neuron,Glutamatergic_Neuron,Ncam1,Fgfr1,0.104626501813033,0.01,NCAM1_FGFR1,Ncam1  - Fgfr1,NCAM,Cell-Cell Contact,PMID: 12791257
+Glutamatergic_Neuron,Glutamatergic_Neuron,Ncam1,Fgfr1,0.113920789677931,0,NCAM1_FGFR1,Ncam1  - Fgfr1,NCAM,Cell-Cell Contact,PMID: 12791257
+Glutamatergic_Neuron,GABAergic_Neuron,Ncam1,Ncam1,0.347604348188273,0,NCAM1_NCAM1,Ncam1  - Ncam1,NCAM,Cell-Cell Contact,KEGG: mmu04514
+GABAergic_Neuron,Glutamatergic_Neuron,Ncam1,Ncam1,0.347604348188273,0,NCAM1_NCAM1,Ncam1  - Ncam1,NCAM,Cell-Cell Contact,KEGG: mmu04514
+Glutamatergic_Neuron,Glutamatergic_Neuron,Ncam1,Ncam1,0.369573902715906,0,NCAM1_NCAM1,Ncam1  - Ncam1,NCAM,Cell-Cell Contact,KEGG: mmu04514
+GABAergic_Neuron,Glutamatergic_Neuron,Ncam1,Ncam2,0.291147505735815,0,NCAM1_NCAM2,Ncam1  - Ncam2,NCAM,Cell-Cell Contact,KEGG: mmu04514
+Glutamatergic_Neuron,Glutamatergic_Neuron,Ncam1,Ncam2,0.311251196654314,0,NCAM1_NCAM2,Ncam1  - Ncam2,NCAM,Cell-Cell Contact,KEGG: mmu04514
+Glutamatergic_Neuron,GABAergic_Neuron,Ncam1,L1cam,0.152285904295361,0,NCAM1_L1CAM,Ncam1  - L1cam,NCAM,Cell-Cell Contact,KEGG: mmu04514
+GABAergic_Neuron,Glutamatergic_Neuron,Ncam1,L1cam,0.156525102714935,0,NCAM1_L1CAM,Ncam1  - L1cam,NCAM,Cell-Cell Contact,KEGG: mmu04514
+Glutamatergic_Neuron,Glutamatergic_Neuron,Ncam1,L1cam,0.169556646822291,0,NCAM1_L1CAM,Ncam1  - L1cam,NCAM,Cell-Cell Contact,KEGG: mmu04514
+Glutamatergic_Neuron,GABAergic_Neuron,Ncam2,L1cam,0.12163741682427,0,NCAM2_L1CAM,Ncam2  - L1cam,NCAM,Cell-Cell Contact,KEGG: mmu04514
+Glutamatergic_Neuron,Glutamatergic_Neuron,Ncam2,L1cam,0.135989908166705,0,NCAM2_L1CAM,Ncam2  - L1cam,NCAM,Cell-Cell Contact,KEGG: mmu04514
+GABAergic_Neuron,GABAergic_Neuron,Negr1,Negr1,0.399198684925164,0,NEGR1_NEGR1,Negr1  - Negr1,NEGR,Cell-Cell Contact,KEGG: mmu04514
+GABAergic_Neuron,Microglia,Dlk1,Notch1,0.0405420295718681,0,DLK1_NOTCH1,Dlk1  - Notch1,NOTCH,Cell-Cell Contact,PMID: 22353464
+Glutamatergic_Neuron,Microglia,Dlk1,Notch1,0.00852650562404447,0,DLK1_NOTCH1,Dlk1  - Notch1,NOTCH,Cell-Cell Contact,PMID: 22353464
+GABAergic_Neuron,Microglia,Dlk1,Notch2,0.123323297417439,0,DLK1_NOTCH2,Dlk1  - Notch2,NOTCH,Cell-Cell Contact,PMID: 22353464
+Glutamatergic_Neuron,Microglia,Dlk1,Notch2,0.027832810693194,0,DLK1_NOTCH2,Dlk1  - Notch2,NOTCH,Cell-Cell Contact,PMID: 22353464
+GABAergic_Neuron,Microglia,Jag2,Notch1,0.00413337680492336,0,JAG2_NOTCH1,Jag2  - Notch1,NOTCH,Cell-Cell Contact,PMID: 22353464
+Glutamatergic_Neuron,Microglia,Jag2,Notch1,0.00468409084600283,0,JAG2_NOTCH1,Jag2  - Notch1,NOTCH,Cell-Cell Contact,PMID: 22353464
+GABAergic_Neuron,Microglia,Jag2,Notch2,0.0136291936642293,0,JAG2_NOTCH2,Jag2  - Notch2,NOTCH,Cell-Cell Contact,PMID: 22353464
+Glutamatergic_Neuron,Microglia,Jag2,Notch2,0.0154254940138415,0,JAG2_NOTCH2,Jag2  - Notch2,NOTCH,Cell-Cell Contact,PMID: 22353464
+Glutamatergic_Neuron,GABAergic_Neuron,Nrxn1,Nlgn1,0.412313400288273,0.01,NRXN1_NLGN1,Nrxn1  - Nlgn1,NRXN,Cell-Cell Contact,KEGG: mmu04514
+GABAergic_Neuron,Glutamatergic_Neuron,Nrxn1,Nlgn1,0.416876817679193,0,NRXN1_NLGN1,Nrxn1  - Nlgn1,NRXN,Cell-Cell Contact,KEGG: mmu04514
+Glutamatergic_Neuron,Glutamatergic_Neuron,Nrxn1,Nlgn1,0.420904833759604,0,NRXN1_NLGN1,Nrxn1  - Nlgn1,NRXN,Cell-Cell Contact,KEGG: mmu04514
+GABAergic_Neuron,GABAergic_Neuron,Nrxn1,Nlgn2,0.150964529072466,0,NRXN1_NLGN2,Nrxn1  - Nlgn2,NRXN,Cell-Cell Contact,KEGG: mmu04514
+Glutamatergic_Neuron,GABAergic_Neuron,Nrxn1,Nlgn2,0.153097778802743,0,NRXN1_NLGN2,Nrxn1  - Nlgn2,NRXN,Cell-Cell Contact,KEGG: mmu04514
+GABAergic_Neuron,GABAergic_Neuron,Nrxn1,Nlgn3,0.134886614414767,0,NRXN1_NLGN3,Nrxn1  - Nlgn3,NRXN,Cell-Cell Contact,KEGG: mmu04514
+Glutamatergic_Neuron,GABAergic_Neuron,Nrxn1,Nlgn3,0.136829284545924,0,NRXN1_NLGN3,Nrxn1  - Nlgn3,NRXN,Cell-Cell Contact,KEGG: mmu04514
+Glutamatergic_Neuron,GABAergic_Neuron,Nrxn2,Nlgn1,0.263372363037742,0,NRXN2_NLGN1,Nrxn2  - Nlgn1,NRXN,Cell-Cell Contact,KEGG: mmu04514
+GABAergic_Neuron,Glutamatergic_Neuron,Nrxn2,Nlgn1,0.263819935654616,0,NRXN2_NLGN1,Nrxn2  - Nlgn1,NRXN,Cell-Cell Contact,KEGG: mmu04514
+Glutamatergic_Neuron,Glutamatergic_Neuron,Nrxn2,Nlgn1,0.270287648928999,0,NRXN2_NLGN1,Nrxn2  - Nlgn1,NRXN,Cell-Cell Contact,KEGG: mmu04514
+GABAergic_Neuron,GABAergic_Neuron,Nrxn2,Nlgn2,0.081836184936008,0,NRXN2_NLGN2,Nrxn2  - Nlgn2,NRXN,Cell-Cell Contact,KEGG: mmu04514
+Glutamatergic_Neuron,GABAergic_Neuron,Nrxn2,Nlgn2,0.0843536566052824,0,NRXN2_NLGN2,Nrxn2  - Nlgn2,NRXN,Cell-Cell Contact,KEGG: mmu04514
+GABAergic_Neuron,GABAergic_Neuron,Nrxn2,Nlgn3,0.0724919264310584,0,NRXN2_NLGN3,Nrxn2  - Nlgn3,NRXN,Cell-Cell Contact,KEGG: mmu04514
+Glutamatergic_Neuron,GABAergic_Neuron,Nrxn2,Nlgn3,0.0747453476003497,0,NRXN2_NLGN3,Nrxn2  - Nlgn3,NRXN,Cell-Cell Contact,KEGG: mmu04514
+GABAergic_Neuron,GABAergic_Neuron,Nrxn3,Nlgn1,0.458904402700714,0,NRXN3_NLGN1,Nrxn3  - Nlgn1,NRXN,Cell-Cell Contact,KEGG: mmu04514
+GABAergic_Neuron,Glutamatergic_Neuron,Nrxn3,Nlgn1,0.467694056735074,0,NRXN3_NLGN1,Nrxn3  - Nlgn1,NRXN,Cell-Cell Contact,KEGG: mmu04514
+GABAergic_Neuron,GABAergic_Neuron,Nrxn3,Nlgn2,0.179336028571282,0,NRXN3_NLGN2,Nrxn3  - Nlgn2,NRXN,Cell-Cell Contact,KEGG: mmu04514
+GABAergic_Neuron,Glutamatergic_Neuron,Nrxn3,Nlgn2,0.170769528508426,0,NRXN3_NLGN2,Nrxn3  - Nlgn2,NRXN,Cell-Cell Contact,KEGG: mmu04514
+GABAergic_Neuron,GABAergic_Neuron,Nrxn3,Nlgn3,0.160808809581412,0,NRXN3_NLGN3,Nrxn3  - Nlgn3,NRXN,Cell-Cell Contact,KEGG: mmu04514
+Glutamatergic_Neuron,GABAergic_Neuron,Ptprm,Ptprm,0.0550739444354344,0,PTPRM_PTPRM,Ptprm  - Ptprm,PTPRM,Cell-Cell Contact,KEGG: mmu04514
+GABAergic_Neuron,Glutamatergic_Neuron,Ptprm,Ptprm,0.0550739444354344,0,PTPRM_PTPRM,Ptprm  - Ptprm,PTPRM,Cell-Cell Contact,KEGG: mmu04514
+Glutamatergic_Neuron,Glutamatergic_Neuron,Ptprm,Ptprm,0.162434222200362,0,PTPRM_PTPRM,Ptprm  - Ptprm,PTPRM,Cell-Cell Contact,KEGG: mmu04514
+Microglia,Glutamatergic_Neuron,Ptprm,Ptprm,0.164017910197856,0,PTPRM_PTPRM,Ptprm  - Ptprm,PTPRM,Cell-Cell Contact,KEGG: mmu04514
+Glutamatergic_Neuron,Microglia,Ptprm,Ptprm,0.164017910197856,0,PTPRM_PTPRM,Ptprm  - Ptprm,PTPRM,Cell-Cell Contact,KEGG: mmu04514
+Microglia,Microglia,Ptprm,Ptprm,0.165613985616693,0,PTPRM_PTPRM,Ptprm  - Ptprm,PTPRM,Cell-Cell Contact,KEGG: mmu04514
+Glutamatergic_Neuron,GABAergic_Neuron,Sema4a,NRP1_PLXNA1,0.00814830548237155,0.01,SEMA4A_NRP1_PLXNA1,Sema4a  - (Nrp1+Plxna1),SEMA4,Cell-Cell Contact,PMID: 27533782
+GABAergic_Neuron,GABAergic_Neuron,Sema4a,NRP1_PLXNA2,0.0138780764061499,0.01,SEMA4A_NRP1_PLXNA2,Sema4a  - (Nrp1+Plxna2),SEMA4,Cell-Cell Contact,PMID: 27533782
+Glutamatergic_Neuron,GABAergic_Neuron,Sema4a,NRP1_PLXNA2,0.0154611036111877,0,SEMA4A_NRP1_PLXNA2,Sema4a  - (Nrp1+Plxna2),SEMA4,Cell-Cell Contact,PMID: 27533782
+Glutamatergic_Neuron,GABAergic_Neuron,Sema4a,NRP1_PLXNA4,0.0184918086727803,0.01,SEMA4A_NRP1_PLXNA4,Sema4a  - (Nrp1+Plxna4),SEMA4,Cell-Cell Contact,PMID: 27533782
+GABAergic_Neuron,Microglia,Sema4a,NRP1_PLXNA4,0.0276032276896803,0,SEMA4A_NRP1_PLXNA4,Sema4a  - (Nrp1+Plxna4),SEMA4,Cell-Cell Contact,PMID: 27533782
+Glutamatergic_Neuron,Microglia,Sema4a,NRP1_PLXNA4,0.0307030936854666,0,SEMA4A_NRP1_PLXNA4,Sema4a  - (Nrp1+Plxna4),SEMA4,Cell-Cell Contact,PMID: 27533782
+Glutamatergic_Neuron,Glutamatergic_Neuron,Sema4a,Plxnb1,0.00209465290648471,0.02,SEMA4A_PLXNB1,Sema4a  - Plxnb1,SEMA4,Cell-Cell Contact,PMID: 27533782
+Glutamatergic_Neuron,Glutamatergic_Neuron,Sema4a,Plxnb2,0.0066183203617729,0.02,SEMA4A_PLXNB2,Sema4a  - Plxnb2,SEMA4,Cell-Cell Contact,PMID: 27533782
+GABAergic_Neuron,Microglia,Sema4a,Plxnb2,0.0274069947528013,0,SEMA4A_PLXNB2,Sema4a  - Plxnb2,SEMA4,Cell-Cell Contact,PMID: 27533782
+Glutamatergic_Neuron,Microglia,Sema4a,Plxnb2,0.0304855145062744,0,SEMA4A_PLXNB2,Sema4a  - Plxnb2,SEMA4,Cell-Cell Contact,PMID: 27533782
+Microglia,GABAergic_Neuron,Sema4d,Plxnb1,0.00687527510331379,0,SEMA4D_PLXNB1,Sema4d  - Plxnb1,SEMA4,Cell-Cell Contact,PMID: 27533782
+GABAergic_Neuron,Glutamatergic_Neuron,Sema4d,Plxnb1,0.00273134413087632,0.02,SEMA4D_PLXNB1,Sema4d  - Plxnb1,SEMA4,Cell-Cell Contact,PMID: 27533782
+Microglia,Glutamatergic_Neuron,Sema4d,Plxnb1,0.00781312145282308,0,SEMA4D_PLXNB1,Sema4d  - Plxnb1,SEMA4,Cell-Cell Contact,PMID: 27533782
+Microglia,GABAergic_Neuron,Sema4d,Plxnb2,0.0223569347193081,0,SEMA4D_PLXNB2,Sema4d  - Plxnb2,SEMA4,Cell-Cell Contact,PMID: 27533782
+GABAergic_Neuron,Glutamatergic_Neuron,Sema4d,Plxnb2,0.00861815172120392,0.03,SEMA4D_PLXNB2,Sema4d  - Plxnb2,SEMA4,Cell-Cell Contact,PMID: 27533782
+Microglia,Glutamatergic_Neuron,Sema4d,Plxnb2,0.0243847658352279,0,SEMA4D_PLXNB2,Sema4d  - Plxnb2,SEMA4,Cell-Cell Contact,PMID: 27533782
+GABAergic_Neuron,Microglia,Sema4d,Plxnb2,0.0394110797302277,0,SEMA4D_PLXNB2,Sema4d  - Plxnb2,SEMA4,Cell-Cell Contact,PMID: 27533782
+Glutamatergic_Neuron,Microglia,Sema4d,Plxnb2,0.0328484873005026,0,SEMA4D_PLXNB2,Sema4d  - Plxnb2,SEMA4,Cell-Cell Contact,PMID: 27533782
+Microglia,Microglia,Sema4d,Plxnb2,0.105516404492915,0,SEMA4D_PLXNB2,Sema4d  - Plxnb2,SEMA4,Cell-Cell Contact,PMID: 27533782
+Microglia,GABAergic_Neuron,Sema4c,Plxnb2,0.000666647475188072,0.02,SEMA4C_PLXNB2,Sema4c  - Plxnb2,SEMA4,Cell-Cell Contact,PMID: 27533782
+Microglia,Glutamatergic_Neuron,Sema4c,Plxnb2,0.0007285802667429,0.01,SEMA4C_PLXNB2,Sema4c  - Plxnb2,SEMA4,Cell-Cell Contact,PMID: 27533782
+Microglia,Microglia,Sema4c,Plxnb2,0.00342933274104014,0,SEMA4C_PLXNB2,Sema4c  - Plxnb2,SEMA4,Cell-Cell Contact,PMID: 27533782
+Glutamatergic_Neuron,GABAergic_Neuron,Sema5a,Plxna1,0.0147330867955059,0,SEMA5A_PLXNA1,Sema5a  - Plxna1,SEMA5,Cell-Cell Contact,PMID: 27533782
+Glutamatergic_Neuron,Glutamatergic_Neuron,Sema5a,Plxna1,0.0126990534415944,0,SEMA5A_PLXNA1,Sema5a  - Plxna1,SEMA5,Cell-Cell Contact,PMID: 27533782
+Glutamatergic_Neuron,GABAergic_Neuron,Sema5a,Plxna3,0.0102151660798134,0,SEMA5A_PLXNA3,Sema5a  - Plxna3,SEMA5,Cell-Cell Contact,PMID: 27533782
+Glutamatergic_Neuron,Glutamatergic_Neuron,Sema5a,Plxna3,0.0136325058487919,0,SEMA5A_PLXNA3,Sema5a  - Plxna3,SEMA5,Cell-Cell Contact,PMID: 27533782
+GABAergic_Neuron,GABAergic_Neuron,Sema6d,Plxna1,0.0144250505888396,0,SEMA6D_PLXNA1,Sema6d  - Plxna1,SEMA6,Cell-Cell Contact,PMID: 27533782
+GABAergic_Neuron,Glutamatergic_Neuron,Sema6d,Plxna1,0.0124330077197469,0,SEMA6D_PLXNA1,Sema6d  - Plxna1,SEMA6,Cell-Cell Contact,PMID: 27533782
+GABAergic_Neuron,GABAergic_Neuron,Sema6a,Plxna2,0.041431769797313,0,SEMA6A_PLXNA2,Sema6a  - Plxna2,SEMA6,Cell-Cell Contact,PMID: 27533782
+Glutamatergic_Neuron,GABAergic_Neuron,Sema6a,Plxna2,0.050198745137722,0,SEMA6A_PLXNA2,Sema6a  - Plxna2,SEMA6,Cell-Cell Contact,PMID: 27533782
+Glutamatergic_Neuron,GABAergic_Neuron,Sema6a,Plxna4,0.0706927912344881,0,SEMA6A_PLXNA4,Sema6a  - Plxna4,SEMA6,Cell-Cell Contact,PMID: 27533782
+Glutamatergic_Neuron,Glutamatergic_Neuron,Sema6a,Plxna4,0.0650513549943401,0.03,SEMA6A_PLXNA4,Sema6a  - Plxna4,SEMA6,Cell-Cell Contact,PMID: 27533782
+Glutamatergic_Neuron,Microglia,Sema6a,Plxna4,0.0721977334879286,0,SEMA6A_PLXNA4,Sema6a  - Plxna4,SEMA6,Cell-Cell Contact,PMID: 27533782
+GABAergic_Neuron,Microglia,Thy1,ITGAM_ITGB2,0.0488597877597513,0,THY1_ITGAM_ITGB2,Thy1  - (Itgam+Itgb2),THY1,Cell-Cell Contact,PMID: 15850796
+Glutamatergic_Neuron,Microglia,Thy1,ITGAM_ITGB2,0.0331997438554379,0,THY1_ITGAM_ITGB2,Thy1  - (Itgam+Itgb2),THY1,Cell-Cell Contact,PMID: 15850796
+Microglia,Microglia,ITGA9_ITGB1,Vcam1,0.0225160519027673,0,ITGA9_ITGB1_VCAM1,Vcam1 - (Itga9+Itgb1),VCAM,Cell-Cell Contact,KEGG: mmu04514

@@ -1,0 +1,22 @@
+source,target,ligand,receptor,prob,pval,interaction_name,interaction_name_2,pathway_name,annotation,evidence
+Microglia,Microglia,Tgfb1,TGFbR1_R2,0.243311864386648,0,TGFB1_TGFBR1_TGFBR2,Tgfb1 - (Tgfbr1+Tgfbr2),TGFb,Secreted Signaling,KEGG: mmu04350
+Microglia,Microglia,Tgfb1,ACVR1_TGFbR,0.16567849161954,0,TGFB1_ACVR1_TGFBR1,Tgfb1  - (Acvr1+Tgfbr1),TGFb,Secreted Signaling,PMID: 29376829
+GABAergic_Neuron,Microglia,Gdf11,TGFBR1_ACVR2A,0.00364502150999109,0,GDF11_TGFBR1_ACVR2A,Gdf11  - (Tgfbr1+Acvr2a),GDF,Secreted Signaling,KEGG: mmu04350
+Glutamatergic_Neuron,Microglia,Gdf11,TGFBR1_ACVR2A,0.00310976697465226,0,GDF11_TGFBR1_ACVR2A,Gdf11  - (Tgfbr1+Acvr2a),GDF,Secreted Signaling,KEGG: mmu04350
+GABAergic_Neuron,Glutamatergic_Neuron,Gdf11,TGFBR1_ACVR2B,0.00118159608049972,0.03,GDF11_TGFBR1_ACVR2B,Gdf11  - (Tgfbr1+Acvr2b),GDF,Secreted Signaling,KEGG: mmu04350
+GABAergic_Neuron,Microglia,Gdf11,TGFBR1_ACVR2B,0.00414522838428136,0,GDF11_TGFBR1_ACVR2B,Gdf11  - (Tgfbr1+Acvr2b),GDF,Secreted Signaling,KEGG: mmu04350
+Glutamatergic_Neuron,Microglia,Gdf11,TGFBR1_ACVR2B,0.00353678152282719,0,GDF11_TGFBR1_ACVR2B,Gdf11  - (Tgfbr1+Acvr2b),GDF,Secreted Signaling,KEGG: mmu04350
+Microglia,Microglia,Ccl4,Ccr5,0.0807737286286863,0,CCL4_CCR5,Ccl4  - Ccr5,CCL,Secreted Signaling,KEGG: mmu04060
+Microglia,Microglia,Ccl3,Ccr5,0.0669441993386232,0,CCL3_CCR5,Ccl3  - Ccr5,CCL,Secreted Signaling,KEGG: mmu04060
+GABAergic_Neuron,Microglia,Cx3cl1,Cx3cr1,0.215503052879339,0,CX3CL1_CX3CR1,Cx3cl1  - Cx3cr1,CX3C,Secreted Signaling,KEGG: mmu04060
+Glutamatergic_Neuron,Microglia,Cx3cl1,Cx3cr1,0.189936704002827,0,CX3CL1_CX3CR1,Cx3cl1  - Cx3cr1,CX3C,Secreted Signaling,KEGG: mmu04060
+GABAergic_Neuron,Microglia,Il34,Csf1r,0.0178164529105663,0,IL34_CSF1R,Il34  - Csf1r,CSF,Secreted Signaling,KEGG: mmu04060
+Glutamatergic_Neuron,Microglia,Il34,Csf1r,0.0153491891481529,0,IL34_CSF1R,Il34  - Csf1r,CSF,Secreted Signaling,KEGG: mmu04060
+GABAergic_Neuron,Microglia,Csf1,Csf1r,0.052073433091102,0,CSF1_CSF1R,Csf1  - Csf1r,CSF,Secreted Signaling,KEGG: mmu04060
+Glutamatergic_Neuron,Microglia,Csf1,Csf1r,0.0187111726854015,0,CSF1_CSF1R,Csf1  - Csf1r,CSF,Secreted Signaling,KEGG: mmu04060
+Microglia,GABAergic_Neuron,Grn,Sort1,0.0522872714722727,0,GRN_SORT1,Grn  - Sort1,GRN,Secreted Signaling,PMID: 29555433
+Microglia,Glutamatergic_Neuron,Grn,Sort1,0.0499112885777496,0,GRN_SORT1,Grn  - Sort1,GRN,Secreted Signaling,PMID: 29555433
+GABAergic_Neuron,Microglia,Grn,Sort1,0.00309528515089916,0,GRN_SORT1,Grn  - Sort1,GRN,Secreted Signaling,PMID: 29555433
+Glutamatergic_Neuron,Microglia,Grn,Sort1,0.00329907256015483,0,GRN_SORT1,Grn  - Sort1,GRN,Secreted Signaling,PMID: 29555433
+Microglia,Microglia,Grn,Sort1,0.0804635066464443,0,GRN_SORT1,Grn  - Sort1,GRN,Secreted Signaling,PMID: 29555433
+GABAergic_Neuron,GABAergic_Neuron,Agrn,Dag1,0.00981977078969524,0,AGRN_DAG1,Agrn  - Dag1,AGRN,ECM-Receptor,KEGG: mmu04512

@@ -1,0 +1,25 @@
+source,target,ligand,receptor,prob,pval,interaction_name,interaction_name_2,pathway_name,annotation,evidence
+Microglia,Microglia,Tgfb1,TGFbR1_R2,0.196065169479415,0,TGFB1_TGFBR1_TGFBR2,Tgfb1 - (Tgfbr1+Tgfbr2),TGFb,Secreted Signaling,KEGG: mmu04350
+Microglia,Microglia,Tgfb1,ACVR1B_TGFbR2,0.0645272781660704,0,TGFB1_ACVR1B_TGFBR2,Tgfb1  - (Acvr1b+Tgfbr2),TGFb,Secreted Signaling,PMID: 27449815
+Microglia,Microglia,Tgfb1,ACVR1_TGFbR,0.101795704994379,0,TGFB1_ACVR1_TGFBR1,Tgfb1  - (Acvr1+Tgfbr1),TGFb,Secreted Signaling,PMID: 29376829
+Microglia,Microglia,Ccl4,Ccr5,0.180048853101167,0,CCL4_CCR5,Ccl4  - Ccr5,CCL,Secreted Signaling,KEGG: mmu04060
+Microglia,Microglia,Ccl3,Ccr5,0.165882125883352,0,CCL3_CCR5,Ccl3  - Ccr5,CCL,Secreted Signaling,KEGG: mmu04060
+GABAergic_Neuron,Microglia,Cx3cl1,Cx3cr1,0.203409897197419,0,CX3CL1_CX3CR1,Cx3cl1  - Cx3cr1,CX3C,Secreted Signaling,KEGG: mmu04060
+Glutamatergic_Neuron,Microglia,Cx3cl1,Cx3cr1,0.201554939601254,0,CX3CL1_CX3CR1,Cx3cl1  - Cx3cr1,CX3C,Secreted Signaling,KEGG: mmu04060
+GABAergic_Neuron,Microglia,Il34,Csf1r,0.0176880507654523,0,IL34_CSF1R,Il34  - Csf1r,CSF,Secreted Signaling,KEGG: mmu04060
+Glutamatergic_Neuron,Microglia,Il34,Csf1r,0.0142538049546679,0,IL34_CSF1R,Il34  - Csf1r,CSF,Secreted Signaling,KEGG: mmu04060
+GABAergic_Neuron,Microglia,Gas6,Mertk,0.0448994910767723,0,GAS6_MERTK,Gas6  - Mertk,GAS,Secreted Signaling,PMID: 27801848
+Glutamatergic_Neuron,Microglia,Gas6,Mertk,0.0509491916817077,0,GAS6_MERTK,Gas6  - Mertk,GAS,Secreted Signaling,PMID: 27801848
+Microglia,Microglia,Gas6,Mertk,0.0398939202281318,0,GAS6_MERTK,Gas6  - Mertk,GAS,Secreted Signaling,PMID: 27801848
+GABAergic_Neuron,Glutamatergic_Neuron,Gas6,Tyro3,0.000667786399009965,0,GAS6_TYRO3,Gas6  - Tyro3,GAS,Secreted Signaling,PMID: 27801848
+Glutamatergic_Neuron,Glutamatergic_Neuron,Gas6,Tyro3,0.000762521142780058,0,GAS6_TYRO3,Gas6  - Tyro3,GAS,Secreted Signaling,PMID: 27801848
+Microglia,Glutamatergic_Neuron,Gas6,Tyro3,0.00059029132311245,0,GAS6_TYRO3,Gas6  - Tyro3,GAS,Secreted Signaling,PMID: 27801848
+Glutamatergic_Neuron,GABAergic_Neuron,Grn,Sort1,0.00208566980749398,0.02,GRN_SORT1,Grn  - Sort1,GRN,Secreted Signaling,PMID: 29555433
+Microglia,GABAergic_Neuron,Grn,Sort1,0.0549150051226266,0,GRN_SORT1,Grn  - Sort1,GRN,Secreted Signaling,PMID: 29555433
+Microglia,Glutamatergic_Neuron,Grn,Sort1,0.0520893806092081,0,GRN_SORT1,Grn  - Sort1,GRN,Secreted Signaling,PMID: 29555433
+GABAergic_Neuron,Microglia,Grn,Sort1,0.00327897355988821,0,GRN_SORT1,Grn  - Sort1,GRN,Secreted Signaling,PMID: 29555433
+Glutamatergic_Neuron,Microglia,Grn,Sort1,0.00386531922075906,0,GRN_SORT1,Grn  - Sort1,GRN,Secreted Signaling,PMID: 29555433
+Microglia,Microglia,Grn,Sort1,0.0973739999635644,0,GRN_SORT1,Grn  - Sort1,GRN,Secreted Signaling,PMID: 29555433
+GABAergic_Neuron,Glutamatergic_Neuron,Pros1,Tyro3,0.000176252653767555,0,PROS1_TYRO3,Pros1  - Tyro3,PROS,Secreted Signaling,PMID: 30501104
+Glutamatergic_Neuron,Glutamatergic_Neuron,Pros1,Tyro3,0.000159449529667044,0,PROS1_TYRO3,Pros1  - Tyro3,PROS,Secreted Signaling,PMID: 30501104
+Microglia,Glutamatergic_Neuron,Pros1,Tyro3,0.00381397814598339,0,PROS1_TYRO3,Pros1  - Tyro3,PROS,Secreted Signaling,PMID: 30501104

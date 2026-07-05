@@ -1,0 +1,17 @@
+analysis_region,graph_order,label,acronym,name,parent_identifier
+ARC_ARH,733.0,AllenCCF-Ontology-2017-223,ARH,Arcuate hypothalamic nucleus,MBA:157
+PVN_PVH,720.0,AllenCCF-Ontology-2017-38,PVH,Paraventricular hypothalamic nucleus,MBA:157
+PVN_PVH,721.0,AllenCCF-Ontology-2017-71,PVHm,"Paraventricular hypothalamic nucleus, magnocellular division",MBA:38
+PVN_PVH,722.0,AllenCCF-Ontology-2017-47,PVHam,"Paraventricular hypothalamic nucleus, magnocellular division, anterior magnocellular part",MBA:71
+PVN_PVH,723.0,AllenCCF-Ontology-2017-79,PVHmm,"Paraventricular hypothalamic nucleus, magnocellular division, medial magnocellular part",MBA:71
+PVN_PVH,724.0,AllenCCF-Ontology-2017-103,PVHpm,"Paraventricular hypothalamic nucleus, magnocellular division, posterior magnocellular part",MBA:71
+PVN_PVH,725.0,AllenCCF-Ontology-2017-652,PVHpml,"Paraventricular hypothalamic nucleus, magnocellular division, posterior magnocellular part, lateral zone",MBA:103
+PVN_PVH,726.0,AllenCCF-Ontology-2017-660,PVHpmm,"Paraventricular hypothalamic nucleus, magnocellular division, posterior magnocellular part, medial zone",MBA:103
+PVN_PVH,727.0,AllenCCF-Ontology-2017-94,PVHp,"Paraventricular hypothalamic nucleus, parvicellular division",MBA:38
+PVN_PVH,728.0,AllenCCF-Ontology-2017-55,PVHap,"Paraventricular hypothalamic nucleus, parvicellular division, anterior parvicellular part",MBA:94
+PVN_PVH,729.0,AllenCCF-Ontology-2017-87,PVHmpd,"Paraventricular hypothalamic nucleus, parvicellular division, medial parvicellular part, dorsal zone",MBA:94
+PVN_PVH,730.0,AllenCCF-Ontology-2017-110,PVHpv,"Paraventricular hypothalamic nucleus, parvicellular division, periventricular part",MBA:94
+DMH,739.0,AllenCCF-Ontology-2017-830,DMH,Dorsomedial nucleus of the hypothalamus,MBA:141
+DMH,740.0,AllenCCF-Ontology-2017-668,DMHa,"Dorsomedial nucleus of the hypothalamus, anterior part",MBA:830
+DMH,741.0,AllenCCF-Ontology-2017-676,DMHp,"Dorsomedial nucleus of the hypothalamus, posterior part",MBA:830
+DMH,742.0,AllenCCF-Ontology-2017-684,DMHv,"Dorsomedial nucleus of the hypothalamus, ventral part",MBA:830

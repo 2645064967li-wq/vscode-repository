@@ -1,0 +1,156 @@
+{
+  "Homeostatic": [
+    "P2ry12",
+    "Tmem119",
+    "Cx3cr1",
+    "Sall1",
+    "Hexb",
+    "Gpr34",
+    "Fcrls",
+    "Siglech"
+  ],
+  "DAM_lipid": [
+    "Apoe",
+    "Trem2",
+    "Lpl",
+    "Cst7",
+    "Ctsb",
+    "Ctsd",
+    "Tyrobp",
+    "Itgax",
+    "Spp1",
+    "Lgals3"
+  ],
+  "Interferon": [
+    "Ifit1",
+    "Ifit2",
+    "Ifit3",
+    "Isg15",
+    "Irf7",
+    "Stat1",
+    "Oasl2",
+    "Rsad2"
+  ],
+  "Inflammatory": [
+    "Il1b",
+    "Tnf",
+    "Nfkbia",
+    "Ccl2",
+    "Ccl3",
+    "Ccl4",
+    "Ptgs2",
+    "Socs3"
+  ],
+  "Phagolysosomal": [
+    "C1qa",
+    "C1qb",
+    "C1qc",
+    "Ctss",
+    "Lyz2",
+    "Fcgr3",
+    "Aif1",
+    "Cd68",
+    "Lamp1"
+  ],
+  "Proliferative": [
+    "Mki67",
+    "Top2a",
+    "Cenpf",
+    "Birc5",
+    "Tubb5",
+    "Stmn1",
+    "Pclaf"
+  ],
+  "Glycolysis": [
+    "Hk1",
+    "Hk2",
+    "Pfkp",
+    "Aldoa",
+    "Gapdh",
+    "Pgk1",
+    "Pkm",
+    "Ldha",
+    "Eno1"
+  ],
+  "OXPHOS": [
+    "Ndufs1",
+    "Ndufs2",
+    "Ndufa9",
+    "Sdha",
+    "Uqcrc1",
+    "Cox4i1",
+    "Cox5a"
+  ],
+  "TCA": [
+    "Cs",
+    "Aco2",
+    "Idh3a",
+    "Ogdh",
+    "Suclg1",
+    "Sdhb",
+    "Mdh2"
+  ],
+  "FAO": [
+    "Cpt1a",
+    "Cpt2",
+    "Acadl",
+    "Acadm",
+    "Hadha",
+    "Hadhb",
+    "Acox1"
+  ],
+  "Cholesterol_lipid": [
+    "Apoe",
+    "Abca1",
+    "Abcg1",
+    "Lpl",
+    "Soat1",
+    "Npc1",
+    "Lipa",
+    "Srebf2"
+  ],
+  "MTOR_AMPK": [
+    "Mtor",
+    "Rptor",
+    "Rictor",
+    "Prkaa1",
+    "Prkaa2",
+    "Tsc1",
+    "Tsc2",
+    "Rheb"
+  ],
+  "ROS_glutathione": [
+    "Nfe2l2",
+    "Gpx1",
+    "Gpx4",
+    "Gsr",
+    "Gss",
+    "Sod1",
+    "Sod2",
+    "Cat"
+  ],
+  "Complement": [
+    "C1qa",
+    "C1qb",
+    "C1qc",
+    "C3",
+    "Cfb",
+    "Cfh"
+  ],
+  "TGFB": [
+    "Tgfb1",
+    "Tgfbr1",
+    "Tgfbr2",
+    "Smad2",
+    "Smad3",
+    "Smad4"
+  ],
+  "APOE_TREM2": [
+    "Apoe",
+    "Trem2",
+    "Tyrobp",
+    "Lpl",
+    "Cst7",
+    "Ctsd"
+  ]
+}

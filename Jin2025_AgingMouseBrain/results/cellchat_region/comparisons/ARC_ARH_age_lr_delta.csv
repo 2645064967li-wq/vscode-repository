@@ -1,0 +1,360 @@
+source,target,interaction_name,interaction_name_2,ligand,receptor,pathway_name,annotation,prob_young,pval_young,prob_aged,pval_aged,delta_prob,region,microglia_involved,direction
+Glutamatergic_Neuron,GABAergic_Neuron,NRXN1_NLGN1,Nrxn1  - Nlgn1,Nrxn1,Nlgn1,NRXN,Cell-Cell Contact,0.0,1.0,0.412313400288273,0.01,0.412313400288273,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,Glutamatergic_Neuron,NRG3_ERBB4,Nrg3  - Erbb4,Nrg3,Erbb4,NRG,Secreted Signaling,0.0,1.0,0.357682753660637,0.0,0.357682753660637,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Glutamatergic_Neuron,NRG3_ERBB4,Nrg3  - Erbb4,Nrg3,Erbb4,NRG,Secreted Signaling,0.0,1.0,0.3549952363383,0.0,0.3549952363383,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Glutamatergic_Neuron,NCAM1_NCAM2,Ncam1  - Ncam2,Ncam1,Ncam2,NCAM,Cell-Cell Contact,0.0,1.0,0.311251196654314,0.0,0.311251196654314,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,Glutamatergic_Neuron,NCAM1_NCAM2,Ncam1  - Ncam2,Ncam1,Ncam2,NCAM,Cell-Cell Contact,0.0,1.0,0.291147505735815,0.0,0.291147505735815,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,GABAergic_Neuron,NRXN2_NLGN1,Nrxn2  - Nlgn1,Nrxn2,Nlgn1,NRXN,Cell-Cell Contact,0.0,1.0,0.263372363037742,0.0,0.263372363037742,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,GABAergic_Neuron,NRG1_ERBB4,Nrg1  - Erbb4,Nrg1,Erbb4,NRG,Secreted Signaling,0.181601566447696,0.0,0.0,1.0,-0.181601566447696,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Glutamatergic_Neuron,NCAM2_L1CAM,Ncam2  - L1cam,Ncam2,L1cam,NCAM,Cell-Cell Contact,0.0,1.0,0.135989908166705,0.0,0.135989908166705,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Glutamatergic_Neuron,LRRC4C_NTNG1,Lrrc4c  - Ntng1,Lrrc4c,Ntng1,NGL,Cell-Cell Contact,0.133164511241398,0.0,0.0,1.0,-0.133164511241398,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,GABAergic_Neuron,NCAM2_L1CAM,Ncam2  - L1cam,Ncam2,L1cam,NCAM,Cell-Cell Contact,0.0,1.0,0.12163741682427,0.0,0.12163741682427,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,Glutamatergic_Neuron,LRRC4C_NTNG1,Lrrc4c  - Ntng1,Lrrc4c,Ntng1,NGL,Cell-Cell Contact,0.119388838736015,0.0,0.0,1.0,-0.119388838736015,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,GABAergic_Neuron,CDH2_CDH2,Cdh2  - Cdh2,Cdh2,Cdh2,CDH,Cell-Cell Contact,0.10834553427398,0.02,0.0,1.0,-0.10834553427398,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,Microglia,TNR_ITGA9_ITGB1,Tnr  - (Itga9+Itgb1),Tnr,ITGA9_ITGB1,TENASCIN,ECM-Receptor,0.104108666321647,0.0,0.0,1.0,-0.104108666321647,ARC_ARH,True,Microglia_incoming
+Glutamatergic_Neuron,GABAergic_Neuron,NCAM1_FGFR1,Ncam1  - Fgfr1,Ncam1,Fgfr1,NCAM,Cell-Cell Contact,0.0,1.0,0.10260452720967,0.0,0.10260452720967,ARC_ARH,False,Neuron_neuron
+Microglia,Microglia,CCL4_CCR5,Ccl4  - Ccr5,Ccl4,Ccr5,CCL,Secreted Signaling,0.0807737286286863,0.0,0.180048853101167,0.0,0.0992751244724807,ARC_ARH,True,Microglia_autocrine
+Microglia,Microglia,CCL3_CCR5,Ccl3  - Ccr5,Ccl3,Ccr5,CCL,Secreted Signaling,0.0669441993386232,0.0,0.165882125883352,0.0,0.0989379265447288,ARC_ARH,True,Microglia_autocrine
+Glutamatergic_Neuron,Microglia,TNR_ITGA9_ITGB1,Tnr  - (Itga9+Itgb1),Tnr,ITGA9_ITGB1,TENASCIN,ECM-Receptor,0.0956130962639389,0.0,0.0,1.0,-0.0956130962639389,ARC_ARH,True,Microglia_incoming
+Glutamatergic_Neuron,Glutamatergic_Neuron,EFNA5_EPHB2,Efna5  - Ephb2,Efna5,Ephb2,EPHA,Cell-Cell Contact,0.0811422671553359,0.04,0.0,1.0,-0.0811422671553359,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Glutamatergic_Neuron,CDH2_CDH2,Cdh2  - Cdh2,Cdh2,Cdh2,CDH,Cell-Cell Contact,0.0,1.0,0.0776890663730154,0.01,0.0776890663730154,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,GABAergic_Neuron,CDH2_CDH2,Cdh2  - Cdh2,Cdh2,Cdh2,CDH,Cell-Cell Contact,0.0,1.0,0.0732372059544889,0.0,0.0732372059544889,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,Glutamatergic_Neuron,CDH2_CDH2,Cdh2  - Cdh2,Cdh2,Cdh2,CDH,Cell-Cell Contact,0.0,1.0,0.0732372059544889,0.0,0.0732372059544889,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Glutamatergic_Neuron,SEMA6A_PLXNA4,Sema6a  - Plxna4,Sema6a,Plxna4,SEMA6,Cell-Cell Contact,0.0,1.0,0.0650513549943401,0.03,0.0650513549943401,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,GABAergic_Neuron,EFNA5_EPHB2,Efna5  - Ephb2,Efna5,Ephb2,EPHA,Cell-Cell Contact,0.0,1.0,0.0650162434801915,0.01,0.0650162434801915,ARC_ARH,False,Neuron_neuron
+Microglia,Microglia,TGFB1_ACVR1B_TGFBR2,Tgfb1  - (Acvr1b+Tgfbr2),Tgfb1,ACVR1B_TGFbR2,TGFb,Secreted Signaling,0.0,1.0,0.0645272781660704,0.0,0.0645272781660704,ARC_ARH,True,Microglia_autocrine
+Microglia,Microglia,TGFB1_ACVR1_TGFBR1,Tgfb1  - (Acvr1+Tgfbr1),Tgfb1,ACVR1_TGFbR,TGFb,Secreted Signaling,0.16567849161954,0.0,0.101795704994379,0.0,-0.06388278662516102,ARC_ARH,True,Microglia_autocrine
+Microglia,Microglia,F11R_F11R,F11r  - F11r,F11r,F11r,JAM,Cell-Cell Contact,0.217056840119646,0.0,0.154193748265264,0.0,-0.06286309185438199,ARC_ARH,True,Microglia_autocrine
+Glutamatergic_Neuron,GABAergic_Neuron,NFASC_CNTN1_CNTNAP1,Nfasc  - (Cntn1+Cntnap1),Nfasc,CNTN1_CNTNAP1,CNTN,Cell-Cell Contact,0.0,1.0,0.060866923577163,0.01,0.060866923577163,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Glutamatergic_Neuron,CADM3_CADM3,Cadm3  - Cadm3,Cadm3,Cadm3,CADM,Cell-Cell Contact,0.0,1.0,0.0561950320908927,0.04,0.0561950320908927,ARC_ARH,False,Neuron_neuron
+Microglia,GABAergic_Neuron,PTPRM_PTPRM,Ptprm  - Ptprm,Ptprm,Ptprm,PTPRM,Cell-Cell Contact,0.053488506183928,0.03,0.0,1.0,-0.053488506183928,ARC_ARH,True,Microglia_outgoing
+GABAergic_Neuron,Microglia,PTPRM_PTPRM,Ptprm  - Ptprm,Ptprm,Ptprm,PTPRM,Cell-Cell Contact,0.053488506183928,0.03,0.0,1.0,-0.053488506183928,ARC_ARH,True,Microglia_incoming
+Glutamatergic_Neuron,GABAergic_Neuron,CADM3_CADM3,Cadm3  - Cadm3,Cadm3,Cadm3,CADM,Cell-Cell Contact,0.0,1.0,0.0533928295784019,0.0,0.0533928295784019,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,Glutamatergic_Neuron,CADM3_CADM3,Cadm3  - Cadm3,Cadm3,Cadm3,CADM,Cell-Cell Contact,0.0,1.0,0.0533928295784019,0.0,0.0533928295784019,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,Microglia,CSF1_CSF1R,Csf1  - Csf1r,Csf1,Csf1r,CSF,Secreted Signaling,0.052073433091102,0.0,0.0,1.0,-0.052073433091102,ARC_ARH,True,Microglia_incoming
+Glutamatergic_Neuron,Microglia,GAS6_MERTK,Gas6  - Mertk,Gas6,Mertk,GAS,Secreted Signaling,0.0,1.0,0.0509491916817077,0.0,0.0509491916817077,ARC_ARH,True,Microglia_incoming
+GABAergic_Neuron,GABAergic_Neuron,LRRC4B_PTPRF,Lrrc4b  - Ptprf,Lrrc4b,Ptprf,NGL,Cell-Cell Contact,0.0503469696219965,0.0,0.0,1.0,-0.0503469696219965,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Glutamatergic_Neuron,PTPRM_PTPRM,Ptprm  - Ptprm,Ptprm,Ptprm,PTPRM,Cell-Cell Contact,0.114818823456785,0.0,0.162434222200362,0.0,0.047615398743576995,ARC_ARH,False,Neuron_neuron
+Microglia,Microglia,TGFB1_TGFBR1_TGFBR2,Tgfb1 - (Tgfbr1+Tgfbr2),Tgfb1,TGFbR1_R2,TGFb,Secreted Signaling,0.243311864386648,0.0,0.196065169479415,0.0,-0.04724669490723302,ARC_ARH,True,Microglia_autocrine
+GABAergic_Neuron,Microglia,GAS6_MERTK,Gas6  - Mertk,Gas6,Mertk,GAS,Secreted Signaling,0.0,1.0,0.0448994910767723,0.0,0.0448994910767723,ARC_ARH,True,Microglia_incoming
+Glutamatergic_Neuron,Glutamatergic_Neuron,EFNA5_EPHA4,Efna5  - Epha4,Efna5,Epha4,EPHA,Cell-Cell Contact,0.0,1.0,0.043502908308026,0.0,0.043502908308026,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,GABAergic_Neuron,SEMA6A_PLXNA2,Sema6a  - Plxna2,Sema6a,Plxna2,SEMA6,Cell-Cell Contact,0.0,1.0,0.041431769797313,0.0,0.041431769797313,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,Glutamatergic_Neuron,EFNA5_EPHA4,Efna5  - Epha4,Efna5,Epha4,EPHA,Cell-Cell Contact,0.0,1.0,0.040221445778328,0.0,0.040221445778328,ARC_ARH,False,Neuron_neuron
+Microglia,Microglia,GAS6_MERTK,Gas6  - Mertk,Gas6,Mertk,GAS,Secreted Signaling,0.0,1.0,0.0398939202281318,0.0,0.0398939202281318,ARC_ARH,True,Microglia_autocrine
+GABAergic_Neuron,Glutamatergic_Neuron,NRG1_ERBB4,Nrg1  - Erbb4,Nrg1,Erbb4,NRG,Secreted Signaling,0.220107044212772,0.0,0.180889700357427,0.0,-0.039217343855345005,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Glutamatergic_Neuron,NRXN1_NLGN1,Nrxn1  - Nlgn1,Nrxn1,Nlgn1,NRXN,Cell-Cell Contact,0.458230567345824,0.0,0.420904833759604,0.0,-0.03732573358621999,ARC_ARH,False,Neuron_neuron
+Microglia,Glutamatergic_Neuron,PTPRM_PTPRM,Ptprm  - Ptprm,Ptprm,Ptprm,PTPRM,Cell-Cell Contact,0.128358239197578,0.0,0.164017910197856,0.0,0.035659671000278004,ARC_ARH,True,Microglia_outgoing
+Glutamatergic_Neuron,Microglia,PTPRM_PTPRM,Ptprm  - Ptprm,Ptprm,Ptprm,PTPRM,Cell-Cell Contact,0.128358239197578,0.0,0.164017910197856,0.0,0.035659671000278004,ARC_ARH,True,Microglia_incoming
+GABAergic_Neuron,Glutamatergic_Neuron,NRXN1_NLGN1,Nrxn1  - Nlgn1,Nrxn1,Nlgn1,NRXN,Cell-Cell Contact,0.449066036311016,0.0,0.416876817679193,0.0,-0.032189218631823,ARC_ARH,False,Neuron_neuron
+Microglia,Microglia,TNF_TNFRSF1B,Tnf  - Tnfrsf1b,Tnf,Tnfrsf1b,TNF,Secreted Signaling,0.0215084250556857,0.0,0.0525024824611435,0.0,0.0309940574054578,ARC_ARH,True,Microglia_autocrine
+GABAergic_Neuron,Microglia,SEMA6B_PLXNA4,Sema6b  - Plxna4,Sema6b,Plxna4,SEMA6,Cell-Cell Contact,0.0287602803087586,0.0,0.0,1.0,-0.0287602803087586,ARC_ARH,True,Microglia_incoming
+Glutamatergic_Neuron,Microglia,EFNA5_EPHA2,Efna5  - Epha2,Efna5,Epha2,EPHA,Cell-Cell Contact,0.0,1.0,0.027813064228425,0.0,0.027813064228425,ARC_ARH,True,Microglia_incoming
+Glutamatergic_Neuron,Glutamatergic_Neuron,LAMC1_SV2A,Lamc1  - Sv2a,Lamc1,Sv2a,LAMININ,ECM-Receptor,0.0,1.0,0.027259225503497,0.04,0.027259225503497,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,GABAergic_Neuron,PDYN_OPRL1,Pdyn  - Oprl1,Pdyn,Oprl1,OPIOID,Secreted Signaling,0.0,1.0,0.0270841572391731,0.0,0.0270841572391731,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Microglia,SEMA6B_PLXNA4,Sema6b  - Plxna4,Sema6b,Plxna4,SEMA6,Cell-Cell Contact,0.0261186472736352,0.0,0.0,1.0,-0.0261186472736352,ARC_ARH,True,Microglia_incoming
+Glutamatergic_Neuron,Microglia,SEMA6A_PLXNA4,Sema6a  - Plxna4,Sema6a,Plxna4,SEMA6,Cell-Cell Contact,0.0981968972458109,0.0,0.0721977334879286,0.0,-0.025999163757882304,ARC_ARH,True,Microglia_incoming
+Glutamatergic_Neuron,Glutamatergic_Neuron,PDYN_OPRL1,Pdyn  - Oprl1,Pdyn,Oprl1,OPIOID,Secreted Signaling,0.0,1.0,0.0257695958321446,0.0,0.0257695958321446,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,Microglia,EFNA5_EPHA2,Efna5  - Epha2,Efna5,Epha2,EPHA,Cell-Cell Contact,0.0,1.0,0.0256833217578405,0.0,0.0256833217578405,ARC_ARH,True,Microglia_incoming
+Glutamatergic_Neuron,GABAergic_Neuron,PDYN_OPRM1,Pdyn  - Oprm1,Pdyn,Oprm1,OPIOID,Secreted Signaling,0.025343933771417,0.0,0.0,1.0,-0.025343933771417,ARC_ARH,False,Neuron_neuron
+Microglia,Microglia,JAM2_F11R,Jam2  - F11r,Jam2,F11r,JAM,Cell-Cell Contact,0.0300977857690805,0.0,0.0051899186554185,0.0,-0.024907867113662,ARC_ARH,True,Microglia_autocrine
+Microglia,Microglia,F11R_JAM2,F11r  - Jam2,F11r,Jam2,JAM,Cell-Cell Contact,0.0300977857690805,0.0,0.0051899186554185,0.0,-0.024907867113662,ARC_ARH,True,Microglia_autocrine
+GABAergic_Neuron,Microglia,TNR_SDC4,Tnr  - Sdc4,Tnr,Sdc4,TENASCIN,ECM-Receptor,0.0239950385538057,0.0,0.0,1.0,-0.0239950385538057,ARC_ARH,True,Microglia_incoming
+GABAergic_Neuron,Glutamatergic_Neuron,NRXN3_NLGN1,Nrxn3  - Nlgn1,Nrxn3,Nlgn1,NRXN,Cell-Cell Contact,0.491497407139152,0.0,0.467694056735074,0.0,-0.023803350404077994,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,GABAergic_Neuron,SEMA6B_PLXNA4,Sema6b  - Plxna4,Sema6b,Plxna4,SEMA6,Cell-Cell Contact,0.0237868395538623,0.0,0.0,1.0,-0.0237868395538623,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,Glutamatergic_Neuron,CNTN2_CNTN2_CNTNAP2,Cntn2  - (Cntn2+Cntnap2),Cntn2,CNTN2_CNTNAP2,CNTN,Cell-Cell Contact,0.0,1.0,0.0229763560219234,0.0,0.0229763560219234,ARC_ARH,False,Neuron_neuron
+Microglia,Microglia,PTPRM_PTPRM,Ptprm  - Ptprm,Ptprm,Ptprm,PTPRM,Cell-Cell Contact,0.143235871733732,0.0,0.165613985616693,0.0,0.022378113882960987,ARC_ARH,True,Microglia_autocrine
+Glutamatergic_Neuron,Microglia,TNR_SDC4,Tnr  - Sdc4,Tnr,Sdc4,TENASCIN,ECM-Receptor,0.0218773301771268,0.0,0.0,1.0,-0.0218773301771268,ARC_ARH,True,Microglia_incoming
+Glutamatergic_Neuron,GABAergic_Neuron,POMC_OPRL1,Pomc  - Oprl1,Pomc,Oprl1,OPIOID,Secreted Signaling,0.0,1.0,0.0218522666652232,0.0,0.0218522666652232,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,Glutamatergic_Neuron,EFNB3_EPHA4,Efnb3  - Epha4,Efnb3,Epha4,EPHB,Cell-Cell Contact,0.0,1.0,0.0216985266322832,0.0,0.0216985266322832,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,GABAergic_Neuron,EFNA5_EPHB2,Efna5  - Ephb2,Efna5,Ephb2,EPHA,Cell-Cell Contact,0.0910846680921694,0.0,0.0701726872988771,0.0,-0.020911980793292304,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Glutamatergic_Neuron,POMC_OPRL1,Pomc  - Oprl1,Pomc,Oprl1,OPIOID,Secreted Signaling,0.0,1.0,0.0207862159093546,0.0,0.0207862159093546,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,Microglia,NAMPT_INSR,Nampt  - Insr,Nampt,Insr,VISFATIN,Secreted Signaling,0.0204753764704897,0.0,0.0,1.0,-0.0204753764704897,ARC_ARH,True,Microglia_incoming
+Glutamatergic_Neuron,Microglia,COL4A2_ITGA9_ITGB1,Col4a2  - (Itga9+Itgb1),Col4a2,ITGA9_ITGB1,COLLAGEN,ECM-Receptor,0.0,1.0,0.0200052949955299,0.0,0.0200052949955299,ARC_ARH,True,Microglia_incoming
+Glutamatergic_Neuron,Glutamatergic_Neuron,EFNB3_EPHA4,Efnb3  - Epha4,Efnb3,Epha4,EPHB,Cell-Cell Contact,0.0,1.0,0.0188806986022448,0.03,0.0188806986022448,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Microglia,CSF1_CSF1R,Csf1  - Csf1r,Csf1,Csf1r,CSF,Secreted Signaling,0.0187111726854015,0.0,0.0,1.0,-0.0187111726854015,ARC_ARH,True,Microglia_incoming
+Microglia,Microglia,ITGA9_ITGB1_VCAM1,Vcam1 - (Itga9+Itgb1),ITGA9_ITGB1,Vcam1,VCAM,Cell-Cell Contact,0.0038973040451899,0.0,0.0225160519027673,0.0,0.0186187478575774,ARC_ARH,True,Microglia_autocrine
+Glutamatergic_Neuron,Microglia,NAMPT_INSR,Nampt  - Insr,Nampt,Insr,VISFATIN,Secreted Signaling,0.0183726296564432,0.03,0.0,1.0,-0.0183726296564432,ARC_ARH,True,Microglia_incoming
+Microglia,Microglia,GRN_SORT1,Grn  - Sort1,Grn,Sort1,GRN,Secreted Signaling,0.0804635066464443,0.0,0.0973739999635644,0.0,0.016910493317120093,ARC_ARH,True,Microglia_autocrine
+Glutamatergic_Neuron,Glutamatergic_Neuron,PDYN_OPRM1,Pdyn  - Oprm1,Pdyn,Oprm1,OPIOID,Secreted Signaling,0.016707047498792,0.0,0.0,1.0,-0.016707047498792,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,GABAergic_Neuron,POMC_OPRM1,Pomc  - Oprm1,Pomc,Oprm1,OPIOID,Secreted Signaling,0.0165735201670422,0.0,0.0,1.0,-0.0165735201670422,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,Microglia,COL4A2_ITGA9_ITGB1,Col4a2  - (Itga9+Itgb1),Col4a2,ITGA9_ITGB1,COLLAGEN,ECM-Receptor,0.0,1.0,0.0165414234236402,0.0,0.0165414234236402,ARC_ARH,True,Microglia_incoming
+Microglia,Glutamatergic_Neuron,F11R_JAM3,F11r  - Jam3,F11r,Jam3,JAM,Cell-Cell Contact,0.0510228109434799,0.0,0.0351115427727112,0.0,-0.015911268170768697,ARC_ARH,True,Microglia_outgoing
+Glutamatergic_Neuron,Microglia,JAM3_F11R,Jam3  - F11r,Jam3,F11r,JAM,Cell-Cell Contact,0.0510228109434799,0.0,0.0351115427727112,0.0,-0.015911268170768697,ARC_ARH,True,Microglia_incoming
+GABAergic_Neuron,GABAergic_Neuron,CDH4_CDH4,Cdh4  - Cdh4,Cdh4,Cdh4,CDH,Cell-Cell Contact,0.0732877679763284,0.0,0.0573960582068343,0.0,-0.015891709769494097,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,GABAergic_Neuron,SEMA4A_NRP1_PLXNA4,Sema4a  - (Nrp1+Plxna4),Sema4a,NRP1_PLXNA4,SEMA4,Cell-Cell Contact,0.0155296463921586,0.03,0.0,1.0,-0.0155296463921586,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,GABAergic_Neuron,THBS3_CD47,Thbs3  - Cd47,Thbs3,Cd47,THBS,ECM-Receptor,0.0,1.0,0.0153314503323719,0.0,0.0153314503323719,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,GABAergic_Neuron,EFNA5_EPHA5,Efna5  - Epha5,Efna5,Epha5,EPHA,Cell-Cell Contact,0.186159754161256,0.0,0.170991822705218,0.0,-0.01516793145603798,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,GABAergic_Neuron,NRXN3_NLGN1,Nrxn3  - Nlgn1,Nrxn3,Nlgn1,NRXN,Cell-Cell Contact,0.474026974761486,0.0,0.458904402700714,0.0,-0.015122572060772,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,GABAergic_Neuron,SEMA6B_PLXNA2,Sema6b  - Plxna2,Sema6b,Plxna2,SEMA6,Cell-Cell Contact,0.0150941717802526,0.0,0.0,1.0,-0.0150941717802526,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Microglia,THY1_ITGAM_ITGB2,Thy1  - (Itgam+Itgb2),Thy1,ITGAM_ITGB2,THY1,Cell-Cell Contact,0.0183948172550577,0.0,0.0331997438554379,0.0,0.014804926600380196,ARC_ARH,True,Microglia_incoming
+Glutamatergic_Neuron,Glutamatergic_Neuron,THBS3_CD47,Thbs3  - Cd47,Thbs3,Cd47,THBS,ECM-Receptor,0.0,1.0,0.0141132980720917,0.01,0.0141132980720917,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,Microglia,JAM3_F11R,Jam3  - F11r,Jam3,F11r,JAM,Cell-Cell Contact,0.0598251290297999,0.0,0.0457896675630352,0.0,-0.014035461466764702,ARC_ARH,True,Microglia_incoming
+Microglia,GABAergic_Neuron,F11R_JAM3,F11r  - Jam3,F11r,Jam3,JAM,Cell-Cell Contact,0.0598251290297999,0.0,0.0457896675630352,0.0,-0.014035461466764702,ARC_ARH,True,Microglia_outgoing
+GABAergic_Neuron,GABAergic_Neuron,FGF1_FGFR2,Fgf1  - Fgfr2,Fgf1,Fgfr2,FGF,Secreted Signaling,0.0,1.0,0.0135865730397488,0.0,0.0135865730397488,ARC_ARH,False,Neuron_neuron
+Microglia,Microglia,JAM2_ITGAV_ITGB1,Jam2  - (Itgav+Itgb1),Jam2,ITGAV_ITGB1,JAM,Cell-Cell Contact,0.0160395616750136,0.0,0.0025199176045477,0.0,-0.013519644070465901,ARC_ARH,True,Microglia_autocrine
+GABAergic_Neuron,Microglia,THY1_ITGAM_ITGB2,Thy1  - (Itgam+Itgb2),Thy1,ITGAM_ITGB2,THY1,Cell-Cell Contact,0.0357930888868837,0.0,0.0488597877597513,0.0,0.0130666988728676,ARC_ARH,True,Microglia_incoming
+Glutamatergic_Neuron,Glutamatergic_Neuron,NCAM1_L1CAM,Ncam1  - L1cam,Ncam1,L1cam,NCAM,Cell-Cell Contact,0.156602666783451,0.0,0.169556646822291,0.0,0.01295398003883999,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Microglia,DLK1_NOTCH2,Dlk1  - Notch2,Dlk1,Notch2,NOTCH,Cell-Cell Contact,0.014983369850999,0.0,0.027832810693194,0.0,0.012849440842195001,ARC_ARH,True,Microglia_incoming
+GABAergic_Neuron,Glutamatergic_Neuron,FGF1_FGFR2,Fgf1  - Fgfr2,Fgf1,Fgfr2,FGF,Secreted Signaling,0.0,1.0,0.0124111057560743,0.0,0.0124111057560743,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,Microglia,CX3CL1_CX3CR1,Cx3cl1  - Cx3cr1,Cx3cl1,Cx3cr1,CX3C,Secreted Signaling,0.215503052879339,0.0,0.203409897197419,0.0,-0.012093155681919987,ARC_ARH,True,Microglia_incoming
+Glutamatergic_Neuron,GABAergic_Neuron,WNT5A_FZD3,Wnt5a  - Fzd3,Wnt5a,Fzd3,ncWNT,Secreted Signaling,0.0042050071552395,0.0,0.0158575204921475,0.0,0.011652513336908,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Microglia,CX3CL1_CX3CR1,Cx3cl1  - Cx3cr1,Cx3cl1,Cx3cr1,CX3C,Secreted Signaling,0.189936704002827,0.0,0.201554939601254,0.0,0.011618235598427007,ARC_ARH,True,Microglia_incoming
+Glutamatergic_Neuron,GABAergic_Neuron,SEMA6A_PLXNA4,Sema6a  - Plxna4,Sema6a,Plxna4,SEMA6,Cell-Cell Contact,0.0822326088568327,0.0,0.0706927912344881,0.0,-0.0115398176223446,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,GABAergic_Neuron,NEGR1_NEGR1,Negr1  - Negr1,Negr1,Negr1,NEGR,Cell-Cell Contact,0.410356604378547,0.0,0.399198684925164,0.0,-0.011157919453382958,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Glutamatergic_Neuron,POMC_OPRM1,Pomc  - Oprm1,Pomc,Oprm1,OPIOID,Secreted Signaling,0.0108920766762266,0.0,0.0,1.0,-0.0108920766762266,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Glutamatergic_Neuron,WNT5A_FZD3,Wnt5a  - Fzd3,Wnt5a,Fzd3,ncWNT,Secreted Signaling,0.0032598788393669,0.0,0.0140131336027829,0.0,0.010753254763416,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,Microglia,SEMA4D_PLXNB2,Sema4d  - Plxnb2,Sema4d,Plxnb2,SEMA4,Cell-Cell Contact,0.0500005050753628,0.0,0.0394110797302277,0.0,-0.0105894253451351,ARC_ARH,True,Microglia_incoming
+Glutamatergic_Neuron,GABAergic_Neuron,FGF9_FGFR2,Fgf9  - Fgfr2,Fgf9,Fgfr2,FGF,Secreted Signaling,0.0043610402315379,0.0,0.0149244740110911,0.0,0.0105634337795532,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,Glutamatergic_Neuron,NRXN2_NLGN1,Nrxn2  - Nlgn1,Nrxn2,Nlgn1,NRXN,Cell-Cell Contact,0.274243677231055,0.0,0.263819935654616,0.0,-0.01042374157643905,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,Glutamatergic_Neuron,NPY_NPY1R,Npy  - Npy1r,Npy,Npy1r,NPY,Secreted Signaling,0.0,1.0,0.0103937976016872,0.0,0.0103937976016872,ARC_ARH,False,Neuron_neuron
+Microglia,Microglia,LGALS9_HAVCR2,Lgals9  - Havcr2,Lgals9,Havcr2,GALECTIN,Secreted Signaling,0.0153897672100767,0.0,0.0052376337536485,0.0,-0.0101521334564282,ARC_ARH,True,Microglia_autocrine
+Glutamatergic_Neuron,GABAergic_Neuron,LAMB3_SV2A,Lamb3  - Sv2a,Lamb3,Sv2a,LAMININ,ECM-Receptor,0.0073098104057649,0.0,0.0171639593014425,0.0,0.009854148895677598,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,GABAergic_Neuron,NRXN1_NLGN3,Nrxn1  - Nlgn3,Nrxn1,Nlgn3,NRXN,Cell-Cell Contact,0.146651590440217,0.0,0.136829284545924,0.0,-0.009822305894293004,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,GABAergic_Neuron,AGRN_DAG1,Agrn  - Dag1,Agrn,Dag1,AGRN,ECM-Receptor,0.0098197707896952,0.0,0.0,1.0,-0.0098197707896952,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,Glutamatergic_Neuron,FGF1_FGFR1,Fgf1  - Fgfr1,Fgf1,Fgfr1,FGF,Secreted Signaling,0.0,1.0,0.0097702670519877,0.0,0.0097702670519877,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Glutamatergic_Neuron,FGF9_FGFR2,Fgf9  - Fgfr2,Fgf9,Fgfr2,FGF,Secreted Signaling,0.0039774100626515,0.0,0.0136348557571498,0.0,0.0096574456944983,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Glutamatergic_Neuron,L1CAM_L1CAM,L1cam  - L1cam,L1cam,L1cam,L1CAM,Cell-Cell Contact,0.056804974644434,0.0,0.0663907599776926,0.0,0.0095857853332586,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Glutamatergic_Neuron,LAMC1_DAG1,Lamc1  - Dag1,Lamc1,Dag1,LAMININ,ECM-Receptor,0.0,1.0,0.0091557380063684,0.0,0.0091557380063684,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Microglia,SEMA4D_PLXNB2,Sema4d  - Plxnb2,Sema4d,Plxnb2,SEMA4,Cell-Cell Contact,0.0415470065882311,0.0,0.0328484873005026,0.0,-0.008698519287728503,ARC_ARH,True,Microglia_incoming
+GABAergic_Neuron,GABAergic_Neuron,FGF1_FGFR1,Fgf1  - Fgfr1,Fgf1,Fgfr1,FGF,Secreted Signaling,0.0,1.0,0.0086981838600491,0.0,0.0086981838600491,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Microglia,FGF9_FGFR2,Fgf9  - Fgfr2,Fgf9,Fgfr2,FGF,Secreted Signaling,0.0,1.0,0.0086398338872543,0.0,0.0086398338872543,ARC_ARH,True,Microglia_incoming
+GABAergic_Neuron,Glutamatergic_Neuron,SEMA4D_PLXNB2,Sema4d  - Plxnb2,Sema4d,Plxnb2,SEMA4,Cell-Cell Contact,0.0,1.0,0.0086181517212039,0.03,0.0086181517212039,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Glutamatergic_Neuron,LAMB3_SV2A,Lamb3  - Sv2a,Lamb3,Sv2a,LAMININ,ECM-Receptor,0.0068601768182254,0.0,0.0154035814490013,0.0,0.0085434046307759,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,GABAergic_Neuron,EFNB3_EPHB1,Efnb3  - Ephb1,Efnb3,Ephb1,EPHB,Cell-Cell Contact,0.0085273806847011,0.0,0.0,1.0,-0.0085273806847011,ARC_ARH,False,Neuron_neuron
+Microglia,Glutamatergic_Neuron,SEMA4D_PLXNB2,Sema4d  - Plxnb2,Sema4d,Plxnb2,SEMA4,Cell-Cell Contact,0.0159486178264849,0.0,0.0243847658352279,0.0,0.008436148008743,ARC_ARH,True,Microglia_outgoing
+Glutamatergic_Neuron,GABAergic_Neuron,BDNF_NTRK2,Bdnf  - Ntrk2,Bdnf,Ntrk2,NT,Secreted Signaling,0.0084052831206851,0.0,0.0,1.0,-0.0084052831206851,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,Microglia,JAM3_ITGAM_ITGB2,Jam3  - (Itgam+Itgb2),Jam3,ITGAM_ITGB2,JAM,Cell-Cell Contact,0.037880912424891,0.0,0.0462234637046891,0.0,0.008342551279798098,ARC_ARH,True,Microglia_incoming
+Glutamatergic_Neuron,Microglia,TNXB_ITGA9_ITGB1,Tnxb  - (Itga9+Itgb1),Tnxb,ITGA9_ITGB1,TENASCIN,ECM-Receptor,0.006429445621921,0.0,0.0146838168020912,0.0,0.0082543711801702,ARC_ARH,True,Microglia_incoming
+GABAergic_Neuron,GABAergic_Neuron,EFNA5_EPHA5,Efna5  - Epha5,Efna5,Epha5,EPHA,Cell-Cell Contact,0.151457674439519,0.0,0.159699373516958,0.0,0.008241699077439019,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,GABAergic_Neuron,EFNB2_EPHB2,Efnb2  - Ephb2,Efnb2,Ephb2,EPHB,Cell-Cell Contact,0.0161210388152796,0.0,0.0080694298296669,0.0,-0.0080516089856127,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,GABAergic_Neuron,SEMA4D_PLXNB2,Sema4d  - Plxnb2,Sema4d,Plxnb2,SEMA4,Cell-Cell Contact,0.0079395454825455,0.04,0.0,1.0,-0.0079395454825455,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Glutamatergic_Neuron,NRXN2_NLGN1,Nrxn2  - Nlgn1,Nrxn2,Nlgn1,NRXN,Cell-Cell Contact,0.278175100349402,0.0,0.270287648928999,0.0,-0.007887451420403035,ARC_ARH,False,Neuron_neuron
+Microglia,Glutamatergic_Neuron,SEMA4D_PLXNB1,Sema4d  - Plxnb1,Sema4d,Plxnb1,SEMA4,Cell-Cell Contact,0.0,1.0,0.007813121452823,0.0,0.007813121452823,ARC_ARH,True,Microglia_outgoing
+Glutamatergic_Neuron,Glutamatergic_Neuron,BDNF_NTRK2,Bdnf  - Ntrk2,Bdnf,Ntrk2,NT,Secreted Signaling,0.0078128617054433,0.0,0.0,1.0,-0.0078128617054433,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,Glutamatergic_Neuron,PTPRM_PTPRM,Ptprm  - Ptprm,Ptprm,Ptprm,PTPRM,Cell-Cell Contact,0.0474168472392289,0.0,0.0550739444354344,0.0,0.007657097196205498,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,GABAergic_Neuron,PTPRM_PTPRM,Ptprm  - Ptprm,Ptprm,Ptprm,PTPRM,Cell-Cell Contact,0.0474168472392289,0.0,0.0550739444354344,0.0,0.007657097196205498,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Glutamatergic_Neuron,LAMC1_SV2C,Lamc1  - Sv2c,Lamc1,Sv2c,LAMININ,ECM-Receptor,0.0110804418725397,0.0,0.0187058442984887,0.0,0.007625402425948998,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Glutamatergic_Neuron,NRG2_ERBB4,Nrg2  - Erbb4,Nrg2,Erbb4,NRG,Secreted Signaling,0.0970396873977246,0.0,0.104644443464633,0.0,0.0076047560669084,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Glutamatergic_Neuron,FGF9_FGFR1,Fgf9  - Fgfr1,Fgf9,Fgfr1,FGF,Secreted Signaling,0.0032084279435435,0.0,0.0107364579691337,0.0,0.0075280300255902,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Glutamatergic_Neuron,LAMB3_SV2C,Lamb3  - Sv2c,Lamb3,Sv2c,LAMININ,ECM-Receptor,0.0031016140568305,0.0,0.0105299862943327,0.0,0.007428372237502201,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,Glutamatergic_Neuron,HBEGF_ERBB4,Hbegf  - Erbb4,Hbegf,Erbb4,EGF,Secreted Signaling,0.0,1.0,0.00727802733658,0.01,0.00727802733658,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,Microglia,NAMPT_ITGA5_ITGB1,Nampt  - (Itga5+Itgb1),Nampt,ITGA5_ITGB1,VISFATIN,Secreted Signaling,0.0,1.0,0.0071977989071835,0.0,0.0071977989071835,ARC_ARH,True,Microglia_incoming
+GABAergic_Neuron,GABAergic_Neuron,NRXN1_NLGN3,Nrxn1  - Nlgn3,Nrxn1,Nlgn3,NRXN,Cell-Cell Contact,0.142084306275863,0.0,0.134886614414767,0.0,-0.007197691861096006,ARC_ARH,False,Neuron_neuron
+Microglia,Microglia,TNF_TNFRSF1A,Tnf  - Tnfrsf1a,Tnf,Tnfrsf1a,TNF,Secreted Signaling,0.0071687284375247,0.0,0.0,1.0,-0.0071687284375247,ARC_ARH,True,Microglia_autocrine
+Microglia,Microglia,LGALS9_IGHM,Lgals9  - Ighm,Lgals9,Ighm,GALECTIN,Secreted Signaling,0.0113351740774919,0.0,0.0183805070441934,0.0,0.0070453329667015,ARC_ARH,True,Microglia_autocrine
+GABAergic_Neuron,Glutamatergic_Neuron,NAMPT_INSR,Nampt  - Insr,Nampt,Insr,VISFATIN,Secreted Signaling,0.0163741592921761,0.0,0.0232893195182548,0.0,0.006915160226078701,ARC_ARH,False,Neuron_neuron
+Microglia,GABAergic_Neuron,SEMA4D_PLXNB1,Sema4d  - Plxnb1,Sema4d,Plxnb1,SEMA4,Cell-Cell Contact,0.0,1.0,0.0068752751033137,0.0,0.0068752751033137,ARC_ARH,True,Microglia_outgoing
+GABAergic_Neuron,Glutamatergic_Neuron,EFNB2_EPHB2,Efnb2  - Ephb2,Efnb2,Ephb2,EPHB,Cell-Cell Contact,0.0142331999237652,0.0,0.0074006484086271,0.0,-0.0068325515151381,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,GABAergic_Neuron,FGF9_FGFR1,Fgf9  - Fgfr1,Fgf9,Fgfr1,FGF,Secreted Signaling,0.0028722252774918,0.0,0.0095593789384038,0.0,0.006687153660912,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,Glutamatergic_Neuron,NCAM1_L1CAM,Ncam1  - L1cam,Ncam1,L1cam,NCAM,Cell-Cell Contact,0.149859091708279,0.0,0.156525102714935,0.0,0.0066660110066560085,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Glutamatergic_Neuron,SEMA4A_PLXNB2,Sema4a  - Plxnb2,Sema4a,Plxnb2,SEMA4,Cell-Cell Contact,0.0,1.0,0.0066183203617729,0.02,0.0066183203617729,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Microglia,NAMPT_ITGA5_ITGB1,Nampt  - (Itga5+Itgb1),Nampt,ITGA5_ITGB1,VISFATIN,Secreted Signaling,0.0,1.0,0.006604164219195,0.0,0.006604164219195,ARC_ARH,True,Microglia_incoming
+GABAergic_Neuron,Glutamatergic_Neuron,L1CAM_L1CAM,L1cam  - L1cam,L1cam,L1cam,L1CAM,Cell-Cell Contact,0.0525791095216382,0.0,0.0588832149590989,0.0,0.006304105437460704,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,GABAergic_Neuron,L1CAM_L1CAM,L1cam  - L1cam,L1cam,L1cam,L1CAM,Cell-Cell Contact,0.0525791095216382,0.0,0.0588832149590989,0.0,0.006304105437460704,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,GABAergic_Neuron,NRXN2_NLGN2,Nrxn2  - Nlgn2,Nrxn2,Nlgn2,NRXN,Cell-Cell Contact,0.0781511026192314,0.0,0.0843536566052824,0.0,0.006202553986051004,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,GABAergic_Neuron,NCAM1_L1CAM,Ncam1  - L1cam,Ncam1,L1cam,NCAM,Cell-Cell Contact,0.146102622328122,0.0,0.152285904295361,0.0,0.006183281967239024,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,GABAergic_Neuron,HBEGF_ERBB4,Hbegf  - Erbb4,Hbegf,Erbb4,EGF,Secreted Signaling,0.0061738987724325,0.0,0.0,1.0,-0.0061738987724325,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Glutamatergic_Neuron,EFNB1_EPHA4,Efnb1  - Epha4,Efnb1,Epha4,EPHB,Cell-Cell Contact,0.0,1.0,0.00616075746902,0.0,0.00616075746902,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Glutamatergic_Neuron,SEMA4A_NRP1_PLXNA3,Sema4a  - (Nrp1+Plxna3),Sema4a,NRP1_PLXNA3,SEMA4,Cell-Cell Contact,0.0059630436290418,0.0,0.0,1.0,-0.0059630436290418,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,Microglia,SEMA4A_NRP1_PLXNA4,Sema4a  - (Nrp1+Plxna4),Sema4a,NRP1_PLXNA4,SEMA4,Cell-Cell Contact,0.0216492639086421,0.0,0.0276032276896803,0.0,0.005953963781038199,ARC_ARH,True,Microglia_incoming
+Glutamatergic_Neuron,Microglia,COL4A2_SDC4,Col4a2  - Sdc4,Col4a2,Sdc4,COLLAGEN,ECM-Receptor,0.0,1.0,0.0058717062737841,0.0,0.0058717062737841,ARC_ARH,True,Microglia_incoming
+GABAergic_Neuron,GABAergic_Neuron,CADM1_CADM1,Cadm1  - Cadm1,Cadm1,Cadm1,CADM,Cell-Cell Contact,0.228272122671608,0.03,0.234088681437452,0.0,0.005816558765843999,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,Microglia,LAMC1_ITGA9_ITGB1,Lamc1  - (Itga9+Itgb1),Lamc1,ITGA9_ITGB1,LAMININ,ECM-Receptor,0.0188828551739023,0.0,0.0131376968865256,0.0,-0.005745158287376699,ARC_ARH,True,Microglia_incoming
+GABAergic_Neuron,Microglia,JAM3_JAM2,Jam3  - Jam2,Jam3,Jam2,JAM,Cell-Cell Contact,0.0070722241716643,0.0,0.0013713613035923,0.0,-0.005700862868072001,ARC_ARH,True,Microglia_incoming
+Microglia,GABAergic_Neuron,JAM2_JAM3,Jam2  - Jam3,Jam2,Jam3,JAM,Cell-Cell Contact,0.0070722241716643,0.0,0.0013713613035923,0.0,-0.005700862868072001,ARC_ARH,True,Microglia_outgoing
+Glutamatergic_Neuron,Glutamatergic_Neuron,NCAM1_NCAM1,Ncam1  - Ncam1,Ncam1,Ncam1,NCAM,Cell-Cell Contact,0.364055825238572,0.0,0.369573902715906,0.0,0.005518077477334016,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,Glutamatergic_Neuron,EFNB1_EPHA4,Efnb1  - Epha4,Efnb1,Epha4,EPHB,Cell-Cell Contact,0.0,1.0,0.0053359432111122,0.0,0.0053359432111122,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,Microglia,LAMC1_ITGA6_ITGB1,Lamc1  - (Itga6+Itgb1),Lamc1,ITGA6_ITGB1,LAMININ,ECM-Receptor,0.0196123768150554,0.0,0.0142822153843358,0.0,-0.005330161430719599,ARC_ARH,True,Microglia_incoming
+Microglia,GABAergic_Neuron,SEMA4D_PLXNB2,Sema4d  - Plxnb2,Sema4d,Plxnb2,SEMA4,Cell-Cell Contact,0.0170487471578838,0.0,0.0223569347193081,0.0,0.005308187561424302,ARC_ARH,True,Microglia_outgoing
+GABAergic_Neuron,GABAergic_Neuron,NRXN2_NLGN2,Nrxn2  - Nlgn2,Nrxn2,Nlgn2,NRXN,Cell-Cell Contact,0.0767460357399393,0.0,0.081836184936008,0.0,0.005090149196068705,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,GABAergic_Neuron,SEMA4A_PLXNB2,Sema4a  - Plxnb2,Sema4a,Plxnb2,SEMA4,Cell-Cell Contact,0.0049612795947566,0.0,0.0,1.0,-0.0049612795947566,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,Glutamatergic_Neuron,LAMC1_SV2C,Lamc1  - Sv2c,Lamc1,Sv2c,LAMININ,ECM-Receptor,0.0102019970057171,0.0,0.0151551839383034,0.0,0.0049531869325863,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,GABAergic_Neuron,CNTN2_CNTN2_CNTNAP2,Cntn2  - (Cntn2+Cntnap2),Cntn2,CNTN2_CNTNAP2,CNTN,Cell-Cell Contact,0.027293823446123,0.0,0.0322391712637482,0.0,0.004945347817625199,ARC_ARH,False,Neuron_neuron
+Microglia,Glutamatergic_Neuron,JAM2_JAM3,Jam2  - Jam3,Jam2,Jam3,JAM,Cell-Cell Contact,0.0059822711244973,0.0,0.0010402681022006,0.0,-0.0049420030222967004,ARC_ARH,True,Microglia_outgoing
+Glutamatergic_Neuron,Microglia,JAM3_JAM2,Jam3  - Jam2,Jam3,Jam2,JAM,Cell-Cell Contact,0.0059822711244973,0.0,0.0010402681022006,0.0,-0.0049420030222967004,ARC_ARH,True,Microglia_incoming
+GABAergic_Neuron,Glutamatergic_Neuron,CNTN2_L1CAM,Cntn2  - L1cam,Cntn2,L1cam,CNTN,Cell-Cell Contact,0.0228958673694052,0.0,0.0277950015256743,0.0,0.004899134156269098,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,Glutamatergic_Neuron,EFNB2_EPHA4,Efnb2  - Epha4,Efnb2,Epha4,EPHB,Cell-Cell Contact,0.0,1.0,0.0048787258441787,0.0,0.0048787258441787,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,GABAergic_Neuron,SEMA5A_PLXNA3,Sema5a  - Plxna3,Sema5a,Plxna3,SEMA5,Cell-Cell Contact,0.0053656656526431,0.0,0.0102151660798134,0.0,0.0048495004271703005,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,Microglia,COL4A2_SDC4,Col4a2  - Sdc4,Col4a2,Sdc4,COLLAGEN,ECM-Receptor,0.0,1.0,0.0048429400425218,0.0,0.0048429400425218,ARC_ARH,True,Microglia_incoming
+Glutamatergic_Neuron,Microglia,SEMA3A_NRP1_PLXNA4,Sema3a  - (Nrp1+Plxna4),Sema3a,NRP1_PLXNA4,SEMA3,Secreted Signaling,0.0047771050231896,0.0,0.0,1.0,-0.0047771050231896,ARC_ARH,True,Microglia_incoming
+Glutamatergic_Neuron,GABAergic_Neuron,NRG4_ERBB4,Nrg4  - Erbb4,Nrg4,Erbb4,NRG,Secreted Signaling,0.0047408889489323,0.02,0.0,1.0,-0.0047408889489323,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,GABAergic_Neuron,PDYN_OPRK1,Pdyn  - Oprk1,Pdyn,Oprk1,OPIOID,Secreted Signaling,0.0047059102691868,0.0,0.0,1.0,-0.0047059102691868,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,GABAergic_Neuron,LAMB3_SV2C,Lamb3  - Sv2c,Lamb3,Sv2c,LAMININ,ECM-Receptor,0.0024135685838563,0.0,0.0069503195269686,0.0,0.004536750943112299,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,GABAergic_Neuron,SEMA4A_NRP1_PLXNA3,Sema4a  - (Nrp1+Plxna3),Sema4a,NRP1_PLXNA3,SEMA4,Cell-Cell Contact,0.0045308932629245,0.0,0.0,1.0,-0.0045308932629245,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,GABAergic_Neuron,NCAM1_NCAM1,Ncam1  - Ncam1,Ncam1,Ncam1,NCAM,Cell-Cell Contact,0.352108508154386,0.0,0.347604348188273,0.0,-0.004504159966112975,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,Glutamatergic_Neuron,NCAM1_NCAM1,Ncam1  - Ncam1,Ncam1,Ncam1,NCAM,Cell-Cell Contact,0.352108508154386,0.0,0.347604348188273,0.0,-0.004504159966112975,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,GABAergic_Neuron,LAMC1_SV2A,Lamc1  - Sv2a,Lamc1,Sv2a,LAMININ,ECM-Receptor,0.0258335912246961,0.02,0.0303327688661419,0.0,0.004499177641445799,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,GABAergic_Neuron,EFNB3_EPHB2,Efnb3  - Ephb2,Efnb3,Ephb2,EPHB,Cell-Cell Contact,0.0399597418608543,0.0,0.0354970505731637,0.0,-0.004462691287690598,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,GABAergic_Neuron,EFNB3_EPHB1,Efnb3  - Ephb1,Efnb3,Ephb1,EPHB,Cell-Cell Contact,0.009648308652392,0.0,0.0051948976442665,0.0,-0.004453411008125499,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,GABAergic_Neuron,COL4A2_ITGA3_ITGB1,Col4a2  - (Itga3+Itgb1),Col4a2,ITGA3_ITGB1,COLLAGEN,ECM-Receptor,0.0,1.0,0.0044283474806483,0.0,0.0044283474806483,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Glutamatergic_Neuron,NFASC_CNTN1_CNTNAP1,Nfasc  - (Cntn1+Cntnap1),Nfasc,CNTN1_CNTNAP1,CNTN,Cell-Cell Contact,0.0619778524072161,0.01,0.0663955322214418,0.0,0.0044176798142257015,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Glutamatergic_Neuron,NCAM1_FGFR1,Ncam1  - Fgfr1,Ncam1,Fgfr1,NCAM,Cell-Cell Contact,0.109593175995366,0.0,0.113920789677931,0.0,0.0043276136825649986,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Glutamatergic_Neuron,COL4A2_ITGA11_ITGB1,Col4a2  - (Itga11+Itgb1),Col4a2,ITGA11_ITGB1,COLLAGEN,ECM-Receptor,0.0,1.0,0.0043051616990312,0.0,0.0043051616990312,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Microglia,LAMC1_ITGA9_ITGB1,Lamc1  - (Itga9+Itgb1),Lamc1,ITGA9_ITGB1,LAMININ,ECM-Receptor,0.0204932910197884,0.0,0.0162234729172035,0.0,-0.0042698181025849005,ARC_ARH,True,Microglia_incoming
+Glutamatergic_Neuron,Glutamatergic_Neuron,COL4A2_ITGA3_ITGB1,Col4a2  - (Itga3+Itgb1),Col4a2,ITGA3_ITGB1,COLLAGEN,ECM-Receptor,0.0,1.0,0.0042153271222956,0.04,0.0042153271222956,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Microglia,DLK1_NOTCH1,Dlk1  - Notch1,Dlk1,Notch1,NOTCH,Cell-Cell Contact,0.0043414775592639,0.0,0.0085265056240444,0.0,0.0041850280647805,ARC_ARH,True,Microglia_incoming
+GABAergic_Neuron,Microglia,GDF11_TGFBR1_ACVR2B,Gdf11  - (Tgfbr1+Acvr2b),Gdf11,TGFBR1_ACVR2B,GDF,Secreted Signaling,0.0041452283842813,0.0,0.0,1.0,-0.0041452283842813,ARC_ARH,True,Microglia_incoming
+GABAergic_Neuron,GABAergic_Neuron,NRXN3_NLGN2,Nrxn3  - Nlgn2,Nrxn3,Nlgn2,NRXN,Cell-Cell Contact,0.175343649697266,0.0,0.179336028571282,0.0,0.003992378874015989,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Microglia,SEMA4A_NRP1_PLXNA4,Sema4a  - (Nrp1+Plxna4),Sema4a,NRP1_PLXNA4,SEMA4,Cell-Cell Contact,0.0267453916981697,0.0,0.0307030936854666,0.0,0.0039577019872969015,ARC_ARH,True,Microglia_incoming
+Glutamatergic_Neuron,GABAergic_Neuron,EFNA5_EPHA3,Efna5  - Epha3,Efna5,Epha3,EPHA,Cell-Cell Contact,0.0237107877651385,0.0,0.0197609863071559,0.0,-0.0039498014579826025,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Microglia,LAMB3_ITGA6_ITGB1,Lamb3  - (Itga6+Itgb1),Lamb3,ITGA6_ITGB1,LAMININ,ECM-Receptor,0.0060022771307396,0.0,0.0099207545022473,0.0,0.0039184773715077,ARC_ARH,True,Microglia_incoming
+Microglia,Glutamatergic_Neuron,PROS1_TYRO3,Pros1  - Tyro3,Pros1,Tyro3,PROS,Secreted Signaling,0.0,1.0,0.0038139781459833,0.0,0.0038139781459833,ARC_ARH,True,Microglia_outgoing
+Glutamatergic_Neuron,GABAergic_Neuron,NRXN1_NLGN2,Nrxn1  - Nlgn2,Nrxn1,Nlgn2,NRXN,Cell-Cell Contact,0.156874013771611,0.0,0.153097778802743,0.0,-0.003776234968868003,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,GABAergic_Neuron,NPY_NPY2R,Npy  - Npy2r,Npy,Npy2r,NPY,Secreted Signaling,0.0,1.0,0.0037547293871972,0.0,0.0037547293871972,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,Microglia,TNXB_ITGA9_ITGB1,Tnxb  - (Itga9+Itgb1),Tnxb,ITGA9_ITGB1,TENASCIN,ECM-Receptor,0.0,1.0,0.0037072072883357,0.0,0.0037072072883357,ARC_ARH,True,Microglia_incoming
+Glutamatergic_Neuron,Microglia,LAMC1_ITGA6_ITGB1,Lamc1  - (Itga6+Itgb1),Lamc1,ITGA6_ITGB1,LAMININ,ECM-Receptor,0.0212836806520577,0.0,0.0176320123705204,0.0,-0.0036516682815372972,ARC_ARH,True,Microglia_incoming
+GABAergic_Neuron,Microglia,GDF11_TGFBR1_ACVR2A,Gdf11  - (Tgfbr1+Acvr2a),Gdf11,TGFBR1_ACVR2A,GDF,Secreted Signaling,0.003645021509991,0.0,0.0,1.0,-0.003645021509991,ARC_ARH,True,Microglia_incoming
+GABAergic_Neuron,Glutamatergic_Neuron,ENHO_GPR19,Enho  - Gpr19,Enho,Gpr19,ENHO,Secreted Signaling,0.0,1.0,0.003619818243619,0.0,0.003619818243619,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Glutamatergic_Neuron,SEMA5A_PLXNA1,Sema5a  - Plxna1,Sema5a,Plxna1,SEMA5,Cell-Cell Contact,0.0163095854542721,0.0,0.0126990534415944,0.0,-0.0036105320126777005,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,Glutamatergic_Neuron,COL4A2_ITGA11_ITGB1,Col4a2  - (Itga11+Itgb1),Col4a2,ITGA11_ITGB1,COLLAGEN,ECM-Receptor,0.0,1.0,0.0035498855349356,0.01,0.0035498855349356,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Microglia,GDF11_TGFBR1_ACVR2B,Gdf11  - (Tgfbr1+Acvr2b),Gdf11,TGFBR1_ACVR2B,GDF,Secreted Signaling,0.0035367815228271,0.0,0.0,1.0,-0.0035367815228271,ARC_ARH,True,Microglia_incoming
+Glutamatergic_Neuron,Glutamatergic_Neuron,PDYN_OPRK1,Pdyn  - Oprk1,Pdyn,Oprk1,OPIOID,Secreted Signaling,0.003505197983272,0.0,0.0,1.0,-0.003505197983272,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,GABAergic_Neuron,SEMA3A_NRP1_PLXNA4,Sema3a  - (Nrp1+Plxna4),Sema3a,NRP1_PLXNA4,SEMA3,Secreted Signaling,0.0034101325833266,0.0,0.0,1.0,-0.0034101325833266,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,GABAergic_Neuron,CNTN2_L1CAM,Cntn2  - L1cam,Cntn2,L1cam,CNTN,Cell-Cell Contact,0.0211360575513499,0.0,0.0245372031793871,0.0,0.0034011456280372,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,GABAergic_Neuron,WNT5B_FZD3,Wnt5b  - Fzd3,Wnt5b,Fzd3,ncWNT,Secreted Signaling,0.0,1.0,0.003352232033289,0.0,0.003352232033289,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Microglia,LAMB3_ITGA9_ITGB1,Lamb3  - (Itga9+Itgb1),Lamb3,ITGA9_ITGB1,LAMININ,ECM-Receptor,0.0057760277705911,0.0,0.0091225110901091,0.0,0.0033464833195180005,ARC_ARH,True,Microglia_incoming
+GABAergic_Neuron,GABAergic_Neuron,NRXN3_NLGN3,Nrxn3  - Nlgn3,Nrxn3,Nlgn3,NRXN,Cell-Cell Contact,0.164152007534484,0.0,0.160808809581412,0.0,-0.0033431979530720024,ARC_ARH,False,Neuron_neuron
+Microglia,Microglia,JAM2_JAM2,Jam2  - Jam2,Jam2,Jam2,JAM,Cell-Cell Contact,0.0034614975810563,0.0,0.0001492725797726,0.0,-0.0033122250012837,ARC_ARH,True,Microglia_autocrine
+Glutamatergic_Neuron,Microglia,THBS3_SDC4,Thbs3  - Sdc4,Thbs3,Sdc4,THBS,ECM-Receptor,0.0,1.0,0.0033006197846693,0.0,0.0033006197846693,ARC_ARH,True,Microglia_incoming
+Glutamatergic_Neuron,Glutamatergic_Neuron,CNTN1_NRCAM,Cntn1  - Nrcam,Cntn1,Nrcam,CNTN,Cell-Cell Contact,0.157953552220297,0.0,0.161239747463938,0.0,0.003286195243640988,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,Glutamatergic_Neuron,NRXN3_NLGN2,Nrxn3  - Nlgn2,Nrxn3,Nlgn2,NRXN,Cell-Cell Contact,0.167518146472174,0.0,0.170769528508426,0.0,0.0032513820362519985,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Microglia,JAM3_ITGAM_ITGB2,Jam3  - (Itgam+Itgb2),Jam3,ITGAM_ITGB2,JAM,Cell-Cell Contact,0.0321967675206182,0.0,0.0354479359255689,0.0,0.0032511684049506967,ARC_ARH,True,Microglia_incoming
+GABAergic_Neuron,Glutamatergic_Neuron,NPY_NPY5R,Npy  - Npy5r,Npy,Npy5r,NPY,Secreted Signaling,0.0,1.0,0.003241359731702,0.0,0.003241359731702,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Glutamatergic_Neuron,ENHO_GPR19,Enho  - Gpr19,Enho,Gpr19,ENHO,Secreted Signaling,0.0,1.0,0.003222360210517,0.03,0.003222360210517,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,GABAergic_Neuron,SEMA6A_PLXNA2,Sema6a  - Plxna2,Sema6a,Plxna2,SEMA6,Cell-Cell Contact,0.0533487158257014,0.0,0.050198745137722,0.0,-0.0031499706879793976,ARC_ARH,False,Neuron_neuron
+Microglia,Microglia,SEMA4D_PLXNB2,Sema4d  - Plxnb2,Sema4d,Plxnb2,SEMA4,Cell-Cell Contact,0.102386644328498,0.0,0.105516404492915,0.0,0.0031297601644169892,ARC_ARH,True,Microglia_autocrine
+Glutamatergic_Neuron,Microglia,GDF11_TGFBR1_ACVR2A,Gdf11  - (Tgfbr1+Acvr2a),Gdf11,TGFBR1_ACVR2A,GDF,Secreted Signaling,0.0031097669746522,0.0,0.0,1.0,-0.0031097669746522,ARC_ARH,True,Microglia_incoming
+Glutamatergic_Neuron,GABAergic_Neuron,POMC_OPRK1,Pomc  - Oprk1,Pomc,Oprk1,OPIOID,Secreted Signaling,0.0030550170418742,0.0,0.0,1.0,-0.0030550170418742,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Glutamatergic_Neuron,WNT5B_FZD3,Wnt5b  - Fzd3,Wnt5b,Fzd3,ncWNT,Secreted Signaling,0.0,1.0,0.0029579625566737,0.0,0.0029579625566737,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Glutamatergic_Neuron,LAMB3_DAG1,Lamb3  - Dag1,Lamb3,Dag1,LAMININ,ECM-Receptor,0.002200155669512,0.0,0.0051321626872397,0.0,0.0029320070177277,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Microglia,TNXB_SDC4,Tnxb  - Sdc4,Tnxb,Sdc4,TENASCIN,ECM-Receptor,0.0013671574687839,0.0,0.0042933412629738,0.0,0.0029261837941898998,ARC_ARH,True,Microglia_incoming
+Glutamatergic_Neuron,GABAergic_Neuron,EFNB1_EPHB2,Efnb1  - Ephb2,Efnb1,Ephb2,EPHB,Cell-Cell Contact,0.0130075883226565,0.0,0.010181336252887,0.0,-0.002826252069769499,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,Glutamatergic_Neuron,SEMA4D_PLXNB1,Sema4d  - Plxnb1,Sema4d,Plxnb1,SEMA4,Cell-Cell Contact,0.0,1.0,0.0027313441308763,0.02,0.0027313441308763,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,GABAergic_Neuron,SEMA3A_NRP1_PLXNA2,Sema3a  - (Nrp1+Plxna2),Sema3a,NRP1_PLXNA2,SEMA3,Secreted Signaling,0.0027063819284467,0.0,0.0,1.0,-0.0027063819284467,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,GABAergic_Neuron,EFNB2_EPHB1,Efnb2  - Ephb1,Efnb2,Ephb1,EPHB,Cell-Cell Contact,0.0038204759677058,0.0,0.0011529509911424,0.0,-0.0026675249765633997,ARC_ARH,False,Neuron_neuron
+Microglia,GABAergic_Neuron,GRN_SORT1,Grn  - Sort1,Grn,Sort1,GRN,Secreted Signaling,0.0522872714722727,0.0,0.0549150051226266,0.0,0.002627733650353896,ARC_ARH,True,Microglia_outgoing
+GABAergic_Neuron,GABAergic_Neuron,EFNB1_EPHB1,Efnb1  - Ephb1,Efnb1,Ephb1,EPHB,Cell-Cell Contact,0.0025672341257751,0.0,0.0,1.0,-0.0025672341257751,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Glutamatergic_Neuron,LAMC1_SV2B,Lamc1  - Sv2b,Lamc1,Sv2b,LAMININ,ECM-Receptor,0.0025624067306833,0.0,0.0,1.0,-0.0025624067306833,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Glutamatergic_Neuron,SEMA3A_NRP1_PLXNA4,Sema3a  - (Nrp1+Plxna4),Sema3a,NRP1_PLXNA4,SEMA3,Secreted Signaling,0.0025280639254094,0.0,0.0,1.0,-0.0025280639254094,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,GABAergic_Neuron,THBS3_ITGA3_ITGB1,Thbs3  - (Itga3+Itgb1),Thbs3,ITGA3_ITGB1,THBS,ECM-Receptor,0.0,1.0,0.0024876934010703,0.0,0.0024876934010703,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,GABAergic_Neuron,EFNB2_EPHA4,Efnb2  - Epha4,Efnb2,Epha4,EPHB,Cell-Cell Contact,0.0,1.0,0.0024296363061607,0.0,0.0024296363061607,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,GABAergic_Neuron,LAMB3_DAG1,Lamb3  - Dag1,Lamb3,Dag1,LAMININ,ECM-Receptor,0.0023340072509785,0.0,0.0047587338912858,0.0,0.0024247266403072997,ARC_ARH,False,Neuron_neuron
+Microglia,GABAergic_Neuron,JAM2_ITGA3_ITGB1,Jam2  - (Itga3+Itgb1),Jam2,ITGA3_ITGB1,JAM,Cell-Cell Contact,0.0030394992589029,0.0,0.0006474175153977,0.0,-0.0023920817435052,ARC_ARH,True,Microglia_outgoing
+Glutamatergic_Neuron,GABAergic_Neuron,SEMA5A_PLXNA1,Sema5a  - Plxna1,Sema5a,Plxna1,SEMA5,Cell-Cell Contact,0.0171197511784106,0.0,0.0147330867955059,0.0,-0.002386664382904701,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Glutamatergic_Neuron,THBS3_ITGA3_ITGB1,Thbs3  - (Itga3+Itgb1),Thbs3,ITGA3_ITGB1,THBS,ECM-Receptor,0.0,1.0,0.0023678038613752,0.01,0.0023678038613752,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,Glutamatergic_Neuron,LAMC1_SV2B,Lamc1  - Sv2b,Lamc1,Sv2b,LAMININ,ECM-Receptor,0.002357652068829,0.0,0.0,1.0,-0.002357652068829,ARC_ARH,False,Neuron_neuron
+Microglia,Glutamatergic_Neuron,JAM2_ITGA3_ITGB1,Jam2  - (Itga3+Itgb1),Jam2,ITGA3_ITGB1,JAM,Cell-Cell Contact,0.0029641885322521,0.0,0.0006161617060768,0.0,-0.0023480268261753,ARC_ARH,True,Microglia_outgoing
+Microglia,Microglia,ICAM1_ITGAM_ITGB2,Icam1  - (Itgam+Itgb2),Icam1,ITGAM_ITGB2,ICAM,Cell-Cell Contact,0.0288813480112932,0.0,0.0312227508200106,0.0,0.0023414028087174014,ARC_ARH,True,Microglia_autocrine
+GABAergic_Neuron,GABAergic_Neuron,CNTN2_CNTN2,Cntn2  - Cntn2,Cntn2,Cntn2,CNTN,Cell-Cell Contact,0.0090345421576035,0.0,0.0113634930293523,0.0,0.0023289508717488014,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Glutamatergic_Neuron,POMC_OPRK1,Pomc  - Oprk1,Pomc,Oprk1,OPIOID,Secreted Signaling,0.0022745672755534,0.0,0.0,1.0,-0.0022745672755534,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Glutamatergic_Neuron,NRG4_ERBB4,Nrg4  - Erbb4,Nrg4,Erbb4,NRG,Secreted Signaling,0.0060220521626488,0.0,0.0082681998484747,0.0,0.002246147685825901,ARC_ARH,False,Neuron_neuron
+Microglia,Glutamatergic_Neuron,GRN_SORT1,Grn  - Sort1,Grn,Sort1,GRN,Secreted Signaling,0.0499112885777496,0.0,0.0520893806092081,0.0,0.002178092031458495,ARC_ARH,True,Microglia_outgoing
+Glutamatergic_Neuron,GABAergic_Neuron,NRXN2_NLGN3,Nrxn2  - Nlgn3,Nrxn2,Nlgn3,NRXN,Cell-Cell Contact,0.0726166987096103,0.0,0.0747453476003497,0.0,0.0021286488907394097,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,Glutamatergic_Neuron,SST_SSTR1,Sst  - Sstr1,Sst,Sstr1,SOMATOSTATIN,Secreted Signaling,0.0,1.0,0.0021232059642004,0.0,0.0021232059642004,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Glutamatergic_Neuron,SEMA4A_PLXNB1,Sema4a  - Plxnb1,Sema4a,Plxnb1,SEMA4,Cell-Cell Contact,0.0,1.0,0.0020946529064847,0.02,0.0020946529064847,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,GABAergic_Neuron,GRN_SORT1,Grn  - Sort1,Grn,Sort1,GRN,Secreted Signaling,0.0,1.0,0.0020856698074939,0.02,0.0020856698074939,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,GABAergic_Neuron,SEMA6D_PLXNA1,Sema6d  - Plxna1,Sema6d,Plxna1,SEMA6,Cell-Cell Contact,0.0124496041198901,0.0,0.0144250505888396,0.0,0.0019754464689494995,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,GABAergic_Neuron,JAM3_JAM3,Jam3  - Jam3,Jam3,Jam3,JAM,Cell-Cell Contact,0.0143949345437954,0.01,0.0124738206095447,0.0,-0.0019211139342506997,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Glutamatergic_Neuron,SEMA3A_NRP1_PLXNA2,Sema3a  - (Nrp1+Plxna2),Sema3a,NRP1_PLXNA2,SEMA3,Secreted Signaling,0.0019009602395564,0.0,0.0,1.0,-0.0019009602395564,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,Microglia,DLK1_NOTCH1,Dlk1  - Notch1,Dlk1,Notch1,NOTCH,Cell-Cell Contact,0.0386525876096559,0.0,0.0405420295718681,0.0,0.0018894419622122044,ARC_ARH,True,Microglia_incoming
+GABAergic_Neuron,GABAergic_Neuron,GDF11_ACVR1B_ACVR2B,Gdf11  - (Acvr1b+Acvr2b),Gdf11,ACVR1B_ACVR2B,GDF,Secreted Signaling,0.0017453260490792,0.0,0.0,1.0,-0.0017453260490792,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Glutamatergic_Neuron,HBEGF_ERBB4,Hbegf  - Erbb4,Hbegf,Erbb4,EGF,Secreted Signaling,0.0078392639103069,0.0,0.0095496074426307,0.0,0.0017103435323237992,ARC_ARH,False,Neuron_neuron
+Microglia,Microglia,SEMA4C_PLXNB2,Sema4c  - Plxnb2,Sema4c,Plxnb2,SEMA4,Cell-Cell Contact,0.0051213554843628,0.0,0.0034293327410401,0.0,-0.0016920227433226999,ARC_ARH,True,Microglia_autocrine
+GABAergic_Neuron,Microglia,SEMA4A_PLXNB2,Sema4a  - Plxnb2,Sema4a,Plxnb2,SEMA4,Cell-Cell Contact,0.0257249697292575,0.0,0.0274069947528013,0.0,0.0016820250235438025,ARC_ARH,True,Microglia_incoming
+GABAergic_Neuron,Glutamatergic_Neuron,NFASC_CNTN1_CNTNAP1,Nfasc  - (Cntn1+Cntnap1),Nfasc,CNTN1_CNTNAP1,CNTN,Cell-Cell Contact,0.0602629502180556,0.03,0.0619285337220837,0.0,0.0016655835040281022,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,GABAergic_Neuron,EFNB1_EPHB1,Efnb1  - Ephb1,Efnb1,Ephb1,EPHB,Cell-Cell Contact,0.0030752036375177,0.0,0.0014573572981071,0.0,-0.0016178463394106,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Microglia,JAG2_NOTCH2,Jag2  - Notch2,Jag2,Notch2,NOTCH,Cell-Cell Contact,0.0138150384704601,0.0,0.0154254940138415,0.0,0.0016104555433814009,ARC_ARH,True,Microglia_incoming
+Microglia,Microglia,LGALS9_CD45,Lgals9  - Cd45,Lgals9,Ptprc,GALECTIN,Secreted Signaling,0.0340536321170363,0.0,0.0324486095232841,0.0,-0.0016050225937521978,ARC_ARH,True,Microglia_autocrine
+GABAergic_Neuron,GABAergic_Neuron,SEMA4A_NRP1_PLXNA2,Sema4a  - (Nrp1+Plxna2),Sema4a,NRP1_PLXNA2,SEMA4,Cell-Cell Contact,0.0123557949523005,0.0,0.0138780764061499,0.01,0.0015222814538493994,ARC_ARH,False,Neuron_neuron
+Microglia,Microglia,OSM_LIFR_IL6ST,Osm  - (Lifr+Il6st),Osm,LIFR_IL6ST,OSM,Secreted Signaling,0.0,1.0,0.0014895551863456,0.0,0.0014895551863456,ARC_ARH,True,Microglia_autocrine
+Glutamatergic_Neuron,Glutamatergic_Neuron,EFNA3_EPHA4,Efna3  - Epha4,Efna3,Epha4,EPHA,Cell-Cell Contact,0.0,1.0,0.0014615629762222,0.0,0.0014615629762222,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,Microglia,THBS3_SDC4,Thbs3  - Sdc4,Thbs3,Sdc4,THBS,ECM-Receptor,0.0,1.0,0.0014446000770524,0.0,0.0014446000770524,ARC_ARH,True,Microglia_incoming
+GABAergic_Neuron,Glutamatergic_Neuron,NPY_NPY2R,Npy  - Npy2r,Npy,Npy2r,NPY,Secreted Signaling,0.0,1.0,0.001443534042788,0.0,0.001443534042788,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,GABAergic_Neuron,SEMA3A_NRP1_PLXNA1,Sema3a  - (Nrp1+Plxna1),Sema3a,NRP1_PLXNA1,SEMA3,Secreted Signaling,0.0014265150292016,0.0,0.0,1.0,-0.0014265150292016,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Microglia,LAMA1_ITGA9_ITGB1,Lama1  - (Itga9+Itgb1),Lama1,ITGA9_ITGB1,LAMININ,ECM-Receptor,0.0048311532866536,0.0,0.0034199797404366,0.0,-0.0014111735462169995,ARC_ARH,True,Microglia_incoming
+Glutamatergic_Neuron,Glutamatergic_Neuron,LAMA1_SV2C,Lama1  - Sv2c,Lama1,Sv2c,LAMININ,ECM-Receptor,0.0025930938632795,0.0,0.0039511428321727,0.0,0.0013580489688932002,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,Glutamatergic_Neuron,SST_SSTR2,Sst  - Sstr2,Sst,Sstr2,SOMATOSTATIN,Secreted Signaling,0.0013576302236455,0.0,0.0,1.0,-0.0013576302236455,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Microglia,LAMA1_ITGA6_ITGB1,Lama1  - (Itga6+Itgb1),Lama1,ITGA6_ITGB1,LAMININ,ECM-Receptor,0.0050205784251949,0.0,0.0037211107273896,0.0,-0.0012994676978052996,ARC_ARH,True,Microglia_incoming
+GABAergic_Neuron,GABAergic_Neuron,NPY_NPY1R,Npy  - Npy1r,Npy,Npy1r,NPY,Secreted Signaling,0.0,1.0,0.001288737397829,0.0,0.001288737397829,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,Glutamatergic_Neuron,EFNA3_EPHA4,Efna3  - Epha4,Efna3,Epha4,EPHA,Cell-Cell Contact,0.0,1.0,0.0012872080056916,0.01,0.0012872080056916,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Microglia,SEMA4A_PLXNB2,Sema4a  - Plxnb2,Sema4a,Plxnb2,SEMA4,Cell-Cell Contact,0.0317493637641064,0.0,0.0304855145062744,0.0,-0.0012638492578319997,ARC_ARH,True,Microglia_incoming
+GABAergic_Neuron,GABAergic_Neuron,NRXN2_NLGN3,Nrxn2  - Nlgn3,Nrxn2,Nlgn3,NRXN,Cell-Cell Contact,0.071303437716748,0.0,0.0724919264310584,0.0,0.00118848871431039,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,Glutamatergic_Neuron,GDF11_TGFBR1_ACVR2B,Gdf11  - (Tgfbr1+Acvr2b),Gdf11,TGFBR1_ACVR2B,GDF,Secreted Signaling,0.0011815960804997,0.03,0.0,1.0,-0.0011815960804997,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Glutamatergic_Neuron,POMC_MC3R,Pomc  - Mc3r,Pomc,Mc3r,MELANOCORTIN,Secreted Signaling,0.0014760909558663,0.0,0.0026505257481353,0.0,0.0011744347922690002,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,Microglia,JAG2_NOTCH2,Jag2  - Notch2,Jag2,Notch2,NOTCH,Cell-Cell Contact,0.0147789547816338,0.0,0.0136291936642293,0.0,-0.0011497611174045002,ARC_ARH,True,Microglia_incoming
+GABAergic_Neuron,Glutamatergic_Neuron,NRG2_ERBB4,Nrg2  - Erbb4,Nrg2,Erbb4,NRG,Secreted Signaling,0.0924086833276933,0.0,0.0912613431465298,0.0,-0.0011473401811634976,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Glutamatergic_Neuron,SEMA3A_NRP1_PLXNA1,Sema3a  - (Nrp1+Plxna1),Sema3a,NRP1_PLXNA1,SEMA3,Secreted Signaling,0.0011437761206012,0.0,0.0,1.0,-0.0011437761206012,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Microglia,IL34_CSF1R,Il34  - Csf1r,Il34,Csf1r,CSF,Secreted Signaling,0.0153491891481529,0.0,0.0142538049546679,0.0,-0.0010953841934850002,ARC_ARH,True,Microglia_incoming
+Glutamatergic_Neuron,GABAergic_Neuron,LAMB3_ITGA3_ITGB1,Lamb3  - (Itga3+Itgb1),Lamb3,ITGA3_ITGB1,LAMININ,ECM-Receptor,0.0009143735010528,0.0,0.0020020366868252,0.0,0.0010876631857724,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,GABAergic_Neuron,NRXN1_NLGN2,Nrxn1  - Nlgn2,Nrxn1,Nlgn2,NRXN,Cell-Cell Contact,0.152045089312658,0.01,0.150964529072466,0.0,-0.0010805602401920134,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,Microglia,TNXB_SDC4,Tnxb  - Sdc4,Tnxb,Sdc4,TENASCIN,ECM-Receptor,0.0,1.0,0.0010754574252789,0.0,0.0010754574252789,ARC_ARH,True,Microglia_incoming
+Glutamatergic_Neuron,Glutamatergic_Neuron,SEMA3A_NRP1_PLXNA3,Sema3a  - (Nrp1+Plxna3),Sema3a,NRP1_PLXNA3,SEMA3,Secreted Signaling,0.0010467249299979,0.0,0.0,1.0,-0.0010467249299979,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Glutamatergic_Neuron,LAMB3_ITGA3_ITGB1,Lamb3  - (Itga3+Itgb1),Lamb3,ITGA3_ITGB1,LAMININ,ECM-Receptor,0.0008916706578478,0.0,0.0019055077166883,0.0,0.0010138370588404998,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Microglia,COL2A1_ITGA9_ITGB1,Col2a1  - (Itga9+Itgb1),Col2a1,ITGA9_ITGB1,COLLAGEN,ECM-Receptor,0.0049681040101792,0.0,0.0039802360640027,0.0,-0.0009878679461765,ARC_ARH,True,Microglia_incoming
+Glutamatergic_Neuron,Microglia,BDNF_NTRK2,Bdnf  - Ntrk2,Bdnf,Ntrk2,NT,Secreted Signaling,0.0009579380359267,0.0,0.0,1.0,-0.0009579380359267,ARC_ARH,True,Microglia_incoming
+Glutamatergic_Neuron,GABAergic_Neuron,WNT4_FZD3_LRP6,Wnt4  - (Fzd3+Lrp6),Wnt4,FZD3_LRP6,WNT,Secreted Signaling,0.004629730593456,0.0,0.0036852191707,0.0,-0.0009445114227559998,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Glutamatergic_Neuron,LAMB3_ITGA6_ITGB1,Lamb3  - (Itga6+Itgb1),Lamb3,ITGA6_ITGB1,LAMININ,ECM-Receptor,0.0008818672632927,0.0,0.001823249563307,0.0,0.0009413823000143001,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Microglia,EFNA3_EPHA2,Efna3  - Epha2,Efna3,Epha2,EPHA,Cell-Cell Contact,0.0,1.0,0.0009198510236878,0.0,0.0009198510236878,ARC_ARH,True,Microglia_incoming
+Glutamatergic_Neuron,Microglia,LAMA1_DAG1,Lama1  - Dag1,Lama1,Dag1,LAMININ,ECM-Receptor,0.0,1.0,0.0008729326032963,0.02,0.0008729326032963,ARC_ARH,True,Microglia_incoming
+Glutamatergic_Neuron,Glutamatergic_Neuron,WNT4_FZD3_LRP6,Wnt4  - (Fzd3+Lrp6),Wnt4,FZD3_LRP6,WNT,Secreted Signaling,0.0039716468814984,0.0,0.003127131611473,0.02,-0.0008445152700254002,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,GABAergic_Neuron,NPY_GPR83,Npy  - Gpr83,Npy,Gpr83,NPY,Secreted Signaling,0.0,1.0,0.0008401879136654,0.0,0.0008401879136654,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,Microglia,EFNA3_EPHA2,Efna3  - Epha2,Efna3,Epha2,EPHA,Cell-Cell Contact,0.0,1.0,0.000810066345482,0.0,0.000810066345482,ARC_ARH,True,Microglia_incoming
+GABAergic_Neuron,GABAergic_Neuron,NPY_PGR15L,Npy  - Pgr15l,Npy,Pgr15l,NPY,Secreted Signaling,0.0,1.0,0.0008093278505644,0.0,0.0008093278505644,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,Glutamatergic_Neuron,EFNB2_EPHB1,Efnb2  - Ephb1,Efnb2,Ephb1,EPHB,Cell-Cell Contact,0.0,1.0,0.0007947169522655,0.01,0.0007947169522655,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,GABAergic_Neuron,SEMA3A_NRP1_PLXNA3,Sema3a  - (Nrp1+Plxna3),Sema3a,NRP1_PLXNA3,SEMA3,Secreted Signaling,0.0007943883125399,0.0,0.0,1.0,-0.0007943883125399,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Glutamatergic_Neuron,GAS6_TYRO3,Gas6  - Tyro3,Gas6,Tyro3,GAS,Secreted Signaling,0.0,1.0,0.00076252114278,0.0,0.00076252114278,ARC_ARH,False,Neuron_neuron
+Microglia,Microglia,DLK1_NOTCH1,Dlk1  - Notch1,Dlk1,Notch1,NOTCH,Cell-Cell Contact,0.0007247631630072,0.0,0.0,1.0,-0.0007247631630072,ARC_ARH,True,Microglia_autocrine
+Glutamatergic_Neuron,GABAergic_Neuron,SEMA4A_NRP1_PLXNA4,Sema4a  - (Nrp1+Plxna4),Sema4a,NRP1_PLXNA4,SEMA4,Cell-Cell Contact,0.0192135370926132,0.0,0.0184918086727803,0.01,-0.0007217284198329024,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Glutamatergic_Neuron,LAMB3_SV2B,Lamb3  - Sv2b,Lamb3,Sv2b,LAMININ,ECM-Receptor,0.0007128421800079,0.0,0.0,1.0,-0.0007128421800079,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Microglia,JAG2_NOTCH1,Jag2  - Notch1,Jag2,Notch1,NOTCH,Cell-Cell Contact,0.0039995805923221,0.0,0.0046840908460028,0.0,0.0006845102536806999,ARC_ARH,True,Microglia_incoming
+Microglia,Microglia,NAMPT_ITGA5_ITGB1,Nampt  - (Itga5+Itgb1),Nampt,ITGA5_ITGB1,VISFATIN,Secreted Signaling,0.0,1.0,0.0006784265778276,0.0,0.0006784265778276,ARC_ARH,True,Microglia_autocrine
+GABAergic_Neuron,GABAergic_Neuron,NPY_NPY5R,Npy  - Npy5r,Npy,Npy5r,NPY,Secreted Signaling,0.0,1.0,0.0006684427414432,0.0,0.0006684427414432,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,Glutamatergic_Neuron,GAS6_TYRO3,Gas6  - Tyro3,Gas6,Tyro3,GAS,Secreted Signaling,0.0,1.0,0.0006677863990099,0.0,0.0006677863990099,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,GABAergic_Neuron,COL2A1_ITGA11_ITGB1,Col2a1  - (Itga11+Itgb1),Col2a1,ITGA11_ITGB1,COLLAGEN,ECM-Receptor,0.0,1.0,0.0006654443563791,0.0,0.0006654443563791,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Glutamatergic_Neuron,LAMA1_SV2B,Lama1  - Sv2b,Lama1,Sv2b,LAMININ,ECM-Receptor,0.000595735231541,0.0,0.0,1.0,-0.000595735231541,ARC_ARH,False,Neuron_neuron
+Microglia,Glutamatergic_Neuron,GAS6_TYRO3,Gas6  - Tyro3,Gas6,Tyro3,GAS,Secreted Signaling,0.0,1.0,0.0005902913231124,0.0,0.0005902913231124,ARC_ARH,True,Microglia_outgoing
+Glutamatergic_Neuron,GABAergic_Neuron,LAMA1_SV2C,Lama1  - Sv2c,Lama1,Sv2c,LAMININ,ECM-Receptor,0.0020176274787114,0.0,0.0026020712020874,0.0,0.0005844437233759998,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,Glutamatergic_Neuron,SEMA6D_PLXNA1,Sema6d  - Plxna1,Sema6d,Plxna1,SEMA6,Cell-Cell Contact,0.0118577795717245,0.01,0.0124330077197469,0.0,0.0005752281480224004,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,Glutamatergic_Neuron,CNTN1_NRCAM,Cntn1  - Nrcam,Cntn1,Nrcam,CNTN,Cell-Cell Contact,0.15515034195591,0.0,0.155720576859914,0.0,0.0005702349040040133,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Microglia,GRN_SORT1,Grn  - Sort1,Grn,Sort1,GRN,Secreted Signaling,0.0032990725601548,0.0,0.003865319220759,0.0,0.0005662466606042001,ARC_ARH,True,Microglia_incoming
+Microglia,GABAergic_Neuron,OSM_LIFR_IL6ST,Osm  - (Lifr+Il6st),Osm,LIFR_IL6ST,OSM,Secreted Signaling,0.0,1.0,0.0005014165959233,0.0,0.0005014165959233,ARC_ARH,True,Microglia_outgoing
+Microglia,Glutamatergic_Neuron,OSM_LIFR_IL6ST,Osm  - (Lifr+Il6st),Osm,LIFR_IL6ST,OSM,Secreted Signaling,0.0,1.0,0.0004630605196946,0.0,0.0004630605196946,ARC_ARH,True,Microglia_outgoing
+GABAergic_Neuron,GABAergic_Neuron,SST_SSTR1,Sst  - Sstr1,Sst,Sstr1,SOMATOSTATIN,Secreted Signaling,0.0020612782507959,0.0,0.0024331483869124,0.0,0.0003718701361165003,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,GABAergic_Neuron,EFNA5_EPHA3,Efna5  - Epha3,Efna5,Epha3,EPHA,Cell-Cell Contact,0.0185988123223177,0.0,0.0182362535732277,0.0,-0.00036255874909000077,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,GABAergic_Neuron,LAMA1_SV2A,Lama1  - Sv2a,Lama1,Sv2a,LAMININ,ECM-Receptor,0.0061155746381783,0.0,0.0064674846490341,0.0,0.0003519100108558002,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,GABAergic_Neuron,LAMA1_SV2B,Lama1  - Sv2b,Lama1,Sv2b,LAMININ,ECM-Receptor,0.0003410154596698,0.0,0.0,1.0,-0.0003410154596698,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,Microglia,DLK1_NOTCH2,Dlk1  - Notch2,Dlk1,Notch2,NOTCH,Cell-Cell Contact,0.123007820632597,0.0,0.123323297417439,0.0,0.00031547678484199204,ARC_ARH,True,Microglia_incoming
+Glutamatergic_Neuron,GABAergic_Neuron,LAMC1_ITGA3_ITGB1,Lamc1  - (Itga3+Itgb1),Lamc1,ITGA3_ITGB1,LAMININ,ECM-Receptor,0.00328511905343,0.01,0.0035804494849524,0.0,0.0002953304315224002,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,Glutamatergic_Neuron,LAMC1_ITGA6_ITGB1,Lamc1  - (Itga6+Itgb1),Lamc1,ITGA6_ITGB1,LAMININ,ECM-Receptor,0.0029155472199699,0.0,0.0026342764343535,0.0,-0.0002812707856164002,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,GABAergic_Neuron,WNT4_FZD5_LRP6,Wnt4  - (Fzd5+Lrp6),Wnt4,FZD5_LRP6,WNT,Secreted Signaling,0.0012358726248465,0.0,0.0009720663739763,0.0,-0.00026380625087019994,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Glutamatergic_Neuron,WNT4_FZD5_LRP6,Wnt4  - (Fzd5+Lrp6),Wnt4,FZD5_LRP6,WNT,Secreted Signaling,0.001194444092591,0.0,0.0009378471209397,0.0,-0.0002565969716513,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,Microglia,GRN_SORT1,Grn  - Sort1,Grn,Sort1,GRN,Secreted Signaling,0.0030952851508991,0.0,0.0032789735598882,0.0,0.00018368840898909996,ARC_ARH,True,Microglia_incoming
+GABAergic_Neuron,Glutamatergic_Neuron,PROS1_TYRO3,Pros1  - Tyro3,Pros1,Tyro3,PROS,Secreted Signaling,0.0,1.0,0.0001762526537675,0.0,0.0001762526537675,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,GABAergic_Neuron,LAMA1_DAG1,Lama1  - Dag1,Lama1,Dag1,LAMININ,ECM-Receptor,0.0019510924965387,0.0,0.0017791256106724,0.0,-0.0001719668858663002,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,GABAergic_Neuron,SEMA4A_NRP1_PLXNA2,Sema4a  - (Nrp1+Plxna2),Sema4a,NRP1_PLXNA2,SEMA4,Cell-Cell Contact,0.0152984950286993,0.0,0.0154611036111877,0.0,0.00016260858248839938,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Glutamatergic_Neuron,PROS1_TYRO3,Pros1  - Tyro3,Pros1,Tyro3,PROS,Secreted Signaling,0.0,1.0,0.000159449529667,0.0,0.000159449529667,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,Microglia,JAG2_NOTCH1,Jag2  - Notch1,Jag2,Notch1,NOTCH,Cell-Cell Contact,0.0042816165803734,0.0,0.0041333768049233,0.0,-0.00014823977545009963,ARC_ARH,True,Microglia_incoming
+Glutamatergic_Neuron,GABAergic_Neuron,LAMC1_DAG1,Lamc1  - Dag1,Lamc1,Dag1,LAMININ,ECM-Receptor,0.0083547339630724,0.03,0.0084920429617989,0.0,0.0001373089987265,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,Microglia,IL34_CSF1R,Il34  - Csf1r,Il34,Csf1r,CSF,Secreted Signaling,0.0178164529105663,0.0,0.0176880507654523,0.0,-0.00012840214511400036,ARC_ARH,True,Microglia_incoming
+Microglia,GABAergic_Neuron,SEMA4C_PLXNB2,Sema4c  - Plxnb2,Sema4c,Plxnb2,SEMA4,Cell-Cell Contact,0.0007821345841065,0.0,0.000666647475188,0.02,-0.00011548710891850003,ARC_ARH,True,Microglia_outgoing
+GABAergic_Neuron,GABAergic_Neuron,EFNA3_EPHA5,Efna3  - Epha5,Efna3,Epha5,EPHA,Cell-Cell Contact,0.0059260453212849,0.0,0.0058111075801962,0.0,-0.00011493774108869981,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Microglia,COL2A1_SDC4,Col2a1  - Sdc4,Col2a1,Sdc4,COLLAGEN,ECM-Receptor,0.0010551957871309,0.0,0.0011548874991506,0.0,9.969171201969999e-05,ARC_ARH,True,Microglia_incoming
+Glutamatergic_Neuron,Glutamatergic_Neuron,COL2A1_ITGA11_ITGB1,Col2a1  - (Itga11+Itgb1),Col2a1,ITGA11_ITGB1,COLLAGEN,ECM-Receptor,0.0007493414639661,0.0,0.0008456982235155,0.0,9.635675954940007e-05,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Glutamatergic_Neuron,LAMC1_ITGA6_ITGB1,Lamc1  - (Itga6+Itgb1),Lamc1,ITGA6_ITGB1,LAMININ,ECM-Receptor,0.0031685994338086,0.0,0.0032611665659503,0.0,9.256713214169992e-05,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,GABAergic_Neuron,COL2A1_ITGA3_ITGB1,Col2a1  - (Itga3+Itgb1),Col2a1,ITGA3_ITGB1,COLLAGEN,ECM-Receptor,0.000785937648018,0.0,0.0008699831066771,0.0,8.40454586591e-05,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Glutamatergic_Neuron,LAMA1_DAG1,Lama1  - Dag1,Lama1,Dag1,LAMININ,ECM-Receptor,0.0018391599819742,0.0,0.0019191885742419,0.0,8.002859226769994e-05,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,GABAergic_Neuron,MPZL1_MPZL1,Mpzl1  - Mpzl1,Mpzl1,Mpzl1,MPZ,Cell-Cell Contact,0.0004865076314201,0.01,0.000411466249526,0.04,-7.504138189410003e-05,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,GABAergic_Neuron,EFNA3_EPHA3,Efna3  - Epha3,Efna3,Epha3,EPHA,Cell-Cell Contact,0.0006325463203509,0.0,0.0005709552645036,0.0,-6.159105584730004e-05,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Glutamatergic_Neuron,COL2A1_ITGA3_ITGB1,Col2a1  - (Itga3+Itgb1),Col2a1,ITGA3_ITGB1,COLLAGEN,ECM-Receptor,0.0007664212731526,0.0,0.0008279912516186,0.0,6.156997846599999e-05,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Glutamatergic_Neuron,SEMA5A_PLXNA3,Sema5a  - Plxna3,Sema5a,Plxna3,SEMA5,Cell-Cell Contact,0.0136928969348486,0.0,0.0136325058487919,0.0,-6.039108605670161e-05,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,GABAergic_Neuron,EFNA3_EPHA3,Efna3  - Epha3,Efna3,Epha3,EPHA,Cell-Cell Contact,0.0007077252631905,0.0,0.0006483553119611,0.0,-5.9369951229400024e-05,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Glutamatergic_Neuron,LAMA1_SV2A,Lama1  - Sv2a,Lama1,Sv2a,LAMININ,ECM-Receptor,0.0057389749792787,0.0,0.0057976920541109,0.0,5.871707483220013e-05,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Glutamatergic_Neuron,LAMA1_ITGA6_ITGB1,Lama1  - (Itga6+Itgb1),Lama1,ITGA6_ITGB1,LAMININ,ECM-Receptor,0.0007370130610567,0.0,0.000680393249205,0.0,-5.6619811851699956e-05,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,GABAergic_Neuron,SEMA4A_NRP1_PLXNA1,Sema4a  - (Nrp1+Plxna1),Sema4a,NRP1_PLXNA1,SEMA4,Cell-Cell Contact,0.0081121682036853,0.0,0.0081483054823715,0.01,3.613727868619944e-05,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,Glutamatergic_Neuron,LAMA1_ITGA3_ITGB1,Lama1  - (Itga3+Itgb1),Lama1,ITGA3_ITGB1,LAMININ,ECM-Receptor,0.0007452073656941,0.0,0.0007111267636868,0.01,-3.408060200730005e-05,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,GABAergic_Neuron,EFNA3_EPHA5,Efna3  - Epha5,Efna3,Epha5,EPHA,Cell-Cell Contact,0.0066261919857586,0.0,0.0065941881095502,0.0,-3.200387620840017e-05,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,GABAergic_Neuron,SST_SSTR2,Sst  - Sstr2,Sst,Sstr2,SOMATOSTATIN,Secreted Signaling,0.0019818535072536,0.0,0.0020084260847445,0.0,2.6572577490900032e-05,ARC_ARH,False,Neuron_neuron
+Glutamatergic_Neuron,GABAergic_Neuron,LAMA1_ITGA3_ITGB1,Lama1  - (Itga3+Itgb1),Lama1,ITGA3_ITGB1,LAMININ,ECM-Receptor,0.0007641839565585,0.0,0.0007471962290676,0.0,-1.6987727490900086e-05,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,Glutamatergic_Neuron,POMC_MC3R,Pomc  - Mc3r,Pomc,Mc3r,MELANOCORTIN,Secreted Signaling,0.0002157926092722,0.0,0.0002319739862707,0.01,1.6181376998500004e-05,ARC_ARH,False,Neuron_neuron
+GABAergic_Neuron,Glutamatergic_Neuron,NCAM1_FGFR1,Ncam1  - Fgfr1,Ncam1,Fgfr1,NCAM,Cell-Cell Contact,0.104622795054263,0.01,0.104626501813033,0.01,3.706758769997376e-06,ARC_ARH,False,Neuron_neuron
+Microglia,Glutamatergic_Neuron,SEMA4C_PLXNB2,Sema4c  - Plxnb2,Sema4c,Plxnb2,SEMA4,Cell-Cell Contact,0.000730884161254,0.0,0.0007285802667429,0.01,-2.303894511100006e-06,ARC_ARH,True,Microglia_outgoing

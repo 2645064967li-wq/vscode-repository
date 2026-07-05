@@ -1,0 +1,10 @@
+Var1,Var2,Freq
+GABAergic_Neuron,GABAergic_Neuron,42
+Glutamatergic_Neuron,GABAergic_Neuron,32
+Microglia,GABAergic_Neuron,5
+GABAergic_Neuron,Glutamatergic_Neuron,36
+Glutamatergic_Neuron,Glutamatergic_Neuron,25
+Microglia,Glutamatergic_Neuron,5
+GABAergic_Neuron,Microglia,23
+Glutamatergic_Neuron,Microglia,21
+Microglia,Microglia,14

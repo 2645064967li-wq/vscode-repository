@@ -1,0 +1,52 @@
+{
+  "region_definition": {
+    "ARC_ARH": [
+      733
+    ],
+    "PVN_PVH": [
+      720,
+      721,
+      722,
+      723,
+      724,
+      725,
+      726,
+      727,
+      728,
+      729,
+      730
+    ],
+    "DMH": [
+      739,
+      740,
+      741,
+      742
+    ]
+  },
+  "microglia_aliases": [
+    5283
+  ],
+  "metadata": {
+    "all_cells": 3938808,
+    "microglia_cells": 50192
+  },
+  "ccf": {
+    "all_rows": 3739961,
+    "microglia_matched": 48745
+  },
+  "donors": [
+    "C57BL6J-638850"
+  ],
+  "sexes": [
+    "M"
+  ],
+  "genotypes": [
+    "wt/wt"
+  ],
+  "selected_region_microglia": {
+    "ARC_ARH": 68,
+    "DMH": 29,
+    "PVN_PVH": 143
+  },
+  "expression_matrix_present": false
+}
